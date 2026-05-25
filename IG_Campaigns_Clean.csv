@@ -1,0 +1,61 @@
+Campaign_ID,Account,Objective,Start_Date,End_Date,Budget_INR,Influencer_Cost_INR,Agency_Fee_INR,Target_Age,Target_Gender,Placement,Creative_Theme,Product_SKU,Discount_Code,Expected_Leads,Client_Approval_Status,Notes,Total_Cost_INR,Duration_Days,Invalid_Date_Flag,Budget_Missing
+CAM-2510-001,CafeCanvas,Conversions,2025-10-28,2025-11-07,27474.0,11744,1374,24-35,ALL,Reels,Festive,Gift Card,,1800,Approved,Influencer post delayed,40592.0,10,False,False
+CAM-2508-002,ByteBazaar,Engagement,2025-08-23,2025-09-22,106885.0,9055,8551,All,ALL,Reels,UGC,Gift Card,,890,Approved,Tracking missing for 2 days,124491.0,30,False,False
+CAM-2507-003,GlowKart,Awareness,2025-07-02,2025-08-16,60776.0,5258,6078,25-34,Female,Reels,Behind the Scenes,Smart Lamp,GLO18,1558,Pending,Budget revised,72112.0,45,False,False
+CAM-2510-004,CafeCanvas,Traffic,2025-10-08,2025-10-15,82414.0,20563,9890,35-44,ALL,Stories,Behind the Scenes,Gift Card,GLO18,1308,Approved,Budget revised,112867.0,7,False,False
+CAM-2508-005,FitFuel India,Engagement,2025-08-06,2025-08-16,80823.0,13085,4041,35-44,Female,Feed,Meme,Protein Bar,FIT22,386,Approved,Influencer post delayed,97949.0,10,False,False
+CAM-2508-006,UrbanPaws,Conversions,2025-08-21,2025-10-05,75987.0,19692,7599,18-24,All,Explore,Before/After,Smart Lamp,URB13,838,Approved,,103278.0,45,False,False
+CAM-2510-007,FitFuel India,Awareness,2025-10-03,2025-10-17,14841.0,4232,742,25-34,All,Feed,Festive,Cold Brew,FIT33,322,Pending,Budget revised,19815.0,14,False,False
+CAM-2508-008,SareeStreet,Reach,2025-08-10,2025-09-24,14848.0,5918,742,18-34,Female,Mixed,Expert Tips,Serum A,SAR25,470,Approved,,21508.0,45,False,False
+CAM-2510-009,FitFuel India,Awareness,2025-10-28,2025-11-11,61990.0,26541,3100,18-24,All,Reels,Meme,Gift Card,FIT30,1170,Pending,Budget revised,91631.0,14,False,False
+CAM-2511-010,CafeCanvas,Reach,2025-11-19,2026-01-03,,1117,0,24-35,ALL,Feed,Influencer Review,Serum A,,351,Approved,Influencer post delayed,1117.0,45,False,True
+CAM-2509-011,SareeStreet,Awareness,2025-09-20,2025-10-20,4523.0,686,226,35-44,All,Mixed,Minimal,Cold Brew,SAR37,1135,Rejected,,5435.0,30,False,False
+CAM-2511-012,CafeCanvas,Awareness,2025-11-01,2025-11-15,65992.0,35925,6599,25-34,All,Feed,Expert Tips,Silk Saree,CAF37,1757,Rejected,Budget revised,108516.0,14,False,False
+CAM-2511-013,SareeStreet,Follower Growth,2025-11-10,2025-12-25,11476.0,5018,0,All,Female,Mixed,Before/After,Combo Pack,SAR32,553,Rejected,Influencer post delayed,16494.0,45,False,False
+CAM-2511-014,SareeStreet,Conversions,2025-11-09,2025-11-19,38168.0,6999,3817,18-34,Male,Explore,Before/After,Combo Pack,SAR20,1488,Pending,,48984.0,10,False,False
+CAM-2512-015,ByteBazaar,Conversions,2025-12-12,2025-12-26,4396.0,1136,220,18-24,Female,Mixed,Behind the Scenes,Smart Lamp,,325,Approved,Budget revised,5752.0,14,False,False
+CAM-2508-016,FitFuel India,Reach,2025-08-26,2025-09-16,52730.0,7745,4218,25-34,All,Reels,Behind the Scenes,Combo Pack,,388,Approved,Tracking missing for 2 days,64693.0,21,False,False
+CAM-2512-017,UrbanPaws,Reach,2025-12-06,2025-12-27,13283.0,6872,1328,35-44,Female,Reels,Minimal,Protein Bar,URB30,658,Pending,Influencer post delayed,21483.0,21,False,False
+CAM-2512-018,FitFuel India,Reach,2025-12-18,2026-01-17,23251.0,9810,1163,18-34,Male,Explore,UGC,Combo Pack,FIT20,580,Approved,Tracking missing for 2 days,34224.0,30,False,False
+CAM-2510-019,FitFuel India,Follower Growth,2025-10-23,2025-11-22,38306.0,12036,3064,24-35,ALL,Feed,Expert Tips,Silk Saree,FIT31,1712,Approved,Tracking missing for 2 days,53406.0,30,False,False
+CAM-2510-020,ByteBazaar,Traffic,2025-10-06,2025-11-05,19659.0,9478,983,All,All,Mixed,Expert Tips,Silk Saree,BYT29,1122,Approved,,30120.0,30,False,False
+CAM-2510-021,SareeStreet,Engagement,2025-10-08,2025-10-18,45448.0,21458,2272,18-34,ALL,Feed,Festive,Gift Card,,1405,Approved,Influencer post delayed,69178.0,10,False,False
+CAM-2508-022,ByteBazaar,Traffic,2025-08-03,2025-08-24,59919.0,13526,5992,24-35,Male,Reels,Festive,Dog Treats,BYT14,720,Pending,,79437.0,21,False,False
+CAM-2510-023,CafeCanvas,Follower Growth,2025-10-03,2025-10-24,19057.0,9350,1525,25-34,Female,Stories,Influencer Review,Combo Pack,,1719,Rejected,Budget revised,29932.0,21,False,False
+CAM-2508-024,ByteBazaar,Conversions,2025-08-07,2025-08-17,5283.0,1939,634,25-34,ALL,Explore,Expert Tips,Gift Card,BYT38,1594,Approved,Influencer post delayed,7856.0,10,False,False
+CAM-2511-025,CafeCanvas,Traffic,2025-11-06,2025-11-20,5679.0,560,681,35-44,Female,Explore,Influencer Review,Cold Brew,BYT38,120,Approved,Budget revised,6920.0,14,False,False
+CAM-2507-026,GlowKart,Follower Growth,2025-07-28,2025-08-04,9602.0,735,0,25-34,Female,Explore,Minimal,Dog Treats,GLO35,109,Approved,Budget revised,10337.0,7,False,False
+CAM-2508-027,FitFuel India,Follower Growth,2025-08-21,2025-10-05,6163.0,880,308,35-44,Female,Stories,Meme,Smart Lamp,FIT17,953,Approved,Influencer post delayed,7351.0,45,False,False
+CAM-2510-028,GlowKart,Reach,2025-10-20,2025-10-30,49855.0,14262,0,All,Male,Explore,Before/After,Combo Pack,GLO12,938,Approved,Tracking missing for 2 days,64117.0,10,False,False
+CAM-2509-029,SareeStreet,Awareness,2025-09-18,2025-10-18,5402.0,2268,648,25-34,All,Reels,Behind the Scenes,Combo Pack,SAR31,1632,Rejected,Budget revised,8318.0,30,False,False
+CAM-2507-030,UrbanPaws,Conversions,2025-07-06,2025-07-27,8854.0,1934,708,18-34,Female,Stories,Behind the Scenes,Dog Treats,URB36,377,Approved,Budget revised,11496.0,21,False,False
+CAM-2507-031,SareeStreet,Reach,2025-07-20,2025-08-19,30390.0,12783,0,18-34,Female,Reels,UGC,Silk Saree,,1391,Rejected,,43173.0,30,False,False
+CAM-2512-032,FitFuel India,Conversions,2025-12-07,2025-12-14,,13487,2199,All,Female,Explore,Influencer Review,Combo Pack,FIT12,593,Rejected,Influencer post delayed,15686.0,7,False,True
+CAM-2510-033,UrbanPaws,Awareness,2025-10-07,2025-10-14,4842.0,2455,387,25-34,All,Mixed,Festive,Combo Pack,URB30,1132,Pending,,7684.0,7,False,False
+CAM-2507-034,UrbanPaws,Reach,2025-07-14,2025-07-13,100259.0,28603,10026,18-24,All,Feed,Festive,Combo Pack,,1236,Rejected,Influencer post delayed,138888.0,-1,True,False
+CAM-2508-035,FitFuel India,Reach,2025-08-22,2025-10-06,47209.0,23919,0,18-34,Male,Mixed,Behind the Scenes,Cold Brew,FIT31,159,Approved,Budget revised,71128.0,45,False,False
+CAM-2511-036,SareeStreet,Traffic,2025-11-07,2025-11-21,29236.0,13565,0,18-24,Female,Reels,UGC,Serum A,SAR37,458,Rejected,Tracking missing for 2 days,42801.0,14,False,False
+CAM-2507-037,UrbanPaws,Engagement,2025-07-17,2025-08-31,32980.0,11994,0,18-24,Female,Feed,Behind the Scenes,Silk Saree,,88,Pending,Budget revised,44974.0,45,False,False
+CAM-2508-038,CafeCanvas,Engagement,2025-08-26,2025-10-10,,9889,1937,18-24,ALL,Feed,Meme,Combo Pack,CAF15,1443,Approved,Influencer post delayed,11826.0,45,False,True
+CAM-2509-039,GlowKart,Awareness,2025-09-18,2025-09-25,76408.0,6811,9169,All,All,Feed,UGC,Cold Brew,GLO19,884,Approved,Tracking missing for 2 days,92388.0,7,False,False
+CAM-2508-040,SareeStreet,Engagement,2025-08-07,2025-08-21,30852.0,15330,3702,24-35,All,Explore,Minimal,Protein Bar,SAR16,1499,Rejected,Tracking missing for 2 days,49884.0,14,False,False
+CAM-2511-041,SareeStreet,Awareness,2025-11-10,2025-12-01,10678.0,5678,1281,18-34,Male,Feed,Behind the Scenes,Dog Treats,SAR26,1480,Approved,Budget revised,17637.0,21,False,False
+CAM-2510-042,CafeCanvas,Follower Growth,2025-10-27,2025-11-06,4367.0,2086,524,35-44,ALL,Stories,Minimal,Serum A,CAF19,933,Approved,Influencer post delayed,6977.0,10,False,False
+CAM-2512-043,ByteBazaar,Traffic,2025-12-06,2025-12-16,32216.0,6042,1611,All,Male,Explore,Minimal,Dog Treats,,1051,Rejected,,39869.0,10,False,False
+CAM-2511-044,UrbanPaws,Traffic,2025-11-24,2026-01-08,43391.0,4984,2170,35-44,ALL,Reels,Influencer Review,Combo Pack,,431,Approved,Tracking missing for 2 days,50545.0,45,False,False
+CAM-2510-045,ByteBazaar,Engagement,2025-10-11,2025-10-18,61604.0,13269,0,35-44,Female,Reels,UGC,Combo Pack,,1357,Approved,Influencer post delayed,74873.0,7,False,False
+CAM-2508-046,GlowKart,Conversions,2025-08-24,2025-09-23,76462.0,36446,6117,25-34,Male,Reels,Before/After,Combo Pack,GLO17,1029,Pending,,119025.0,30,False,False
+CAM-2508-047,ByteBazaar,Awareness,2025-08-22,2025-09-21,5368.0,2039,644,All,Male,Mixed,Meme,Combo Pack,GLO17,1047,Rejected,Budget revised,8051.0,30,False,False
+CAM-2507-048,ByteBazaar,Traffic,2025-07-13,2025-08-03,40660.0,21965,3253,All,ALL,Reels,UGC,Dog Treats,BYT20,982,Rejected,Budget revised,65878.0,21,False,False
+CAM-2511-049,FitFuel India,Traffic,2025-11-30,2025-12-14,94069.0,10270,4703,All,ALL,Reels,Influencer Review,Dog Treats,FIT23,1623,Pending,Budget revised,109042.0,14,False,False
+CAM-2509-050,CafeCanvas,Engagement,2025-09-20,2025-10-04,13131.0,1088,1576,35-44,Female,Stories,Festive,Serum A,CAF11,1683,Approved,,15795.0,14,False,False
+CAM-2509-051,ByteBazaar,Engagement,2025-09-19,2025-10-03,34542.0,14316,3454,35-44,Male,Mixed,Festive,Smart Lamp,BYT22,788,Rejected,Influencer post delayed,52312.0,14,False,False
+CAM-2508-052,CafeCanvas,Awareness,2025-08-17,2025-10-01,12839.0,3310,1541,All,ALL,Feed,UGC,Serum A,CAF34,1219,Pending,Influencer post delayed,17690.0,45,False,False
+CAM-2511-053,GlowKart,Follower Growth,2025-11-06,2025-11-03,4450.0,388,222,35-44,Female,Mixed,Minimal,Cold Brew,GLO15,1775,Approved,Budget revised,5060.0,-3,True,False
+CAM-2510-054,UrbanPaws,Follower Growth,2025-10-02,2025-10-12,56992.0,5933,4559,35-44,ALL,Feed,Expert Tips,Cold Brew,URB11,596,Approved,Budget revised,67484.0,10,False,False
+CAM-2509-055,CafeCanvas,Follower Growth,2025-09-11,2025-09-21,52885.0,17680,6346,35-44,Female,Mixed,Behind the Scenes,Gift Card,CAF39,803,Rejected,Tracking missing for 2 days,76911.0,10,False,False
+CAM-2507-056,CafeCanvas,Awareness,2025-07-11,2025-07-25,80174.0,22972,4009,All,Male,Mixed,UGC,Smart Lamp,CAF10,139,Rejected,,107155.0,14,False,False
+CAM-2508-057,ByteBazaar,Follower Growth,2025-08-13,2025-09-12,13443.0,3244,1075,All,All,Mixed,Minimal,Dog Treats,BYT14,321,Approved,Influencer post delayed,17762.0,30,False,False
+CAM-2507-058,CafeCanvas,Conversions,2025-07-21,2025-09-04,79235.0,27197,7924,24-35,Female,Feed,Expert Tips,Dog Treats,CAF36,149,Approved,Influencer post delayed,114356.0,45,False,False
+CAM-2510-059,GlowKart,Traffic,2025-10-27,2025-12-11,9082.0,4615,727,25-34,All,Reels,Expert Tips,Silk Saree,GLO31,544,Approved,Influencer post delayed,14424.0,45,False,False
+CAM-2510-060,CafeCanvas,Traffic,2025-10-23,2025-10-21,68178.0,3688,0,24-35,Male,Mixed,Behind the Scenes,Dog Treats,CAF12,1504,Approved,Budget revised,71866.0,-2,True,False

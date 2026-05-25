@@ -1,0 +1,644 @@
+Post_ID,Account,Post_Date,Post_Time,Content_Type,Category,Caption_Length,Hashtag_Count,Mention_Count,Audio_Trend_Score,Collab_Flag,Campaign_ID,Boosted_Flag,Reach,Impressions,Likes,Comments,Saves,Shares,Profile_Visits,Follows,Link_Clicks,Ad_Spend_INR,Sentiment_Score,CTA,Country_Focus,Creator_Tier,Manual_Tag,Quality_Flag,Post_Month,Post_DayOfWeek,Engagement,Engagement_Rate,Save_Rate,Share_Rate
+PST-00001,CafeCanvas,2026-01-02,08:45,Static,Food,2109,21,4,49,Y,,No,8592,16145,276.0,7,21,8,333,18,173,0,0.76,DM us,IN,Nano,Retargeting,,2026-01,Friday,312.0,3.63,0.244,0.093
+PST-00002,FitFuel India,2026-01-26,TBD,Carousel,Fitness,550,24,5,6,,,No,9923,18691,371.0,17,98,26,162,18,73,0,0.58,DM us,India,Nano,Creator,,2026-01,Monday,512.0,5.16,0.988,0.262
+PST-00003,CafeCanvas,2025-07-27,13:00,Reel,Food,694,2,1,3,No,CAM-2509-050,No,7600,10399,161.0,4,39,19,191,47,97,0,0.93,DM us,India,Macro,Retargeting,,2025-07,Sunday,223.0,2.93,0.513,0.25
+PST-00004,GlowKart,2025-11-29,13:30,Reel,Beauty,1684,25,5,48,,,No,24386,50877,788.0,37,141,21,635,15,143,0,0.65,Tap to buy,IN,Mid,Test,Outlier,2025-11,Saturday,987.0,4.05,0.578,0.086
+PST-00005,FitFuel India,2025-07-10,20:45,Reel,Fitness,2077,15,1,91,Yes,,No,23992,10728,1069.0,15,210,79,142,35,62,0,0.15,No CTA,India,Brand Owned,High Intent,Check metrics,2025-07,Thursday,1373.0,5.72,0.875,0.329
+PST-00006,ByteBazaar,2026-01-07,20:45,Carousel,Tech,1110,15,5,42,No,CAM-2510-007,No,3539,6499,256.0,9,59,16,19,3,7,0,-0.82,Link in bio,India,Brand Owned,,,2026-01,Wednesday,340.0,9.61,1.667,0.452
+PST-00007,SareeStreet,2025-12-06,12:30,Reel,Fashion,1432,24,2,88,Yes,,No,17114,43609,890.0,40,139,28,150,30,14,0,0.24,Shop Now,India,Nano,Holiday,,2025-12,Saturday,1097.0,6.41,0.812,0.164
+PST-00008,UrbanPaws,2025-11-12,18:00,Reel,Pet Care,337,14,7,90,Yes,CAM-2510-045,Yes,18746,41877,870.0,29,156,34,122,14,12,2828,0.51,Link in bio,India,Micro,Retargeting,,2025-11,Wednesday,1089.0,5.81,0.832,0.181
+PST-00009,SareeStreet,2026-01-13,19:30,Story,Fashion,195,18,6,3,N,CAM-2510-001,Yes,16951,43859,258.0,12,57,28,632,151,267,1227,0.44,No CTA,IN,Mid,Test,,2026-01,Tuesday,355.0,2.09,0.336,0.165
+PST-00010,SareeStreet,2025-08-06,23:15,Reel,Fashion,928,28,7,56,Yes,CAM-2508-024,Yes,55468,73559,2696.0,181,485,160,1754,49,881,2653,0.74,Save for later,IN,Nano,Outlier,,2025-08,Wednesday,3522.0,6.35,0.874,0.288
+PST-00011,GlowKart,2025-12-17,12:00,Carousel,Beauty,1877,4,0,4,No,,No,5467,9910,371.0,29,59,48,187,35,53,0,-0.42,DM us,Global,Macro,Retargeting,,2025-12,Wednesday,507.0,9.27,1.079,0.878
+PST-00012,ByteBazaar,2025-07-06,09:05,Story,Tech,2192,13,5,69,No,CAM-2511-049,No,13990,15592,251.0,6,28,16,439,30,220,0,-0.46,Learn More,,Micro,Outlier,Missing UTMs,2025-07,Sunday,301.0,2.15,0.2,0.114
+PST-00013,GlowKart,2025-08-18,18:45,Reel,Beauty,2090,25,5,38,,,No,5836,6484,214.0,4,25,21,18,4,3,0,-0.73,No CTA,US,Mid,Outlier,,2025-08,Monday,264.0,4.52,0.428,0.36
+PST-00014,FitFuel India,2025-10-30,08:05,Story,Fitness,659,13,0,19,No,,No,3123,6609,73.0,4,11,3,40,6,1,0,0.31,Shop Now,US,Mid,,Missing UTMs,2025-10,Thursday,91.0,2.91,0.352,0.096
+PST-00015,SareeStreet,2025-07-20,12:00,Carousel,Fashion,2195,5,1,12,,,No,5251,11975,304.0,4,18,13,40,2,6,0,-0.07,Link in bio,India,Mid,,,2025-07,Sunday,339.0,6.46,0.343,0.248
+PST-00016,UrbanPaws,2025-11-10,13:30,Reel,Pet Care,1689,25,4,100,,,No,17404,34560,451.0,6,22,49,183,38,12,0,-0.78,Comment below,India,Macro,High Intent,Missing UTMs,2025-11,Monday,528.0,3.03,0.126,0.282
+PST-00017,FitFuel India,2025-10-10,17:30,Reel,Fitness,594,0,3,20,N,CAM-2510-028,Yes,43310,103765,2608.0,166,672,346,778,9,26,16778,0.46,Save for later,India,Mid,Outlier,,2025-10,Friday,3792.0,8.76,1.552,0.799
+PST-00018,UrbanPaws,2025-10-14,12:30,Carousel,Pet Care,24,28,6,67,No,,No,10630,19232,718.0,12,121,38,247,57,134,0,-0.6,Tap to buy,India,Macro,Outlier,Outlier,2025-10,Tuesday,889.0,8.36,1.138,0.357
+PST-00019,CafeCanvas,2025-08-12,20:30,Reel,Food,564,3,1,1,Yes,,No,5454,12707,286.0,18,19,49,186,14,31,0,0.79,Save for later,India,Mid,High Intent,,2025-08,Tuesday,372.0,6.82,0.348,0.898
+PST-00020,SareeStreet,2025-08-07,09:00,Reel,Fashion,1647,10,5,40,No,CAM-2512-043,Yes,18246,31148,809.0,14,207,61,440,60,117,4460,-0.76,Comment below,US,Macro,Holiday,,2025-08,Thursday,1091.0,5.98,1.134,0.334
+PST-00021,UrbanPaws,2025-09-24,22:30,Reel,Pet Care,1825,28,0,84,,,No,27172,56015,643.0,44,159,56,670,33,212,0,-0.46,Tap to buy,,Macro,High Intent,Possible duplicate,2025-09,Wednesday,902.0,3.32,0.585,0.206
+PST-00022,GlowKart,2025-10-05,08:30,Story,Beauty,617,13,4,100,No,,No,9135,16129,218.0,2,53,12,21,1,2,0,0.05,Comment below,US,Brand Owned,,Outlier,2025-10,Sunday,285.0,3.12,0.58,0.131
+PST-00023,ByteBazaar,2025-08-21,13:15,Reel,Tech,614,23,7,96,No,CAM-2508-057,No,16566,24673,845.0,9,81,42,175,15,43,0,0.48,No CTA,India,Micro,Holiday,Possible duplicate,2025-08,Thursday,977.0,5.9,0.489,0.254
+PST-00024,SareeStreet,2026-01-31,17:05,Reel,Fashion,1548,25,4,7,,,No,21993,33798,883.0,41,163,128,629,150,227,0,0.39,Tap to buy,Global,Macro,High Intent,,2026-01,Saturday,1215.0,5.52,0.741,0.582
+PST-00025,GlowKart,2025-08-24,19:00,Carousel,Beauty,1856,19,7,82,Y,,No,23355,38758,1100.0,66,180,45,126,11,23,0,0.68,Learn More,UAE,Mid,Test,Possible duplicate,2025-08,Sunday,1391.0,5.96,0.771,0.193
+PST-00026,GlowKart,2025-12-15,23:05,Carousel,Beauty,1595,11,3,47,N,CAM-2511-012,No,2348,3319,108.0,5,19,15,29,4,5,0,-0.61,No CTA,India,Macro,Outlier,,2025-12,Monday,147.0,6.26,0.809,0.639
+PST-00027,UrbanPaws,2025-11-08,12:30,Story,Pet Care,1440,15,6,0,Yes,,No,2681,3472,27.0,1,6,1,39,4,13,0,0.46,Tap to buy,,Mid,High Intent,,2025-11,Saturday,35.0,1.31,0.224,0.037
+PST-00028,SareeStreet,2025-11-02,22:30,Static,Fashion,45,27,7,8,No,CAM-2511-010,Yes,11873,30384,,14,40,14,118,24,50,16859,0.49,Shop Now,Global,Nano,Holiday,Check metrics,2025-11,Sunday,68.0,0.57,0.337,0.118
+PST-00029,UrbanPaws,2025-11-20,19:30,Reel,Pet Care,77,8,6,69,Yes,CAM-2508-040,No,44179,68467,,138,172,134,507,14,241,0,0.38,Save for later,Global,Micro,High Intent,,2025-11,Thursday,444.0,1.01,0.389,0.303
+PST-00030,CafeCanvas,2025-08-18,08:00,Carousel,Food,1882,15,0,12,N,,No,16215,21210,607.0,12,130,12,415,38,143,0,-0.37,Save for later,India,Macro,Outlier,Outlier,2025-08,Monday,761.0,4.69,0.802,0.074
+PST-00031,UrbanPaws,2025-10-27,18:15,Reel,Pet Care,527,6,1,50,Yes,,No,57559,73863,3336.0,178,862,427,1213,281,205,0,-0.22,Link in bio,India,Brand Owned,Holiday,,2025-10,Monday,4803.0,8.34,1.498,0.742
+PST-00032,FitFuel India,2025-12-02,08:05,Static,Fitness,1111,17,4,20,No,,No,5271,6463,177.0,1,13,20,112,1,6,0,-0.15,Comment below,UAE,Brand Owned,Outlier,Outlier,2025-12,Tuesday,211.0,4.0,0.247,0.379
+PST-00033,SareeStreet,2025-10-28,13:05,Story,Fashion,116,15,0,86,No,CAM-2507-031,Yes,4318,9020,91.0,2,20,10,55,5,8,18380,0.49,Link in bio,UAE,Micro,Retargeting,Missing UTMs,2025-10,Tuesday,123.0,2.85,0.463,0.232
+PST-00034,FitFuel India,2025-12-26,08:05,Static,Fitness,391,10,0,51,No,,No,15985,33280,494.0,11,94,47,147,2,7,0,-0.36,Link in bio,India,Brand Owned,,Check metrics,2025-12,Friday,646.0,4.04,0.588,0.294
+PST-00035,UrbanPaws,2025-09-08,08:05,Live,Pet Care,630,5,3,33,,,No,20194,25765,354.0,16,28,25,405,35,197,0,-0.17,Comment below,IN,Micro,Holiday,Check metrics,2025-09,Monday,423.0,2.09,0.139,0.124
+PST-00036,CafeCanvas,2025-10-11,23:15,Carousel,Food,1276,18,2,22,N,,No,3124,4275,198.0,2,41,34,99,1,25,0,-0.46,Link in bio,,Nano,Creator,,2025-10,Saturday,275.0,8.8,1.312,1.088
+PST-00037,CafeCanvas,2025-08-12,08:00,Reel,Food,98,27,4,71,No,CAM-2507-003,No,138118,220401,5901.0,300,907,164,1822,380,210,0,-0.65,Tap to buy,Global,Micro,Retargeting,Missing UTMs,2025-08,Tuesday,7272.0,5.27,0.657,0.119
+PST-00038,SareeStreet,2025-10-23,13:15,Live,Fashion,1302,25,3,67,Y,CAM-2510-009,Yes,13403,20061,239.0,17,39,36,96,2,5,2436,-0.65,DM us,India,Mid,Retargeting,,2025-10,Thursday,331.0,2.47,0.291,0.269
+PST-00039,ByteBazaar,2025-08-10,23:30,Static,Tech,722,23,4,68,No,,No,4817,10534,102.0,5,13,14,148,11,70,0,-0.08,Link in bio,,Nano,Creator,Missing UTMs,2025-08,Sunday,134.0,2.78,0.27,0.291
+PST-00040,CafeCanvas,2025-11-16,13:30,Carousel,Food,739,23,5,55,No,CAM-2511-012,Yes,9197,21590,250.0,18,60,30,90,3,5,6187,-0.5,Learn More,IN,Mid,Outlier,Check metrics,2025-11,Sunday,358.0,3.89,0.652,0.326
+PST-00041,SareeStreet,2025-12-10,23:45,Story,Fashion,1430,24,6,91,N,,No,7486,18334,70.0,3,8,11,67,8,5,0,0.43,Learn More,US,Micro,Test,,2025-12,Wednesday,92.0,1.23,0.107,0.147
+PST-00042,CafeCanvas,2025-10-13,18:45,Static,Food,172,0,1,42,N,CAM-2512-032,Yes,7588,12100,347.0,12,46,31,132,21,35,17614,-0.58,Comment below,Global,Brand Owned,High Intent,Outlier,2025-10,Monday,436.0,5.75,0.606,0.409
+PST-00043,SareeStreet,2026-01-04,18:15,Story,Fashion,476,20,4,90,No,,No,20717,40063,270.0,14,33,31,439,68,24,0,-0.67,Save for later,India,Brand Owned,Creator,,2026-01,Sunday,348.0,1.68,0.159,0.15
+PST-00044,GlowKart,2025-08-14,22:00,Story,Beauty,964,1,1,99,N,,No,16800,22312,136.0,10,37,9,160,39,71,0,0.58,Link in bio,India,Mid,Retargeting,,2025-08,Thursday,192.0,1.14,0.22,0.054
+PST-00045,SareeStreet,2026-01-04,20:45,Story,Fashion,1774,16,7,92,Y,,No,12949,33112,297.0,5,73,43,363,35,119,0,0.68,Shop Now,India,Macro,Outlier,,2026-01,Sunday,418.0,3.23,0.564,0.332
+PST-00046,UrbanPaws,2025-12-22,13:30,Story,Pet Care,1397,9,3,63,No,,No,1793,2163,41.0,0,3,4,62,10,32,0,-0.74,Comment below,India,Brand Owned,High Intent,,2025-12,Monday,48.0,2.68,0.167,0.223
+PST-00047,SareeStreet,2025-08-25,20:00,Carousel,Fashion,584,19,7,77,No,CAM-2509-011,No,16298,29385,1082.0,84,219,151,39,5,17,0,-0.82,Learn More,India,Micro,,Outlier,2025-08,Monday,1536.0,9.42,1.344,0.926
+PST-00048,ByteBazaar,2025-12-01,20:05,Reel,Tech,676,15,7,18,Yes,CAM-2509-029,Yes,68436,112879,3608.0,209,629,248,1955,297,786,-1648,-0.09,Save for later,UAE,Macro,Creator,Possible duplicate,2025-12,Monday,4694.0,6.86,0.919,0.362
+PST-00049,UrbanPaws,2025-12-13,23:30,Reel,Pet Care,1403,21,1,9,Y,,No,76275,100591,3644.0,184,597,85,184,13,46,0,0.81,No CTA,US,Macro,Test,Missing UTMs,2025-12,Saturday,4510.0,5.91,0.783,0.111
+PST-00050,ByteBazaar,2025-12-28,08:15,Reel,Tech,1307,28,4,82,Yes,CAM-2509-039,Yes,13810,15340,,51,80,92,508,81,84,9540,-0.47,Comment below,India,Mid,Retargeting,Check metrics,2025-12,Sunday,223.0,1.61,0.579,0.666
+PST-00051,ByteBazaar,2025-09-30,22:45,Reel,Tech,546,9,3,67,Yes,,No,4858,6499,115.0,5,19,4,83,12,14,0,0.66,DM us,India,Mid,Test,Check metrics,2025-09,Tuesday,143.0,2.94,0.391,0.082
+PST-00052,ByteBazaar,2026-01-08,17:15,Reel,Tech,116,26,2,39,N,,No,40883,97169,2218.0,82,397,147,1543,26,224,0,0.74,Save for later,Global,Brand Owned,Test,,2026-01,Thursday,2844.0,6.96,0.971,0.36
+PST-00053,UrbanPaws,2025-08-02,23:30,Reel,Pet Care,347,4,4,10,Y,CAM-2509-039,Yes,21325,41261,1054.0,52,259,187,375,7,180,15245,0.72,Tap to buy,India,Brand Owned,,Possible duplicate,2025-08,Saturday,1552.0,7.28,1.215,0.877
+PST-00054,ByteBazaar,2026-01-11,09:45,Carousel,Tech,1722,27,5,86,No,CAM-2507-026,Yes,82945,107646,2957.0,150,806,166,1685,337,462,19184,0.63,Link in bio,US,Nano,Retargeting,Outlier,2026-01,Sunday,4079.0,4.92,0.972,0.2
+PST-00055,GlowKart,2025-07-31,17:05,Story,Beauty,1141,24,6,23,No,,No,1746,3075,15.0,0,2,2,14,0,1,0,0.57,DM us,US,Mid,Creator,,2025-07,Thursday,19.0,1.09,0.115,0.115
+PST-00056,CafeCanvas,2025-10-10,23:00,Reel,Food,647,14,7,94,,,No,25478,66234,1477.0,89,286,101,391,70,83,0,0.59,Comment below,Global,Brand Owned,Creator,Possible duplicate,2025-10,Friday,1953.0,7.67,1.123,0.396
+PST-00057,SareeStreet,2026-01-07,TBD,Reel,Fashion,1596,13,4,71,Yes,CAM-2511-025,No,16053,29272,504.0,26,129,57,272,4,113,0,-0.64,Shop Now,,Mid,Outlier,,2026-01,Wednesday,716.0,4.46,0.804,0.355
+PST-00058,FitFuel India,2025-12-12,13:05,Story,Fitness,986,2,2,72,N,CAM-2510-004,No,4281,6044,101.0,3,12,14,138,22,53,0,0.38,No CTA,US,Macro,Retargeting,,2025-12,Friday,130.0,3.04,0.28,0.327
+PST-00059,GlowKart,2025-10-14,08:05,Carousel,Beauty,727,9,4,78,Yes,CAM-2511-044,Yes,8121,17736,496.0,29,131,16,123,5,15,13663,0.84,DM us,,Brand Owned,Outlier,,2025-10,Tuesday,672.0,8.27,1.613,0.197
+PST-00060,ByteBazaar,2025-10-01,13:05,Reel,Tech,1006,19,2,13,No,CAM-2508-005,Yes,15214,25697,570.0,17,66,34,230,22,56,7664,-0.6,Save for later,,Micro,High Intent,Outlier,2025-10,Wednesday,687.0,4.52,0.434,0.223
+PST-00061,FitFuel India,2025-11-01,17:45,Static,Fitness,496,7,2,17,,CAM-2511-036,No,9703,18119,167.0,9,44,23,82,13,41,0,0.01,Comment below,India,Mid,Retargeting,Missing UTMs,2025-11,Saturday,243.0,2.5,0.453,0.237
+PST-00062,CafeCanvas,2025-09-09,12:30,Story,Food,2178,24,6,76,Y,CAM-2509-050,Yes,9281,23135,109.0,8,18,9,53,11,17,14483,-0.1,Save for later,IN,Nano,Creator,Possible duplicate,2025-09,Tuesday,144.0,1.55,0.194,0.097
+PST-00063,GlowKart,2025-07-30,08:05,Reel,Beauty,213,18,5,16,No,,No,20812,32059,1206.0,26,71,200,576,99,180,0,-0.2,Save for later,India,Mid,Test,Outlier,2025-07,Wednesday,1503.0,7.22,0.341,0.961
+PST-00064,SareeStreet,2025-07-14,12:45,Reel,Fashion,1404,3,0,92,No,,No,12472,31247,277.0,10,14,39,181,17,29,0,0.03,Link in bio,,Macro,Holiday,Missing UTMs,2025-07,Monday,340.0,2.73,0.112,0.313
+PST-00065,FitFuel India,2026-01-28,18:15,Static,Fitness,861,4,1,85,No,,No,18353,38446,573.0,41,119,64,420,89,118,0,0.77,Save for later,US,Micro,Test,,2026-01,Wednesday,797.0,4.34,0.648,0.349
+PST-00066,FitFuel India,2025-10-24,09:05,Carousel,Fitness,231,21,3,71,No,,No,8378,18146,529.0,21,31,81,102,2,26,0,0.34,Tap to buy,IN,Mid,Retargeting,Outlier,2025-10,Friday,662.0,7.9,0.37,0.967
+PST-00067,ByteBazaar,2025-10-15,17:45,Carousel,Tech,392,11,4,30,,,No,5283,7713,322.0,19,70,47,19,4,5,0,0.47,Comment below,,Mid,High Intent,,2025-10,Wednesday,458.0,8.67,1.325,0.89
+PST-00068,GlowKart,2025-11-29,17:45,Static,Beauty,1031,12,4,80,Yes,,No,10766,25406,272.0,11,52,6,379,43,65,0,-0.45,Tap to buy,,Micro,Test,Possible duplicate,2025-11,Saturday,341.0,3.17,0.483,0.056
+PST-00069,SareeStreet,2025-12-14,22:00,Static,Fashion,1093,1,7,28,,,No,12845,28829,155.0,2,12,7,404,36,184,0,-0.14,Link in bio,UAE,Brand Owned,Creator,Outlier,2025-12,Sunday,176.0,1.37,0.093,0.054
+PST-00070,CafeCanvas,2025-11-07,23:05,Story,Food,868,12,1,74,N,,No,8150,20577,139.0,10,31,10,300,62,127,-2431,-0.54,Shop Now,UAE,Macro,Outlier,,2025-11,Friday,190.0,2.33,0.38,0.123
+PST-00071,GlowKart,2025-08-11,09:00,Live,Beauty,1024,1,3,72,Y,,No,5328,12668,69.0,0,12,6,92,1,17,0,0.7,Learn More,US,Micro,Test,Outlier,2025-08,Monday,87.0,1.63,0.225,0.113
+PST-00072,GlowKart,2026-01-02,12:45,Reel,Beauty,995,17,3,50,Yes,,No,34028,58185,1361.0,82,335,211,1024,83,405,0,0.84,No CTA,UAE,Macro,Holiday,,2026-01,Friday,1989.0,5.85,0.984,0.62
+PST-00073,ByteBazaar,2026-01-22,12:45,Story,Tech,895,0,3,80,No,,No,7044,17057,168.0,9,17,22,187,36,31,0,-0.51,Save for later,,Macro,Holiday,,2026-01,Thursday,216.0,3.07,0.241,0.312
+PST-00074,SareeStreet,2026-01-29,13:00,Story,Fashion,806,0,2,59,Yes,,No,7636,17478,132.0,6,29,3,114,24,40,0,-0.09,Learn More,UAE,Mid,Creator,Outlier,2026-01,Thursday,170.0,2.23,0.38,0.039
+PST-00075,FitFuel India,2025-11-07,20:15,Reel,Fitness,1773,14,4,63,No,CAM-2510-023,Yes,15926,22229,889.0,33,53,52,205,7,11,3232,-0.24,Tap to buy,Global,Micro,Creator,Check metrics,2025-11,Friday,1027.0,6.45,0.333,0.327
+PST-00076,SareeStreet,2026-01-28,08:00,Reel,Fashion,394,9,1,10,N,,No,30906,70050,1665.0,63,83,227,335,80,172,0,-0.8,Learn More,Global,Brand Owned,Creator,,2026-01,Wednesday,2038.0,6.59,0.269,0.734
+PST-00077,UrbanPaws,2025-08-05,20:05,Static,Pet Care,381,23,1,87,Y,,No,9726,14146,234.0,5,18,38,196,35,82,0,-0.23,Shop Now,IN,Macro,Test,,2025-08,Tuesday,295.0,3.03,0.185,0.391
+PST-00078,CafeCanvas,2026-01-24,23:30,Reel,Food,954,4,3,97,Yes,,No,27032,67290,1139.0,63,53,138,968,22,173,0,-0.5,Shop Now,India,Micro,Holiday,Possible duplicate,2026-01,Saturday,1393.0,5.15,0.196,0.511
+PST-00079,ByteBazaar,2025-10-08,23:00,Story,Tech,385,0,3,62,No,,No,52146,125842,2251.0,94,532,187,1648,69,750,0,-0.59,Link in bio,India,Brand Owned,Outlier,Possible duplicate,2025-10,Wednesday,3064.0,5.88,1.02,0.359
+PST-00080,CafeCanvas,2025-09-14,13:05,Static,Food,574,5,7,43,N,,No,8912,11491,149.0,10,10,16,103,22,39,0,0.24,Comment below,IN,Macro,Creator,Missing UTMs,2025-09,Sunday,185.0,2.08,0.112,0.18
+PST-00081,CafeCanvas,2026-01-22,18:00,Reel,Food,843,4,5,31,No,,No,3467,6182,119.0,6,22,17,64,9,1,0,-0.54,Tap to buy,,Nano,High Intent,Check metrics,2026-01,Thursday,164.0,4.73,0.635,0.49
+PST-00082,CafeCanvas,2025-12-28,23:05,Reel,Food,1794,0,2,1,N,CAM-2508-008,Yes,28146,70547,1214.0,41,155,144,831,58,420,12047,-0.75,Learn More,India,Mid,Outlier,,2025-12,Sunday,1554.0,5.52,0.551,0.512
+PST-00083,GlowKart,2025-10-29,22:05,Story,Beauty,2166,15,1,22,Y,,No,9223,10717,91.0,6,5,5,64,15,26,0,0.07,Tap to buy,India,Mid,High Intent,Possible duplicate,2025-10,Wednesday,107.0,1.16,0.054,0.054
+PST-00084,FitFuel India,2025-09-08,18:05,Story,Fitness,977,12,1,35,,CAM-2508-022,Yes,17132,30468,186.0,12,46,20,60,11,31,12459,0.48,Link in bio,US,Brand Owned,High Intent,,2025-09,Monday,264.0,1.54,0.269,0.117
+PST-00085,GlowKart,2026-01-24,19:05,Reel,Beauty,418,10,3,6,Yes,,No,13503,26009,443.0,31,54,70,403,35,104,0,0.17,Tap to buy,US,Nano,Retargeting,Missing UTMs,2026-01,Saturday,598.0,4.43,0.4,0.518
+PST-00086,ByteBazaar,2026-01-22,13:15,Reel,Tech,2126,7,4,75,N,CAM-2508-008,Yes,44197,65734,1988.0,90,528,205,1294,161,482,21045,-0.07,Learn More,UAE,Nano,Outlier,,2026-01,Thursday,2811.0,6.36,1.195,0.464
+PST-00087,ByteBazaar,2025-11-05,12:30,Reel,Tech,2018,5,6,80,Yes,,No,11552,26238,573.0,16,116,20,209,41,22,0,0.13,Learn More,,Micro,Creator,,2025-11,Wednesday,725.0,6.28,1.004,0.173
+PST-00088,FitFuel India,2025-09-21,23:45,Reel,Fitness,355,9,5,66,No,,No,11865,21190,694.0,36,46,26,168,30,54,0,0.62,Tap to buy,IN,Nano,Test,Possible duplicate,2025-09,Sunday,802.0,6.76,0.388,0.219
+PST-00089,FitFuel India,2025-12-09,20:05,Carousel,Fitness,1763,21,7,22,Y,,No,6047,11005,119.0,1,28,17,21,1,6,0,0.09,No CTA,Global,Mid,Holiday,Possible duplicate,2025-12,Tuesday,165.0,2.73,0.463,0.281
+PST-00090,CafeCanvas,2025-08-15,20:05,Story,Food,1307,25,1,99,Y,CAM-2511-025,Yes,8676,4872,99.0,5,15,17,306,6,69,18470,0.75,No CTA,India,Macro,Outlier,,2025-08,Friday,136.0,1.57,0.173,0.196
+PST-00091,UrbanPaws,2025-12-01,evening,Story,Pet Care,52,16,3,50,Y,,No,3792,9435,82.0,1,4,9,135,12,8,0,0.08,Shop Now,Global,Brand Owned,Retargeting,,2025-12,Monday,96.0,2.53,0.105,0.237
+PST-00092,GlowKart,2025-10-04,23:15,Reel,Beauty,242,1,0,44,Y,,No,8730,12334,407.0,27,60,36,54,2,8,0,0.11,Shop Now,,Macro,Test,,2025-10,Saturday,530.0,6.07,0.687,0.412
+PST-00093,FitFuel India,2025-11-07,09:00,Carousel,Fitness,1917,15,6,39,No,,No,10333,15284,382.0,15,84,33,87,5,42,0,-0.74,No CTA,India,Mid,High Intent,Check metrics,2025-11,Friday,514.0,4.97,0.813,0.319
+PST-00094,SareeStreet,2025-12-15,09:30,Carousel,Fashion,615,16,0,79,,,No,11011,27298,661.0,21,119,79,204,32,76,0,-0.83,Shop Now,India,Macro,Holiday,,2025-12,Monday,880.0,7.99,1.081,0.717
+PST-00095,SareeStreet,2025-07-05,23:30,Static,Fashion,1325,21,3,52,Yes,,No,4479,7774,98.0,1,4,5,37,2,14,0,-0.37,No CTA,India,Nano,Outlier,Possible duplicate,2025-07,Saturday,108.0,2.41,0.089,0.112
+PST-00096,FitFuel India,2025-09-02,18:30,Story,Fitness,805,1,4,23,Yes,CAM-2510-042,Yes,1200,1400,26.0,1,1,1,42,1,3,2069,0.56,Link in bio,Global,Mid,Creator,,2025-09,Tuesday,29.0,2.42,0.083,0.083
+PST-00097,CafeCanvas,2025-09-03,17:05,Reel,Food,892,0,5,49,N,,No,55268,134149,2005.0,110,369,112,1199,91,146,0,0.5,Comment below,IN,Brand Owned,Retargeting,Check metrics,2025-09,Wednesday,2596.0,4.7,0.668,0.203
+PST-00098,GlowKart,2025-09-26,20:45,Reel,Beauty,1006,14,4,37,Yes,CAM-2511-012,Yes,15395,16210,479.0,21,92,35,294,37,115,4029,-0.74,Comment below,India,Micro,Holiday,Possible duplicate,2025-09,Friday,627.0,4.07,0.598,0.227
+PST-00099,FitFuel India,2025-09-08,18:30,Static,Fitness,1007,13,4,6,No,,No,5877,13392,186.0,3,12,12,83,19,25,0,-0.09,Save for later,,Nano,,,2025-09,Monday,213.0,3.62,0.204,0.204
+PST-00100,GlowKart,2025-08-03,22:00,Reel,Beauty,2022,22,5,18,No,,No,24106,41134,1339.0,23,252,139,525,11,20,0,-0.05,Tap to buy,IN,Nano,Retargeting,Missing UTMs,2025-08,Sunday,1753.0,7.27,1.045,0.577
+PST-00101,CafeCanvas,2025-12-17,9pm,Carousel,Food,1056,10,2,51,N,,No,26791,49923,772.0,10,167,136,703,26,134,0,0.82,DM us,Global,Brand Owned,Holiday,,2025-12,Wednesday,1085.0,4.05,0.623,0.508
+PST-00102,CafeCanvas,2025-08-26,20:00,Story,Food,458,18,2,97,No,CAM-2509-051,No,7616,12442,,6,16,19,190,11,40,0,0.36,Learn More,Global,Macro,Holiday,Outlier,2025-08,Tuesday,41.0,0.54,0.21,0.249
+PST-00103,ByteBazaar,2025-10-26,18:05,Reel,Tech,1337,22,1,12,Yes,,No,12502,21783,539.0,31,137,92,429,91,130,0,-0.01,Tap to buy,US,Brand Owned,,,2025-10,Sunday,799.0,6.39,1.096,0.736
+PST-00104,UrbanPaws,2025-11-20,17:00,Carousel,Pet Care,1219,21,2,19,,,No,14338,30752,943.0,54,255,135,301,31,9,0,-0.82,Tap to buy,UAE,Mid,Holiday,Outlier,2025-11,Thursday,1387.0,9.67,1.778,0.942
+PST-00105,GlowKart,2025-12-08,22:30,Story,Beauty,1135,16,0,65,No,,No,6924,7860,146.0,4,12,9,252,15,30,0,0.86,Comment below,India,Mid,Retargeting,Possible duplicate,2025-12,Monday,171.0,2.47,0.173,0.13
+PST-00106,UrbanPaws,2025-12-06,20:05,Carousel,Pet Care,1411,11,4,79,No,,No,35581,71039,2363.0,74,243,111,523,18,206,0,0.11,Shop Now,,Brand Owned,Creator,,2025-12,Saturday,2791.0,7.84,0.683,0.312
+PST-00107,CafeCanvas,2025-12-11,20:45,Carousel,Food,501,24,0,7,,,No,23102,33294,660.0,28,178,42,499,14,273,0,0.77,Tap to buy,US,Macro,Test,,2025-12,Thursday,908.0,3.93,0.77,0.182
+PST-00108,SareeStreet,2025-10-05,17:15,Story,Fashion,804,24,6,89,No,,No,8931,21698,187.0,5,11,6,42,1,5,0,0.03,Learn More,IN,Brand Owned,Retargeting,,2025-10,Sunday,209.0,2.34,0.123,0.067
+PST-00109,UrbanPaws,2026-01-11,22:30,Static,Pet Care,1174,2,3,42,No,,No,10324,22820,256.0,18,41,26,323,78,52,-2354,0.1,Shop Now,UAE,Macro,Test,Possible duplicate,2026-01,Sunday,341.0,3.3,0.397,0.252
+PST-00110,ByteBazaar,2025-07-04,17:05,Reel,Tech,1800,2,7,28,N,,No,24055,61763,799.0,39,38,112,918,181,93,0,-0.08,Link in bio,US,Macro,,,2025-07,Friday,988.0,4.11,0.158,0.466
+PST-00111,FitFuel India,2025-10-14,17:00,Reel,Fitness,341,22,2,76,N,CAM-2510-001,Yes,35757,52348,2168.0,122,561,108,728,174,25,19890,0.2,No CTA,Global,Micro,Creator,Outlier,2025-10,Tuesday,2959.0,8.28,1.569,0.302
+PST-00112,GlowKart,2025-07-04,17:30,Reel,Beauty,480,2,5,53,No,,No,29424,34784,1137.0,25,206,138,128,28,27,0,0.24,Tap to buy,India,Mid,Creator,,2025-07,Friday,1506.0,5.12,0.7,0.469
+PST-00113,SareeStreet,2025-12-02,23:30,Story,Fashion,215,13,3,94,Yes,,No,8976,15098,177.0,6,46,14,77,6,2,0,0.74,Link in bio,,Mid,Creator,Possible duplicate,2025-12,Tuesday,243.0,2.71,0.512,0.156
+PST-00114,SareeStreet,2025-11-13,19:45,Story,Fashion,571,23,4,85,Yes,,No,4385,5312,71.0,3,2,1,47,6,17,0,-0.67,Learn More,US,Micro,Creator,,2025-11,Thursday,77.0,1.76,0.046,0.023
+PST-00115,GlowKart,2025-07-07,08:45,Story,Beauty,158,24,2,36,,,No,4241,5840,82.0,1,22,3,144,19,32,0,0.33,Shop Now,US,Brand Owned,Creator,Outlier,2025-07,Monday,108.0,2.55,0.519,0.071
+PST-00116,SareeStreet,2025-10-01,23:00,Reel,Fashion,895,11,0,62,Yes,,No,29002,36333,1731.0,114,173,256,497,30,122,0,0.31,Shop Now,IN,Brand Owned,,,2025-10,Wednesday,2274.0,7.84,0.597,0.883
+PST-00117,FitFuel India,2025-07-25,22:45,Carousel,Fitness,837,23,7,14,Yes,,No,5128,7562,218.0,12,29,22,21,4,3,0,-0.3,Learn More,India,Macro,Test,,2025-07,Friday,281.0,5.48,0.566,0.429
+PST-00118,ByteBazaar,2025-09-27,22:05,Carousel,Tech,1269,7,0,77,No,,No,3624,8652,119.0,2,31,12,78,12,20,0,-0.59,No CTA,US,Micro,,Possible duplicate,2025-09,Saturday,164.0,4.53,0.855,0.331
+PST-00120,FitFuel India,2025-09-26,23:00,Reel,Fitness,92,22,0,19,,CAM-2511-053,No,6219,15614,227.0,10,28,34,60,4,27,0,0.34,DM us,,Nano,Holiday,Outlier,2025-09,Friday,299.0,4.81,0.45,0.547
+PST-00121,SareeStreet,2025-12-14,12:05,Reel,Fashion,1152,25,0,14,,,No,13929,35082,660.0,18,67,29,446,38,93,0,0.85,No CTA,India,Brand Owned,,Outlier,2025-12,Sunday,774.0,5.56,0.481,0.208
+PST-00122,GlowKart,2025-07-02,23:30,Story,Beauty,1362,9,4,56,No,CAM-2510-009,Yes,16557,41189,143.0,3,11,13,253,2,75,23511,-0.26,Save for later,US,Macro,Test,Possible duplicate,2025-07,Wednesday,170.0,1.03,0.066,0.079
+PST-00123,ByteBazaar,2025-09-04,13:45,Story,Tech,1833,13,2,3,N,,No,5396,13552,54.0,2,5,6,188,34,75,0,-0.06,Link in bio,US,Mid,Outlier,,2025-09,Thursday,67.0,1.24,0.093,0.111
+PST-00124,CafeCanvas,2025-08-05,18:30,Static,Food,2074,9,1,85,No,,No,19595,24501,532.0,18,55,68,450,10,164,0,0.73,Comment below,IN,Micro,Test,,2025-08,Tuesday,673.0,3.43,0.281,0.347
+PST-00125,SareeStreet,2025-12-08,22:30,Reel,Fashion,1516,7,1,9,No,,No,17999,31706,739.0,37,57,129,172,12,77,0,-0.67,DM us,Global,Mid,Retargeting,Possible duplicate,2025-12,Monday,962.0,5.34,0.317,0.717
+PST-00126,SareeStreet,2025-12-24,23:30,Story,Fashion,1265,21,4,11,Yes,CAM-2510-033,No,2566,4353,52.0,1,6,6,52,8,12,0,-0.46,Tap to buy,US,Brand Owned,Retargeting,Outlier,2025-12,Wednesday,65.0,2.53,0.234,0.234
+PST-00127,SareeStreet,2025-08-19,08:05,Carousel,Fashion,732,23,6,70,No,,No,18136,24535,1210.0,27,319,46,314,76,65,0,-0.4,No CTA,India,Macro,Holiday,Missing UTMs,2025-08,Tuesday,1602.0,8.83,1.759,0.254
+PST-00128,FitFuel India,2025-12-25,18:45,Reel,Fitness,391,19,0,82,No,CAM-2509-011,Yes,39442,55958,1211.0,39,274,111,1478,323,591,8178,-0.11,Learn More,UAE,Nano,Outlier,Missing UTMs,2025-12,Thursday,1635.0,4.15,0.695,0.281
+PST-00129,GlowKart,2025-09-20,13:05,Static,Beauty,1564,10,4,64,N,,No,6275,8851,173.0,13,23,7,105,14,10,0,-0.11,No CTA,US,Macro,Creator,,2025-09,Saturday,216.0,3.44,0.367,0.112
+PST-00130,CafeCanvas,2025-12-19,13:30,Reel,Food,165,20,1,15,,,No,44937,100965,1075.0,84,200,175,462,71,84,0,-0.36,Tap to buy,UAE,Macro,Creator,,2025-12,Friday,1534.0,3.41,0.445,0.389
+PST-00131,CafeCanvas,2026-01-27,22:05,Static,Food,1079,10,3,81,No,,No,3848,6921,79.0,2,4,12,63,15,1,0,-0.23,Shop Now,US,Brand Owned,,Check metrics,2026-01,Tuesday,97.0,2.52,0.104,0.312
+PST-00132,CafeCanvas,2025-07-26,12:30,Reel,Food,1396,4,2,82,Yes,,No,28456,67887,1040.0,61,216,86,191,4,23,0,-0.69,No CTA,,Mid,,Missing UTMs,2025-07,Saturday,1403.0,4.93,0.759,0.302
+PST-00133,SareeStreet,2025-09-04,08:45,Carousel,Fashion,1168,20,0,64,No,,No,6715,16973,485.0,18,109,27,14,0,4,0,-0.66,DM us,Global,Micro,Outlier,Outlier,2025-09,Thursday,639.0,9.52,1.623,0.402
+PST-00134,FitFuel India,2025-08-27,18:30,Reel,Fitness,80,0,5,42,,,No,8439,11903,505.0,25,117,81,317,54,119,0,0.15,DM us,India,Mid,Creator,Possible duplicate,2025-08,Wednesday,728.0,8.63,1.386,0.96
+PST-00135,GlowKart,2025-12-04,23:15,Reel,Beauty,720,0,1,41,No,CAM-2508-027,Yes,76867,86437,3110.0,62,423,124,1771,23,864,16133,-0.65,Tap to buy,IN,Micro,High Intent,,2025-12,Thursday,3719.0,4.84,0.55,0.161
+PST-00136,GlowKart,2025-08-12,13:00,Reel,Beauty,1625,7,2,20,,,No,24456,55854,1444.0,75,186,75,419,87,106,0,-0.54,Comment below,Global,Nano,Holiday,Missing UTMs,2025-08,Tuesday,1780.0,7.28,0.761,0.307
+PST-00137,ByteBazaar,2025-07-28,09:00,Reel,Tech,1059,17,4,98,N,CAM-2507-003,Yes,20563,41464,960.0,41,232,87,164,40,82,-2402,0.71,Comment below,US,Micro,,Possible duplicate,2025-07,Monday,1320.0,6.42,1.128,0.423
+PST-00138,FitFuel India,2025-09-24,23:30,Reel,Fitness,1060,0,1,74,,CAM-2510-042,Yes,42997,23168,2464.0,179,539,157,1605,251,55,21326,-0.84,Learn More,India,Brand Owned,,Missing UTMs,2025-09,Wednesday,3339.0,7.77,1.254,0.365
+PST-00139,GlowKart,2025-11-04,22:45,Carousel,Beauty,1643,16,1,57,No,,No,35194,90974,803.0,35,45,143,649,115,264,0,0.65,Tap to buy,US,Micro,Test,Outlier,2025-11,Tuesday,1026.0,2.92,0.128,0.406
+PST-00140,ByteBazaar,2025-11-30,12:00,Static,Tech,245,17,1,56,No,,No,6849,8814,89.0,1,6,8,26,5,12,0,-0.19,Comment below,India,Mid,,Outlier,2025-11,Sunday,104.0,1.52,0.088,0.117
+PST-00141,FitFuel India,2025-07-29,08:05,Story,Fitness,1040,19,3,49,Yes,,No,4888,9514,82.0,3,17,2,189,8,66,0,0.1,Save for later,India,Micro,Creator,Missing UTMs,2025-07,Tuesday,104.0,2.13,0.348,0.041
+PST-00142,CafeCanvas,2025-11-13,TBD,Reel,Food,611,28,0,61,Yes,CAM-2508-057,Yes,27206,52077,612.0,20,45,84,942,217,443,1419,-0.67,Shop Now,India,Mid,Outlier,Possible duplicate,2025-11,Thursday,761.0,2.8,0.165,0.309
+PST-00143,FitFuel India,2025-11-15,12:00,Story,Fitness,294,1,1,67,,,No,2594,6355,41.0,1,7,3,11,1,4,0,0.55,Save for later,US,Brand Owned,,,2025-11,Saturday,52.0,2.0,0.27,0.116
+PST-00144,CafeCanvas,2025-12-22,08:15,Reel,Food,547,15,2,38,Yes,,No,19364,44686,1062.0,54,248,149,398,93,98,0,-0.63,Save for later,US,Mid,Holiday,Outlier,2025-12,Monday,1513.0,7.81,1.281,0.769
+PST-00145,SareeStreet,2025-08-26,08:05,Reel,Fashion,256,28,0,43,Yes,CAM-2509-029,Yes,12131,15080,402.0,29,59,8,145,26,24,4299,0.42,Tap to buy,India,Mid,Outlier,Possible duplicate,2025-08,Tuesday,498.0,4.11,0.486,0.066
+PST-00146,FitFuel India,2025-09-17,20:15,Carousel,Fitness,1692,3,1,11,N,,No,14378,15119,667.0,35,58,67,210,18,57,0,0.72,Tap to buy,US,Nano,Test,Missing UTMs,2025-09,Wednesday,827.0,5.75,0.403,0.466
+PST-00147,FitFuel India,2026-01-20,13:45,Reel,Fitness,1681,19,4,63,Yes,,No,8159,15375,317.0,14,63,34,199,37,100,0,-0.6,No CTA,Global,Mid,Retargeting,Outlier,2026-01,Tuesday,428.0,5.25,0.772,0.417
+PST-00148,GlowKart,2025-11-15,13:05,Reel,Beauty,409,18,5,50,Y,CAM-2512-043,Yes,28353,38866,1469.0,33,227,258,375,91,43,18616,0.9,Learn More,,Brand Owned,Holiday,Check metrics,2025-11,Saturday,1987.0,7.01,0.801,0.91
+PST-00149,ByteBazaar,2025-07-18,08:00,Reel,Tech,1172,27,5,7,Y,CAM-2510-054,No,11228,20759,475.0,5,56,16,382,87,153,0,0.88,Save for later,IN,Micro,Holiday,Possible duplicate,2025-07,Friday,552.0,4.92,0.499,0.143
+PST-00150,ByteBazaar,2025-12-29,08:00,Reel,Tech,2180,27,0,34,Y,CAM-2507-037,Yes,20720,21768,654.0,24,56,90,325,65,176,1460,-0.65,Save for later,India,Brand Owned,Retargeting,,2025-12,Monday,824.0,3.98,0.27,0.434
+PST-00151,SareeStreet,2025-08-11,17:05,Story,Fashion,1772,4,7,20,No,,No,4125,8524,41.0,0,9,4,71,9,22,0,-0.45,Tap to buy,India,Macro,Outlier,Check metrics,2025-08,Monday,54.0,1.31,0.218,0.097
+PST-00152,UrbanPaws,2026-01-28,22:05,Story,Pet Care,1250,10,4,66,Yes,CAM-2510-059,Yes,28353,65596,648.0,14,90,114,703,136,106,18098,0.14,No CTA,US,Macro,High Intent,Check metrics,2026-01,Wednesday,866.0,3.05,0.317,0.402
+PST-00153,FitFuel India,2026-01-04,22:30,Reel,Fitness,1639,1,4,43,No,,No,7549,15477,352.0,14,40,30,59,12,20,0,0.14,Tap to buy,India,Mid,,Outlier,2026-01,Sunday,436.0,5.78,0.53,0.397
+PST-00154,ByteBazaar,2025-07-17,18:30,Carousel,Tech,1592,12,4,13,No,,No,2898,5941,212.0,9,23,35,97,14,50,0,0.45,Tap to buy,Global,Macro,High Intent,,2025-07,Thursday,279.0,9.63,0.794,1.208
+PST-00155,ByteBazaar,2025-11-18,18:15,Carousel,Tech,1038,13,7,34,N,CAM-2508-024,No,5072,7879,206.0,8,13,32,158,25,58,0,-0.78,Save for later,India,Micro,Test,Outlier,2025-11,Tuesday,259.0,5.11,0.256,0.631
+PST-00156,ByteBazaar,2026-01-15,22:00,Reel,Tech,1747,4,4,80,No,CAM-2509-039,Yes,6996,13514,169.0,3,22,27,155,17,47,5869,-0.51,Comment below,IN,Mid,Retargeting,,2026-01,Thursday,221.0,3.16,0.314,0.386
+PST-00157,FitFuel India,2026-01-22,08:05,Reel,Fitness,1169,25,2,34,No,,No,59580,84956,2184.0,72,164,177,2092,143,287,0,0.72,Link in bio,US,Mid,Retargeting,,2026-01,Thursday,2597.0,4.36,0.275,0.297
+PST-00158,ByteBazaar,2025-11-30,13:15,Static,Tech,1729,14,6,19,No,,No,11239,13265,157.0,5,30,12,83,2,44,0,-0.33,DM us,UAE,Nano,Outlier,,2025-11,Sunday,204.0,1.82,0.267,0.107
+PST-00159,FitFuel India,2025-09-01,08:45,Reel,Fitness,544,6,2,68,No,CAM-2507-034,Yes,37949,94994,973.0,11,40,66,259,28,9,8410,0.85,No CTA,US,Nano,Retargeting,Outlier,2025-09,Monday,1090.0,2.87,0.105,0.174
+PST-00160,FitFuel India,2025-10-11,22:30,Reel,Fitness,2137,22,3,96,N,CAM-2510-023,Yes,5656,8404,148.0,1,35,24,18,4,6,2734,-0.25,Shop Now,Global,Brand Owned,Test,Missing UTMs,2025-10,Saturday,208.0,3.68,0.619,0.424
+PST-00161,UrbanPaws,2025-10-07,23:15,Static,Pet Care,970,9,2,70,No,CAM-2510-054,Yes,6754,14524,150.0,11,10,14,232,48,51,13051,0.86,Learn More,US,Micro,Creator,,2025-10,Tuesday,185.0,2.74,0.148,0.207
+PST-00162,CafeCanvas,2026-01-12,08:45,Static,Food,1516,26,1,8,N,,No,4107,9454,85.0,4,5,11,32,6,12,0,-0.08,No CTA,India,Brand Owned,Outlier,Check metrics,2026-01,Monday,105.0,2.56,0.122,0.268
+PST-00163,UrbanPaws,2025-07-27,17:30,Static,Pet Care,1533,13,7,32,No,,No,10467,13388,206.0,12,32,7,397,15,54,0,-0.28,Learn More,US,Macro,Holiday,Missing UTMs,2025-07,Sunday,257.0,2.46,0.306,0.067
+PST-00164,UrbanPaws,2025-09-04,17:15,Carousel,Pet Care,2084,3,4,26,Yes,CAM-2512-018,Yes,14431,20546,520.0,8,107,15,129,28,46,8835,0.35,Link in bio,India,Micro,Retargeting,Outlier,2025-09,Thursday,650.0,4.5,0.741,0.104
+PST-00165,SareeStreet,2025-09-16,08:30,Carousel,Fashion,1013,4,0,20,Yes,CAM-2509-050,Yes,33273,35545,2445.0,91,281,244,857,138,287,15075,-0.41,Tap to buy,India,Mid,Creator,Missing UTMs,2025-09,Tuesday,3061.0,9.2,0.845,0.733
+PST-00166,SareeStreet,2026-01-05,18:45,Reel,Fashion,1034,16,4,97,Yes,,No,101081,187013,4251.0,47,444,279,2172,87,774,0,0.21,Shop Now,India,Mid,Outlier,Check metrics,2026-01,Monday,5021.0,4.97,0.439,0.276
+PST-00167,UrbanPaws,2025-11-26,17:00,Story,Pet Care,89,16,5,60,Y,CAM-2507-056,Yes,5121,9869,83.0,5,8,7,53,10,11,17112,0.67,Shop Now,India,Micro,Creator,,2025-11,Wednesday,103.0,2.01,0.156,0.137
+PST-00168,CafeCanvas,2025-12-27,13:15,Static,Food,400,9,2,74,No,CAM-2508-024,Yes,19124,39586,515.0,5,132,47,745,169,366,11578,-0.11,Comment below,India,Macro,,Outlier,2025-12,Saturday,699.0,3.66,0.69,0.246
+PST-00169,ByteBazaar,2025-09-22,22:30,Reel,Tech,1578,5,6,98,No,CAM-2509-050,Yes,12729,22689,471.0,23,47,29,230,33,43,10253,0.5,Shop Now,,Mid,Holiday,Check metrics,2025-09,Monday,570.0,4.48,0.369,0.228
+PST-00170,FitFuel India,2025-07-20,18:05,Carousel,Fitness,1602,1,1,14,,,No,15536,17975,476.0,21,52,66,191,7,6,0,-0.78,Comment below,IN,Macro,Outlier,Outlier,2025-07,Sunday,615.0,3.96,0.335,0.425
+PST-00171,FitFuel India,2026-01-31,08:15,Static,Fitness,334,0,7,16,,,No,7721,20020,213.0,11,17,28,235,23,95,0,-0.22,DM us,US,Brand Owned,Outlier,Possible duplicate,2026-01,Saturday,269.0,3.48,0.22,0.363
+PST-00172,ByteBazaar,2025-08-16,20:05,Reel,Tech,193,19,7,53,Yes,,No,16007,33142,687.0,17,79,22,459,62,184,0,0.4,Link in bio,IN,Macro,Creator,,2025-08,Saturday,805.0,5.03,0.494,0.137
+PST-00173,FitFuel India,2025-12-03,12:05,Story,Fitness,108,26,2,93,No,,No,5400,11587,84.0,1,5,12,154,12,50,0,0.11,Save for later,IN,Mid,Retargeting,,2025-12,Wednesday,102.0,1.89,0.093,0.222
+PST-00174,ByteBazaar,2026-01-22,17:30,Carousel,Tech,1284,9,5,6,N,CAM-2508-006,No,8532,17103,396.0,17,94,51,130,8,31,0,-0.41,Save for later,Global,Mid,,Outlier,2026-01,Thursday,558.0,6.54,1.102,0.598
+PST-00175,CafeCanvas,2025-10-24,09:15,Reel,Food,983,14,3,78,No,,No,29670,38077,615.0,25,151,32,161,7,57,0,0.12,Shop Now,India,Mid,Creator,Outlier,2025-10,Friday,823.0,2.77,0.509,0.108
+PST-00176,FitFuel India,2025-09-08,18:30,Story,Fitness,1930,1,3,43,Y,,No,7181,16847,85.0,6,21,6,23,1,7,0,-0.66,Learn More,UAE,Mid,Test,Check metrics,2025-09,Monday,118.0,1.64,0.292,0.084
+PST-00177,CafeCanvas,2025-11-07,13:15,Story,Food,2107,6,1,36,N,,No,2855,3479,57.0,1,5,6,81,19,43,0,-0.27,Save for later,US,Mid,,,2025-11,Friday,69.0,2.42,0.175,0.21
+PST-00178,ByteBazaar,2025-07-21,20:05,Story,Tech,572,10,3,43,,,No,5740,13249,134.0,7,22,14,216,15,30,0,0.67,Shop Now,India,Macro,Retargeting,,2025-07,Monday,177.0,3.08,0.383,0.244
+PST-00179,FitFuel India,2025-12-15,12:30,Static,Fitness,1055,19,2,82,No,,No,12604,30365,144.0,7,35,21,86,5,16,0,0.81,No CTA,IN,Brand Owned,Retargeting,,2025-12,Monday,207.0,1.64,0.278,0.167
+PST-00180,UrbanPaws,2025-08-24,17:15,Reel,Pet Care,1171,20,0,78,N,,No,23026,41876,955.0,56,151,47,271,20,51,0,-0.18,Learn More,IN,Mid,Outlier,Possible duplicate,2025-08,Sunday,1209.0,5.25,0.656,0.204
+PST-00181,CafeCanvas,2025-09-14,18:00,Story,Food,99,27,2,55,Yes,CAM-2507-037,Yes,17437,20753,312.0,23,68,25,600,19,139,16294,-0.6,Save for later,Global,Mid,High Intent,Outlier,2025-09,Sunday,428.0,2.45,0.39,0.143
+PST-00182,ByteBazaar,2025-07-03,17:45,Reel,Tech,883,22,2,1,N,,No,3358,7807,86.0,3,12,14,78,7,2,0,0.0,Learn More,UAE,Micro,Retargeting,Check metrics,2025-07,Thursday,115.0,3.42,0.357,0.417
+PST-00183,GlowKart,2025-11-18,13:00,Static,Beauty,651,25,6,77,N,CAM-2511-025,Yes,6879,9553,166.0,12,33,13,100,21,3,6294,-0.25,Link in bio,India,Brand Owned,Creator,Check metrics,2025-11,Tuesday,224.0,3.26,0.48,0.189
+PST-00184,CafeCanvas,2025-10-01,23:30,Static,Food,1019,15,2,52,N,CAM-2507-026,Yes,9585,18850,121.0,4,8,19,224,53,12,17161,-0.8,Shop Now,India,Micro,Test,Missing UTMs,2025-10,Wednesday,152.0,1.59,0.083,0.198
+PST-00185,GlowKart,2025-08-27,17:45,Reel,Beauty,1314,2,1,76,No,CAM-2511-049,Yes,32842,78825,1281.0,17,196,96,999,161,486,12022,-0.4,Tap to buy,IN,Mid,Creator,Check metrics,2025-08,Wednesday,1590.0,4.84,0.597,0.292
+PST-00186,GlowKart,2025-09-22,09:00,Reel,Beauty,1271,9,4,37,No,CAM-2508-024,Yes,32741,71263,1703.0,26,136,78,119,27,62,7336,0.09,Shop Now,India,Mid,Test,,2025-09,Monday,1943.0,5.93,0.415,0.238
+PST-00187,GlowKart,2025-11-07,09:05,Story,Beauty,67,9,7,52,N,,No,7306,18495,83.0,5,15,7,237,19,11,0,0.55,Comment below,UAE,Macro,Holiday,Possible duplicate,2025-11,Friday,110.0,1.51,0.205,0.096
+PST-00188,UrbanPaws,2025-10-11,18:00,Story,Pet Care,312,19,3,62,Yes,CAM-2509-050,No,4629,8104,50.0,1,13,1,159,29,71,0,0.56,No CTA,India,Macro,Test,Missing UTMs,2025-10,Saturday,65.0,1.4,0.281,0.022
+PST-00189,ByteBazaar,2025-09-19,12:05,Story,Tech,2055,17,3,36,No,CAM-2507-058,Yes,12559,20145,215.0,13,19,29,102,3,29,3289,0.06,Link in bio,UAE,Macro,Creator,Possible duplicate,2025-09,Friday,276.0,2.2,0.151,0.231
+PST-00190,GlowKart,2025-10-13,20:00,Story,Beauty,1323,18,4,37,,,No,21825,26794,279.0,5,75,36,589,93,218,0,0.49,Shop Now,US,Micro,Test,,2025-10,Monday,395.0,1.81,0.344,0.165
+PST-00191,GlowKart,2025-11-21,22:15,Static,Beauty,565,11,5,23,N,,No,4100,5206,48.0,1,6,1,157,14,27,0,-0.85,Comment below,India,Macro,Holiday,Missing UTMs,2025-11,Friday,56.0,1.37,0.146,0.024
+PST-00192,GlowKart,2025-12-22,20:45,Live,Beauty,104,4,1,50,No,,No,26237,57769,325.0,12,30,34,570,133,71,0,0.46,Comment below,US,Macro,Test,,2025-12,Monday,401.0,1.53,0.114,0.13
+PST-00193,UrbanPaws,2025-08-16,08:15,Reel,Pet Care,847,22,7,67,No,,No,34004,78547,885.0,33,142,152,1018,81,124,0,0.49,Link in bio,India,Macro,Outlier,Possible duplicate,2025-08,Saturday,1212.0,3.56,0.418,0.447
+PST-00194,ByteBazaar,2025-07-04,20:45,Reel,Tech,783,0,7,42,,,No,11192,15741,391.0,22,86,26,404,9,94,0,0.09,Save for later,IN,Macro,Creator,Outlier,2025-07,Friday,525.0,4.69,0.768,0.232
+PST-00195,FitFuel India,2026-01-18,20:05,Story,Fitness,2145,16,5,74,Yes,,No,8948,19492,112.0,3,22,14,146,33,19,0,0.49,Tap to buy,Global,Mid,High Intent,,2026-01,Sunday,151.0,1.69,0.246,0.156
+PST-00196,SareeStreet,2025-08-19,22:05,Carousel,Fashion,1814,2,0,48,Y,,No,12884,16634,717.0,33,138,59,73,8,21,0,0.61,Learn More,UAE,Mid,,Outlier,2025-08,Tuesday,947.0,7.35,1.071,0.458
+PST-00197,FitFuel India,2026-01-18,20:45,Story,Fitness,48,12,1,59,Y,,No,9870,24206,138.0,4,26,5,206,32,15,0,0.64,Tap to buy,India,Brand Owned,Test,,2026-01,Sunday,173.0,1.75,0.263,0.051
+PST-00198,ByteBazaar,2025-11-02,18:45,Reel,Tech,647,12,2,81,Yes,,No,19571,31867,578.0,7,124,23,122,5,31,0,-0.76,No CTA,India,Nano,Retargeting,,2025-11,Sunday,732.0,3.74,0.634,0.118
+PST-00199,CafeCanvas,2025-11-01,20:30,Reel,Food,794,18,6,88,N,,No,13046,22105,289.0,18,71,30,302,8,124,0,0.25,DM us,India,Brand Owned,Test,,2025-11,Saturday,408.0,3.13,0.544,0.23
+PST-00200,GlowKart,2025-08-09,08:30,Story,Beauty,158,27,7,12,N,CAM-2510-023,Yes,19335,31229,275.0,10,35,47,756,106,150,9831,0.6,Save for later,UAE,Nano,,Outlier,2025-08,Saturday,367.0,1.9,0.181,0.243
+PST-00201,CafeCanvas,2025-07-18,09:15,Carousel,Food,1420,24,0,45,,CAM-2510-060,No,2651,5376,123.0,5,15,6,55,3,6,0,-0.84,Save for later,IN,Brand Owned,High Intent,Check metrics,2025-07,Friday,149.0,5.62,0.566,0.226
+PST-00202,SareeStreet,2025-08-20,20:05,Story,Fashion,1106,6,3,87,Y,CAM-2510-019,Yes,7741,14399,113.0,2,22,16,198,16,42,4649,-0.13,Learn More,US,Mid,Outlier,Possible duplicate,2025-08,Wednesday,153.0,1.98,0.284,0.207
+PST-00203,CafeCanvas,2025-07-06,17:45,Story,Food,1054,7,7,98,No,,No,7684,19424,134.0,3,25,19,144,19,12,0,-0.77,DM us,Global,Nano,Outlier,Outlier,2025-07,Sunday,181.0,2.36,0.325,0.247
+PST-00204,SareeStreet,2025-09-27,09:05,Story,Fashion,252,17,3,93,No,,No,1564,2810,27.0,1,2,0,29,1,4,0,-0.25,Tap to buy,India,Brand Owned,Creator,Outlier,2025-09,Saturday,30.0,1.92,0.128,0.0
+PST-00205,CafeCanvas,2025-11-15,09:05,Carousel,Food,1740,10,2,71,Yes,,No,6061,14483,232.0,3,45,29,85,16,29,0,0.64,No CTA,IN,Micro,Creator,,2025-11,Saturday,309.0,5.1,0.742,0.478
+PST-00206,FitFuel India,2025-11-05,9pm,Story,Fitness,1303,11,4,63,No,CAM-2511-049,No,3333,8641,50.0,0,2,6,118,7,50,0,0.58,Shop Now,Global,Mid,Holiday,,2025-11,Wednesday,58.0,1.74,0.06,0.18
+PST-00207,UrbanPaws,2025-07-06,12:45,Story,Pet Care,60,18,5,35,No,,No,6062,5454,121.0,5,32,17,100,8,15,0,0.83,Link in bio,UAE,Brand Owned,Retargeting,Outlier,2025-07,Sunday,175.0,2.89,0.528,0.28
+PST-00208,ByteBazaar,2025-07-26,17:45,Story,Tech,2020,3,7,25,,,No,18585,45688,722.0,30,198,118,595,74,82,0,-0.78,Shop Now,US,Brand Owned,High Intent,Check metrics,2025-07,Saturday,1068.0,5.75,1.065,0.635
+PST-00209,FitFuel India,2025-07-25,19:00,Reel,Fitness,498,9,6,86,No,,No,17815,36526,963.0,36,224,158,600,149,251,0,0.9,Learn More,India,Macro,Retargeting,,2025-07,Friday,1381.0,7.75,1.257,0.887
+PST-00210,FitFuel India,2025-09-11,09:45,Story,Fitness,904,7,2,20,N,,No,12620,26047,245.0,5,43,26,369,43,94,0,0.86,Learn More,India,Nano,High Intent,,2025-09,Thursday,319.0,2.53,0.341,0.206
+PST-00211,FitFuel India,2025-08-08,17:45,Reel,Fitness,1785,15,6,41,No,CAM-2508-052,Yes,18042,37677,421.0,30,46,30,682,97,54,5763,-0.67,Shop Now,US,Brand Owned,Holiday,,2025-08,Friday,527.0,2.92,0.255,0.166
+PST-00212,FitFuel India,2025-12-02,17:00,Story,Fitness,223,1,6,4,Yes,CAM-2509-011,No,5650,9654,116.0,3,26,11,160,29,15,0,0.05,Shop Now,India,Brand Owned,Test,Missing UTMs,2025-12,Tuesday,156.0,2.76,0.46,0.195
+PST-00213,GlowKart,2025-07-04,22:15,Reel,Beauty,670,9,5,40,Y,,No,23168,35170,1298.0,69,294,48,407,58,184,0,0.46,Comment below,Global,Brand Owned,High Intent,Possible duplicate,2025-07,Friday,1709.0,7.38,1.269,0.207
+PST-00214,SareeStreet,2025-09-30,13:00,Reel,Fashion,991,7,3,2,No,CAM-2508-002,No,5758,11854,237.0,12,32,23,54,12,6,0,0.0,Link in bio,US,Mid,High Intent,Possible duplicate,2025-09,Tuesday,304.0,5.28,0.556,0.399
+PST-00215,UrbanPaws,2026-01-08,22:30,Story,Pet Care,1766,1,7,47,N,,No,7000,8849,143.0,3,24,5,60,7,24,0,0.45,Learn More,Global,Nano,,Check metrics,2026-01,Thursday,175.0,2.5,0.343,0.071
+PST-00216,UrbanPaws,2025-08-11,19:00,Reel,Pet Care,1444,6,4,28,N,,No,39488,49728,2327.0,63,200,369,1309,166,51,0,0.83,Comment below,US,Mid,Outlier,Missing UTMs,2025-08,Monday,2959.0,7.49,0.506,0.934
+PST-00217,FitFuel India,2025-12-07,17:45,Carousel,Fitness,1678,21,6,84,Yes,,No,2956,3369,98.0,7,21,10,24,4,10,0,0.52,Link in bio,India,Micro,Creator,Missing UTMs,2025-12,Sunday,136.0,4.6,0.71,0.338
+PST-00218,FitFuel India,2025-08-18,09:45,Reel,Fitness,1165,13,6,76,,,No,8043,13095,267.0,7,45,7,175,34,43,0,-0.27,Save for later,US,Nano,,Outlier,2025-08,Monday,326.0,4.05,0.559,0.087
+PST-00219,CafeCanvas,2025-12-17,20:00,Reel,Food,1333,21,4,64,N,,No,134504,200619,2934.0,35,680,314,2977,398,876,0,0.12,Tap to buy,US,Brand Owned,Holiday,Possible duplicate,2025-12,Wednesday,3963.0,2.95,0.506,0.233
+PST-00220,CafeCanvas,2025-11-26,17:45,Story,Food,829,9,3,67,No,,No,9380,22434,182.0,11,39,13,276,7,72,-2416,-0.18,Save for later,Global,Nano,Outlier,Possible duplicate,2025-11,Wednesday,245.0,2.61,0.416,0.139
+PST-00221,UrbanPaws,2026-01-01,08:05,Carousel,Pet Care,591,14,0,41,Yes,,No,31285,53084,1535.0,42,117,266,582,20,43,0,-0.4,Link in bio,Global,Micro,Creator,Check metrics,2026-01,Thursday,1960.0,6.26,0.374,0.85
+PST-00222,GlowKart,2025-08-04,13:05,Static,Beauty,680,12,0,28,,CAM-2509-029,Yes,12824,13603,250.0,19,43,37,171,26,38,24148,-0.81,Comment below,India,Nano,Retargeting,,2025-08,Monday,349.0,2.72,0.335,0.289
+PST-00223,SareeStreet,2025-10-28,12:00,Story,Fashion,2150,16,3,69,Yes,,No,2674,4224,49.0,3,12,5,33,0,3,0,0.94,Link in bio,Global,Macro,Holiday,,2025-10,Tuesday,69.0,2.58,0.449,0.187
+PST-00224,SareeStreet,2026-01-10,13:45,Reel,Fashion,743,10,2,21,N,CAM-2508-046,Yes,14026,29494,413.0,15,107,55,253,41,12,585,-0.01,DM us,UAE,Nano,High Intent,,2026-01,Saturday,590.0,4.21,0.763,0.392
+PST-00225,SareeStreet,2025-11-13,19:15,Story,Fashion,1205,3,2,73,No,,No,9183,12888,156.0,1,14,11,350,56,21,0,-0.3,Link in bio,IN,Micro,,,2025-11,Thursday,182.0,1.98,0.152,0.12
+PST-00226,GlowKart,2025-12-10,08:05,Carousel,Beauty,1502,14,1,20,No,,No,9524,24590,446.0,9,105,39,168,27,89,0,-0.32,Tap to buy,US,Micro,Holiday,,2025-12,Wednesday,599.0,6.29,1.102,0.409
+PST-00227,GlowKart,2025-11-28,17:15,Story,Beauty,1136,17,4,78,Yes,CAM-2509-050,Yes,4897,9194,62.0,1,16,10,14,0,3,5871,-0.63,Save for later,India,Nano,Test,Outlier,2025-11,Friday,89.0,1.82,0.327,0.204
+PST-00228,SareeStreet,2025-08-24,19:45,Reel,Fashion,1363,3,1,15,Y,CAM-2511-010,Yes,33243,36830,1454.0,61,145,129,1300,252,179,9890,0.0,Comment below,,Micro,High Intent,,2025-08,Sunday,1789.0,5.38,0.436,0.388
+PST-00229,SareeStreet,2025-10-09,17:30,Reel,Fashion,953,10,1,71,Y,,No,18332,26452,1058.0,46,125,64,195,38,64,0,0.26,No CTA,India,Macro,Holiday,,2025-10,Thursday,1293.0,7.05,0.682,0.349
+PST-00230,SareeStreet,2025-07-18,13:00,Reel,Fashion,1925,14,4,98,No,CAM-2508-057,Yes,13398,24324,490.0,22,38,48,393,27,198,14757,0.81,Link in bio,,Brand Owned,High Intent,Check metrics,2025-07,Friday,598.0,4.46,0.284,0.358
+PST-00231,ByteBazaar,2025-11-04,12:30,Story,Tech,1332,5,3,97,No,CAM-2510-054,Yes,16565,28027,334.0,19,68,56,107,17,20,14664,-0.76,Learn More,India,Mid,,,2025-11,Tuesday,477.0,2.88,0.411,0.338
+PST-00233,SareeStreet,2026-01-13,18:45,Reel,Fashion,270,7,2,7,No,,No,16836,31308,454.0,31,98,68,536,117,178,0,-0.65,Save for later,India,Brand Owned,High Intent,Missing UTMs,2026-01,Tuesday,651.0,3.87,0.582,0.404
+PST-00234,SareeStreet,2025-07-02,23:45,Story,Fashion,393,3,2,65,N,,No,9345,22731,88.0,6,13,11,352,55,42,0,0.88,Shop Now,India,Micro,Retargeting,Outlier,2025-07,Wednesday,118.0,1.26,0.139,0.118
+PST-00235,FitFuel India,2025-10-16,13:45,Reel,Fitness,875,23,1,11,N,CAM-2508-016,Yes,35639,64360,1381.0,69,110,71,1287,123,38,21775,0.78,DM us,IN,Mid,Holiday,,2025-10,Thursday,1631.0,4.58,0.309,0.199
+PST-00236,CafeCanvas,2025-09-30,12:05,Static,Food,2132,23,3,93,,CAM-2511-025,Yes,4808,9244,80.0,3,11,2,181,40,10,22727,-0.55,Shop Now,India,Mid,,,2025-09,Tuesday,96.0,2.0,0.229,0.042
+PST-00237,GlowKart,2025-10-02,13:00,Reel,Beauty,881,23,3,52,N,,No,4498,6592,141.0,6,33,3,14,1,3,0,-0.37,No CTA,UAE,Mid,Creator,Possible duplicate,2025-10,Thursday,183.0,4.07,0.734,0.067
+PST-00238,ByteBazaar,2026-01-20,13:05,Carousel,Tech,1861,4,3,75,Y,,No,14388,27742,651.0,18,46,76,393,27,60,0,-0.35,Link in bio,India,Brand Owned,,,2026-01,Tuesday,791.0,5.5,0.32,0.528
+PST-00239,FitFuel India,2025-08-10,09:15,Static,Fitness,296,7,6,80,,,No,8030,19785,236.0,11,59,9,44,1,20,0,-0.31,DM us,,Macro,Retargeting,,2025-08,Sunday,315.0,3.92,0.735,0.112
+PST-00240,SareeStreet,2025-07-04,17:30,Static,Fashion,1606,9,0,91,Yes,,No,3411,4434,66.0,1,13,4,92,11,37,0,-0.54,Save for later,,Brand Owned,,Check metrics,2025-07,Friday,84.0,2.46,0.381,0.117
+PST-00241,SareeStreet,2025-07-07,20:15,Carousel,Fashion,1132,19,1,93,,CAM-2509-029,Yes,22478,28998,892.0,67,72,41,147,6,53,13325,-0.27,Link in bio,,Macro,,Outlier,2025-07,Monday,1072.0,4.77,0.32,0.182
+PST-00242,ByteBazaar,2026-01-28,22:30,Static,Tech,456,0,0,17,,CAM-2511-041,Yes,15338,31284,940.0,57,110,45,401,38,54,13255,0.82,Comment below,India,Mid,Holiday,Missing UTMs,2026-01,Wednesday,1152.0,7.51,0.717,0.293
+PST-00243,ByteBazaar,2025-09-30,20:45,Story,Tech,1018,0,0,19,No,,No,5080,11947,44.0,0,7,7,35,6,3,0,-0.53,Comment below,India,Nano,Creator,Missing UTMs,2025-09,Tuesday,58.0,1.14,0.138,0.138
+PST-00244,UrbanPaws,2025-11-17,22:45,Carousel,Pet Care,1751,3,5,48,Y,CAM-2507-037,No,6603,13770,263.0,8,43,30,197,44,45,0,-0.64,DM us,US,Micro,Outlier,Outlier,2025-11,Monday,344.0,5.21,0.651,0.454
+PST-00245,SareeStreet,2025-09-25,23:45,Carousel,Fashion,1616,14,7,83,,,No,7182,15703,385.0,21,18,67,115,27,7,0,0.83,Tap to buy,,Macro,High Intent,Check metrics,2025-09,Thursday,491.0,6.84,0.251,0.933
+PST-00246,ByteBazaar,2025-10-26,19:05,Story,Tech,2026,22,0,69,Y,CAM-2510-007,Yes,24271,27605,222.0,14,44,8,387,21,195,24551,0.28,No CTA,IN,Mid,Holiday,,2025-10,Sunday,288.0,1.19,0.181,0.033
+PST-00247,GlowKart,2025-11-01,12:05,Story,Beauty,919,22,2,30,,,No,15170,36028,317.0,24,27,31,506,80,214,0,-0.37,Comment below,US,Nano,Creator,Outlier,2025-11,Saturday,399.0,2.63,0.178,0.204
+PST-00248,FitFuel India,2025-09-07,13:00,Reel,Fitness,363,28,7,50,,CAM-2507-034,No,22481,32863,1330.0,102,333,41,119,2,37,0,0.83,Link in bio,India,Macro,Retargeting,Missing UTMs,2025-09,Sunday,1806.0,8.03,1.481,0.182
+PST-00249,ByteBazaar,2025-10-16,23:00,Live,Tech,2159,4,6,57,No,,No,5972,7284,160.0,6,21,4,220,34,23,0,0.61,Comment below,UAE,Nano,Holiday,Possible duplicate,2025-10,Thursday,191.0,3.2,0.352,0.067
+PST-00250,GlowKart,2025-12-14,17:05,Reel,Beauty,541,27,2,26,N,CAM-2508-035,Yes,62357,133211,2916.0,99,561,130,2471,93,665,23501,0.92,No CTA,US,Macro,Test,Missing UTMs,2025-12,Sunday,3706.0,5.94,0.9,0.208
+PST-00251,CafeCanvas,2025-08-23,20:30,Story,Food,1744,19,7,85,No,,No,8051,14573,100.0,1,16,3,315,45,55,-739,0.51,Comment below,IN,Micro,Test,Possible duplicate,2025-08,Saturday,120.0,1.49,0.199,0.037
+PST-00252,FitFuel India,2025-11-13,17:05,Story,Fitness,1106,14,1,56,Y,,No,1819,3205,18.0,0,4,1,22,3,8,0,0.55,Save for later,IN,Nano,High Intent,,2025-11,Thursday,23.0,1.26,0.22,0.055
+PST-00253,FitFuel India,2025-08-13,09:00,Reel,Fitness,1527,9,4,93,N,CAM-2508-006,Yes,49917,67115,1411.0,43,173,160,1844,53,668,13196,0.2,Comment below,IN,Micro,Creator,,2025-08,Wednesday,1787.0,3.58,0.347,0.321
+PST-00254,UrbanPaws,2026-01-26,19:05,Carousel,Pet Care,260,13,2,66,N,CAM-2508-002,Yes,4930,8962,127.0,9,23,7,170,38,62,661,0.69,Tap to buy,India,Brand Owned,High Intent,,2026-01,Monday,166.0,3.37,0.467,0.142
+PST-00255,FitFuel India,2025-10-20,22:15,Story,Fitness,2165,15,4,68,Y,CAM-2509-039,Yes,22288,40239,427.0,25,47,62,502,5,139,6264,-0.23,Link in bio,Global,Mid,Outlier,Outlier,2025-10,Monday,561.0,2.52,0.211,0.278
+PST-00256,FitFuel India,2025-11-06,19:30,Story,Fitness,1877,3,0,81,Y,,No,3009,4765,47.0,3,12,6,80,10,4,0,0.78,Comment below,India,Brand Owned,Holiday,Possible duplicate,2025-11,Thursday,68.0,2.26,0.399,0.199
+PST-00257,GlowKart,2025-11-01,20:30,Carousel,Beauty,996,6,5,48,No,,No,17867,23648,1002.0,49,112,42,322,24,64,0,0.14,Link in bio,Global,Nano,Holiday,Possible duplicate,2025-11,Saturday,1205.0,6.74,0.627,0.235
+PST-00258,GlowKart,2025-11-13,20:00,Reel,Beauty,1048,21,7,99,Y,,No,6215,12417,141.0,2,18,14,52,11,16,0,0.34,Link in bio,US,Brand Owned,Outlier,Outlier,2025-11,Thursday,175.0,2.82,0.29,0.225
+PST-00259,GlowKart,2026-01-20,13:00,Reel,Beauty,1330,22,4,38,No,,No,19430,34420,432.0,9,58,44,193,18,58,0,0.66,No CTA,UAE,Brand Owned,High Intent,Check metrics,2026-01,Tuesday,543.0,2.79,0.299,0.226
+PST-00260,CafeCanvas,2025-10-27,13:05,Reel,Food,1836,25,3,64,No,,No,13665,21694,351.0,25,95,46,315,13,32,0,-0.23,Comment below,Global,Mid,Retargeting,,2025-10,Monday,517.0,3.78,0.695,0.337
+PST-00261,SareeStreet,2025-12-17,17:05,Reel,Fashion,621,3,2,77,,CAM-2508-027,No,14963,38357,868.0,20,177,19,78,14,12,0,-0.01,Save for later,India,Nano,Holiday,Missing UTMs,2025-12,Wednesday,1084.0,7.24,1.183,0.127
+PST-00262,CafeCanvas,2025-09-28,08:15,Story,Food,61,27,0,44,No,,No,1632,1802,24.0,0,6,3,23,5,7,0,-0.09,DM us,IN,Brand Owned,Test,,2025-09,Sunday,33.0,2.02,0.368,0.184
+PST-00263,UrbanPaws,2025-09-28,09:45,Reel,Pet Care,2133,14,4,38,Y,,No,17783,37973,608.0,15,122,23,462,91,62,0,0.88,Link in bio,US,Brand Owned,Creator,,2025-09,Sunday,768.0,4.32,0.686,0.129
+PST-00264,CafeCanvas,2025-12-25,09:45,Static,Food,1195,6,1,43,N,CAM-2510-028,No,3611,7295,118.0,6,26,3,26,2,7,0,0.04,Link in bio,,Brand Owned,,Check metrics,2025-12,Thursday,153.0,4.24,0.72,0.083
+PST-00265,GlowKart,2025-08-15,12:45,Reel,Beauty,1827,9,2,16,No,,No,11985,16969,569.0,27,44,73,209,36,12,0,-0.5,Tap to buy,,Macro,Holiday,Possible duplicate,2025-08,Friday,713.0,5.95,0.367,0.609
+PST-00266,CafeCanvas,2025-08-20,12:05,Reel,Food,1169,25,5,62,N,,No,7625,17735,433.0,28,109,12,42,10,5,0,-0.24,Link in bio,India,Micro,Retargeting,,2025-08,Wednesday,582.0,7.63,1.43,0.157
+PST-00267,FitFuel India,2025-12-05,08:05,Carousel,Fitness,2085,10,7,64,,,No,3465,8691,156.0,5,32,26,52,4,14,0,0.44,Tap to buy,IN,Nano,Creator,Possible duplicate,2025-12,Friday,219.0,6.32,0.924,0.75
+PST-00268,GlowKart,2025-12-12,20:30,Story,Beauty,1499,28,3,9,No,CAM-2508-002,Yes,4826,8664,46.0,3,9,1,157,33,63,1597,0.21,Shop Now,India,Macro,,Check metrics,2025-12,Friday,59.0,1.22,0.186,0.021
+PST-00269,UrbanPaws,2025-07-22,23:15,Carousel,Pet Care,62,9,3,26,Y,,No,4978,7405,126.0,4,29,16,186,20,87,-736,0.94,Comment below,US,Nano,Creator,,2025-07,Tuesday,175.0,3.52,0.583,0.321
+PST-00270,SareeStreet,2025-10-16,08:15,Carousel,Fashion,1059,0,1,59,No,,No,14147,15689,968.0,45,71,92,474,57,69,0,-0.33,DM us,India,Nano,Creator,,2025-10,Thursday,1176.0,8.31,0.502,0.65
+PST-00271,GlowKart,2025-08-11,9pm,Carousel,Beauty,918,3,3,81,Y,CAM-2512-032,Yes,12526,23688,525.0,22,101,11,379,26,204,12467,0.3,Link in bio,UAE,Brand Owned,Holiday,,2025-08,Monday,659.0,5.26,0.806,0.088
+PST-00272,CafeCanvas,2025-09-20,19:45,Reel,Food,706,25,1,20,Yes,,No,44908,48237,1926.0,21,143,43,881,10,58,0,-0.36,No CTA,Global,Nano,Test,,2025-09,Saturday,2133.0,4.75,0.318,0.096
+PST-00273,GlowKart,2025-09-30,17:30,Carousel,Beauty,1426,0,7,57,N,CAM-2510-042,Yes,5257,7530,,12,37,32,13,1,4,8800,0.14,Comment below,Global,Brand Owned,Holiday,Possible duplicate,2025-09,Tuesday,81.0,1.54,0.704,0.609
+PST-00274,ByteBazaar,2025-07-30,09:00,Story,Tech,1687,24,1,27,No,CAM-2507-058,No,11310,23129,224.0,10,60,25,245,25,75,0,0.66,Shop Now,US,Micro,High Intent,Outlier,2025-07,Wednesday,319.0,2.82,0.531,0.221
+PST-00275,CafeCanvas,2025-10-01,08:00,Reel,Food,1697,5,7,85,Yes,,No,30551,78897,1756.0,131,463,39,754,123,299,0,-0.38,Shop Now,UAE,Nano,High Intent,,2025-10,Wednesday,2389.0,7.82,1.515,0.128
+PST-00276,FitFuel India,2025-08-16,12:30,Static,Fitness,1072,16,2,84,No,,No,12490,14168,371.0,22,100,7,246,12,21,0,0.88,Learn More,UAE,Nano,Test,,2025-08,Saturday,500.0,4.0,0.801,0.056
+PST-00277,GlowKart,2025-12-17,18:30,Story,Beauty,593,18,1,67,No,CAM-2509-039,Yes,19738,22556,,15,55,12,67,14,31,11010,0.38,Tap to buy,US,Micro,Creator,,2025-12,Wednesday,82.0,0.42,0.279,0.061
+PST-00279,CafeCanvas,2025-08-09,19:05,Story,Food,86,19,7,76,N,CAM-2509-011,Yes,9523,17947,85.0,4,12,6,363,60,150,4481,-0.04,No CTA,India,Brand Owned,Test,Outlier,2025-08,Saturday,107.0,1.12,0.126,0.063
+PST-00280,FitFuel India,2025-11-29,17:00,Reel,Fitness,1587,11,0,13,Yes,CAM-2511-014,Yes,45475,59718,1381.0,108,333,63,191,40,76,23108,-0.49,Link in bio,India,Mid,Test,,2025-11,Saturday,1885.0,4.15,0.732,0.139
+PST-00281,SareeStreet,2025-07-02,13:45,Static,Fashion,108,5,7,22,,,No,10482,20582,180.0,13,35,25,199,46,44,0,-0.6,Save for later,IN,Macro,Test,Outlier,2025-07,Wednesday,253.0,2.41,0.334,0.239
+PST-00282,FitFuel India,2026-01-08,23:15,Reel,Fitness,696,28,0,24,N,CAM-2510-060,Yes,17141,27315,570.0,44,73,81,254,41,116,3715,0.21,Link in bio,India,Mid,Holiday,Possible duplicate,2026-01,Thursday,768.0,4.48,0.426,0.473
+PST-00283,ByteBazaar,2025-07-20,17:15,Story,Tech,267,25,0,70,Yes,CAM-2507-003,No,7621,8105,164.0,9,37,7,45,6,17,0,0.69,Tap to buy,,Macro,Creator,Check metrics,2025-07,Sunday,217.0,2.85,0.486,0.092
+PST-00284,GlowKart,2026-01-11,13:00,Static,Beauty,1770,11,7,51,Yes,CAM-2508-006,Yes,8646,21713,162.0,8,9,25,25,5,6,23715,0.94,Comment below,IN,Mid,Creator,Missing UTMs,2026-01,Sunday,204.0,2.36,0.104,0.289
+PST-00285,SareeStreet,2025-12-19,19:15,Story,Fashion,1567,16,4,47,Yes,CAM-2510-020,No,15059,22306,254.0,18,42,5,302,26,29,0,0.27,Learn More,India,Nano,Test,,2025-12,Friday,319.0,2.12,0.279,0.033
+PST-00286,FitFuel India,2025-08-20,12:05,Story,Fitness,552,4,4,40,No,CAM-2510-020,Yes,9704,7614,220.0,10,46,18,35,1,11,16317,-0.82,Link in bio,India,Micro,Test,Missing UTMs,2025-08,Wednesday,294.0,3.03,0.474,0.185
+PST-00287,CafeCanvas,2025-12-18,17:15,Story,Food,218,18,1,10,No,CAM-2512-018,Yes,9337,10032,95.0,6,18,3,221,42,48,14537,-0.12,Shop Now,Global,Micro,Creator,Possible duplicate,2025-12,Thursday,122.0,1.31,0.193,0.032
+PST-00288,FitFuel India,2026-01-21,19:15,Static,Fitness,1382,9,0,100,No,,No,9939,17364,215.0,4,42,25,72,14,18,0,0.27,Comment below,US,Mid,Retargeting,,2026-01,Wednesday,286.0,2.88,0.423,0.252
+PST-00289,SareeStreet,2025-11-04,13:45,Reel,Fashion,1766,5,3,40,Y,CAM-2510-004,Yes,9991,15009,275.0,16,30,42,305,12,154,24528,0.37,Link in bio,,Nano,,Outlier,2025-11,Tuesday,363.0,3.63,0.3,0.42
+PST-00290,GlowKart,2025-09-05,17:05,Reel,Beauty,1233,17,0,11,No,,No,7985,13627,291.0,14,68,30,292,38,127,0,0.06,Link in bio,India,Micro,Holiday,,2025-09,Friday,403.0,5.05,0.852,0.376
+PST-00291,CafeCanvas,2025-08-06,23:30,Reel,Food,756,18,5,17,N,CAM-2507-048,Yes,25309,29282,1225.0,45,250,105,884,203,139,23992,0.81,Link in bio,India,Mid,,Missing UTMs,2025-08,Wednesday,1625.0,6.42,0.988,0.415
+PST-00292,GlowKart,2025-08-26,22:15,Carousel,Beauty,800,14,7,16,Yes,CAM-2508-046,Yes,31681,77807,1556.0,116,128,155,879,159,302,24128,0.54,Learn More,India,Mid,Creator,Check metrics,2025-08,Tuesday,1955.0,6.17,0.404,0.489
+PST-00293,CafeCanvas,2026-01-11,23:15,Story,Food,1131,27,7,41,Y,,No,10175,19235,102.0,4,4,14,377,12,141,0,-0.49,Save for later,India,Micro,,Missing UTMs,2026-01,Sunday,124.0,1.22,0.039,0.138
+PST-00294,SareeStreet,2025-12-05,18:15,Reel,Fashion,1483,11,4,62,Yes,CAM-2511-036,Yes,18051,30547,376.0,23,74,33,242,27,30,1926,-0.51,Save for later,India,Brand Owned,Holiday,Check metrics,2025-12,Friday,506.0,2.8,0.41,0.183
+PST-00295,ByteBazaar,2025-09-29,09:05,Reel,Tech,1797,1,3,23,Y,,No,11884,18173,521.0,8,90,80,337,59,166,0,-0.45,Learn More,,Micro,High Intent,Possible duplicate,2025-09,Monday,699.0,5.88,0.757,0.673
+PST-00296,GlowKart,2025-09-02,09:45,Reel,Beauty,204,25,2,7,No,,No,7840,8663,161.0,5,9,17,292,7,54,0,0.93,Shop Now,,Macro,Test,,2025-09,Tuesday,192.0,2.45,0.115,0.217
+PST-00297,GlowKart,2025-11-13,09:00,Reel,Beauty,1112,19,5,9,N,CAM-2507-058,Yes,21076,24043,1007.0,47,49,46,185,16,53,18310,0.57,Link in bio,India,Nano,Outlier,,2025-11,Thursday,1149.0,5.45,0.232,0.218
+PST-00298,ByteBazaar,2025-11-13,08:45,Story,Tech,219,15,6,58,Y,,No,3299,5152,45.0,0,11,1,118,6,46,0,0.82,Comment below,India,Brand Owned,Test,Missing UTMs,2025-11,Thursday,57.0,1.73,0.333,0.03
+PST-00299,FitFuel India,2025-08-19,18:45,Story,Fitness,1937,27,4,1,Y,,No,3679,6808,49.0,0,9,6,140,12,44,0,0.67,Shop Now,,Nano,,,2025-08,Tuesday,64.0,1.74,0.245,0.163
+PST-00300,FitFuel India,2025-08-29,17:05,Carousel,Fitness,221,25,4,77,No,CAM-2510-054,Yes,15490,27532,560.0,17,49,97,355,19,65,22737,-0.73,Save for later,India,Nano,,Check metrics,2025-08,Friday,723.0,4.67,0.316,0.626
+PST-00301,UrbanPaws,2025-07-07,18:15,Static,Pet Care,478,5,4,3,Y,,No,2648,4787,44.0,0,8,2,82,10,28,0,-0.5,Shop Now,India,Nano,Test,Check metrics,2025-07,Monday,54.0,2.04,0.302,0.076
+PST-00302,FitFuel India,2025-10-04,08:00,Reel,Fitness,1913,6,4,92,No,,No,9638,17770,518.0,31,57,14,264,29,114,0,-0.71,DM us,IN,Mid,Creator,,2025-10,Saturday,620.0,6.43,0.591,0.145
+PST-00303,SareeStreet,2025-09-01,18:05,Reel,Fashion,1228,18,5,99,No,,No,6552,12705,260.0,4,68,42,58,8,27,0,-0.3,No CTA,,Micro,Test,,2025-09,Monday,374.0,5.71,1.038,0.641
+PST-00304,CafeCanvas,2025-10-08,19:15,Carousel,Food,2122,20,3,13,No,,No,37640,81974,2331.0,165,554,235,99,1,2,0,-0.81,Link in bio,India,Macro,,,2025-10,Wednesday,3285.0,8.73,1.472,0.624
+PST-00305,GlowKart,2025-07-22,20:30,Static,Beauty,585,10,1,67,No,,No,4869,11695,162.0,3,14,9,139,23,68,0,-0.4,Shop Now,Global,Nano,High Intent,Check metrics,2025-07,Tuesday,188.0,3.86,0.288,0.185
+PST-00306,FitFuel India,2025-12-24,18:00,Static,Fitness,576,12,7,61,No,CAM-2512-017,Yes,8481,19968,281.0,6,61,31,136,8,29,682,-0.39,DM us,India,Micro,Creator,,2025-12,Wednesday,379.0,4.47,0.719,0.366
+PST-00307,UrbanPaws,2025-10-24,22:05,Carousel,Pet Care,1740,11,2,73,N,,No,5551,12224,222.0,6,30,27,114,9,50,0,0.83,No CTA,Global,Mid,,Check metrics,2025-10,Friday,285.0,5.13,0.54,0.486
+PST-00308,ByteBazaar,2025-10-23,20:00,Story,Tech,1642,22,5,79,No,,No,5399,13159,103.0,1,7,7,49,1,4,0,-0.8,DM us,India,Macro,High Intent,,2025-10,Thursday,118.0,2.19,0.13,0.13
+PST-00309,CafeCanvas,2025-12-02,20:15,Carousel,Food,1481,26,2,13,No,CAM-2511-036,Yes,5417,5989,363.0,8,83,25,152,20,48,21333,0.46,Save for later,India,Micro,Retargeting,,2025-12,Tuesday,479.0,8.84,1.532,0.462
+PST-00310,FitFuel India,2025-09-21,13:45,Story,Fitness,842,18,5,10,N,,No,4280,5483,91.0,5,13,12,67,1,28,0,0.24,DM us,India,Mid,Holiday,,2025-09,Sunday,121.0,2.83,0.304,0.28
+PST-00311,ByteBazaar,2025-08-11,09:05,Reel,Tech,885,17,3,60,Yes,CAM-2507-003,No,33021,58944,979.0,29,263,130,240,15,32,0,-0.77,DM us,US,Micro,Test,,2025-08,Monday,1401.0,4.24,0.796,0.394
+PST-00312,ByteBazaar,2025-07-10,17:45,Static,Tech,290,8,6,3,No,,No,11962,28544,158.0,4,41,18,416,9,48,0,0.25,Link in bio,India,Macro,,Check metrics,2025-07,Thursday,221.0,1.85,0.343,0.15
+PST-00313,CafeCanvas,2025-08-23,,Static,Food,2083,21,5,11,N,,No,9665,16436,312.0,6,31,36,141,15,17,0,-0.31,Save for later,India,Macro,,Possible duplicate,2025-08,Saturday,385.0,3.98,0.321,0.372
+PST-00314,GlowKart,2025-10-21,17:45,Story,Beauty,1719,10,4,42,No,CAM-2512-018,Yes,12698,19653,270.0,12,26,33,80,5,19,1126,-0.22,Save for later,US,Nano,Retargeting,,2025-10,Tuesday,341.0,2.69,0.205,0.26
+PST-00315,ByteBazaar,2025-09-04,17:45,Reel,Tech,312,5,5,36,Yes,CAM-2509-050,Yes,55572,58353,3300.0,160,722,537,646,33,46,15808,0.4,Tap to buy,US,Macro,Test,Missing UTMs,2025-09,Thursday,4719.0,8.49,1.299,0.966
+PST-00316,ByteBazaar,2025-12-25,18:05,Story,Tech,436,21,7,70,N,CAM-2508-046,Yes,4539,5095,65.0,4,2,8,70,16,7,1993,-0.83,Link in bio,India,Nano,Creator,Check metrics,2025-12,Thursday,79.0,1.74,0.044,0.176
+PST-00317,UrbanPaws,2025-12-13,12:45,Carousel,Pet Care,1242,3,4,43,Yes,,No,3857,8629,255.0,3,31,14,62,2,7,0,0.8,Learn More,India,Nano,Retargeting,,2025-12,Saturday,303.0,7.86,0.804,0.363
+PST-00318,FitFuel India,2026-01-30,20:30,Story,Fitness,1440,0,7,8,,,No,7191,15650,231.0,13,14,11,162,8,52,0,-0.76,Tap to buy,Global,Brand Owned,Outlier,Possible duplicate,2026-01,Friday,269.0,3.74,0.195,0.153
+PST-00319,ByteBazaar,2025-09-20,17:05,Story,Tech,2145,27,5,63,Y,CAM-2508-027,Yes,7010,11602,70.0,3,16,2,165,38,10,20585,0.82,Save for later,India,Mid,High Intent,Missing UTMs,2025-09,Saturday,91.0,1.3,0.228,0.029
+PST-00320,ByteBazaar,2025-08-29,20:45,Story,Tech,1357,19,3,49,,CAM-2512-043,Yes,12295,29615,391.0,26,38,55,288,64,134,12788,0.89,DM us,Global,Mid,Test,Check metrics,2025-08,Friday,510.0,4.15,0.309,0.447
+PST-00321,ByteBazaar,2025-07-21,13:05,Story,Tech,1181,4,0,2,Y,CAM-2508-022,No,5779,14506,128.0,1,29,19,208,29,75,0,0.76,Learn More,UAE,Micro,,,2025-07,Monday,177.0,3.06,0.502,0.329
+PST-00322,UrbanPaws,2025-12-20,20:15,Carousel,Pet Care,782,12,3,5,,,No,15947,30973,552.0,6,81,25,422,59,67,0,-0.45,Comment below,India,Nano,Test,Check metrics,2025-12,Saturday,664.0,4.16,0.508,0.157
+PST-00323,GlowKart,2025-08-16,13:15,Carousel,Beauty,1533,15,1,30,No,,No,4802,11692,253.0,6,65,32,122,19,45,0,0.4,Shop Now,UAE,Nano,Outlier,Check metrics,2025-08,Saturday,356.0,7.41,1.354,0.666
+PST-00324,GlowKart,2026-01-20,18:00,Reel,Beauty,1653,13,1,82,No,CAM-2510-019,Yes,4761,8291,40.0,2,3,2,63,2,30,6203,-0.64,Learn More,India,Brand Owned,Outlier,Outlier,2026-01,Tuesday,47.0,0.99,0.063,0.042
+PST-00325,CafeCanvas,2025-11-23,12:00,Reel,Food,1893,21,3,21,N,,No,22648,53868,736.0,22,78,16,607,100,290,0,-0.06,Save for later,UAE,Micro,Holiday,,2025-11,Sunday,852.0,3.76,0.344,0.071
+PST-00326,CafeCanvas,2025-10-24,18:00,Reel,Food,1626,8,6,36,N,,No,14629,18790,656.0,18,72,99,39,7,9,0,-0.43,Comment below,UAE,Nano,Creator,,2025-10,Friday,845.0,5.78,0.492,0.677
+PST-00327,UrbanPaws,2025-11-15,23:05,Reel,Pet Care,130,9,4,39,No,,No,28349,50589,1461.0,98,238,61,1061,158,386,0,-0.83,DM us,Global,Macro,Retargeting,Check metrics,2025-11,Saturday,1858.0,6.55,0.84,0.215
+PST-00328,FitFuel India,2025-07-21,08:30,Reel,Fitness,252,24,6,83,Yes,,No,1177,1611,14.0,0,2,1,36,0,16,0,-0.78,DM us,IN,Brand Owned,Holiday,,2025-07,Monday,17.0,1.44,0.17,0.085
+PST-00329,UrbanPaws,2025-07-28,23:45,Reel,Pet Care,192,11,7,77,No,,No,39057,90843,1527.0,114,164,271,1535,271,68,0,0.21,Comment below,UAE,Mid,High Intent,Possible duplicate,2025-07,Monday,2076.0,5.32,0.42,0.694
+PST-00330,CafeCanvas,2026-01-06,23:45,Static,Food,516,12,2,59,,,No,17932,28508,1263.0,50,108,208,679,8,341,0,0.93,Tap to buy,India,Nano,Creator,,2026-01,Tuesday,1629.0,9.08,0.602,1.16
+PST-00331,GlowKart,2025-11-28,23:45,Reel,Beauty,1411,18,1,80,No,,No,24633,60396,1003.0,19,108,132,186,9,59,0,-0.79,Shop Now,,Macro,Holiday,Possible duplicate,2025-11,Friday,1262.0,5.12,0.438,0.536
+PST-00332,GlowKart,2025-09-02,09:30,Story,Beauty,414,18,3,38,N,,No,4355,11095,58.0,1,3,9,26,0,9,0,0.44,Comment below,IN,Micro,Retargeting,,2025-09,Tuesday,71.0,1.63,0.069,0.207
+PST-00333,GlowKart,2025-08-31,23:00,Static,Beauty,212,4,4,65,Yes,,No,7857,19467,198.0,13,45,24,200,19,71,0,0.11,Shop Now,Global,Nano,High Intent,,2025-08,Sunday,280.0,3.56,0.573,0.305
+PST-00334,ByteBazaar,2026-01-22,13:05,Reel,Tech,944,28,0,58,Y,,No,4838,5482,231.0,2,31,19,103,2,15,0,0.1,Tap to buy,UAE,Macro,Holiday,Check metrics,2026-01,Thursday,283.0,5.85,0.641,0.393
+PST-00335,GlowKart,2025-11-01,19:45,Carousel,Beauty,541,0,2,39,No,,No,27219,39908,906.0,45,70,73,312,26,40,0,-0.51,Link in bio,US,Nano,Holiday,,2025-11,Saturday,1094.0,4.02,0.257,0.268
+PST-00336,SareeStreet,2025-09-04,19:15,Reel,Fashion,960,26,3,62,No,,No,9735,20941,383.0,28,38,41,389,66,33,0,-0.45,Learn More,India,Nano,High Intent,,2025-09,Thursday,490.0,5.03,0.39,0.421
+PST-00337,CafeCanvas,2025-11-19,20:15,Reel,Food,355,19,4,92,,,No,25040,26454,885.0,50,232,102,663,124,290,0,-0.14,Link in bio,US,Mid,Holiday,Outlier,2025-11,Wednesday,1269.0,5.07,0.927,0.407
+PST-00338,GlowKart,2025-12-20,20:30,Story,Beauty,1790,20,0,72,Y,CAM-2509-055,Yes,1689,4107,30.0,0,6,1,28,2,5,12142,-0.51,No CTA,India,Micro,Retargeting,,2025-12,Saturday,37.0,2.19,0.355,0.059
+PST-00339,SareeStreet,2025-08-18,19:30,Carousel,Fashion,1588,13,6,88,Y,,No,10137,13127,279.0,7,43,30,376,71,50,0,0.43,DM us,UAE,Brand Owned,Test,,2025-08,Monday,359.0,3.54,0.424,0.296
+PST-00340,CafeCanvas,2025-10-09,08:15,Reel,Food,737,17,4,95,N,,No,44331,51443,2572.0,54,563,85,213,22,97,0,0.9,Tap to buy,IN,Micro,Holiday,Check metrics,2025-10,Thursday,3274.0,7.39,1.27,0.192
+PST-00341,CafeCanvas,2025-08-24,12:15,Carousel,Food,172,25,5,33,,CAM-2510-059,Yes,71574,112922,2336.0,134,483,366,1277,162,111,22687,0.46,Tap to buy,IN,Brand Owned,Holiday,,2025-08,Sunday,3319.0,4.64,0.675,0.511
+PST-00342,ByteBazaar,2025-07-21,09:15,Reel,Tech,203,28,4,93,N,CAM-2507-031,Yes,34115,43764,1325.0,32,317,122,971,130,169,23415,0.31,No CTA,US,Brand Owned,,Possible duplicate,2025-07,Monday,1796.0,5.26,0.929,0.358
+PST-00343,CafeCanvas,2025-11-23,17:15,Reel,Food,1344,23,6,37,No,,No,15181,18681,379.0,27,25,18,87,6,30,0,-0.04,Comment below,Global,Macro,Outlier,,2025-11,Sunday,449.0,2.96,0.165,0.119
+PST-00344,SareeStreet,2025-09-20,08:45,Carousel,Fashion,641,0,4,86,N,,No,6722,10475,100.0,7,4,16,218,49,102,0,-0.12,Link in bio,India,Macro,Holiday,,2025-09,Saturday,127.0,1.89,0.06,0.238
+PST-00345,FitFuel India,2025-09-02,17:15,Static,Fitness,1072,0,3,58,No,,No,6209,15894,363.0,5,64,16,34,1,1,0,-0.15,Learn More,India,Micro,Retargeting,Missing UTMs,2025-09,Tuesday,448.0,7.22,1.031,0.258
+PST-00346,FitFuel India,2025-11-12,12:05,Reel,Fitness,1994,10,0,98,N,CAM-2508-016,No,11037,23084,546.0,40,99,64,413,41,124,0,-0.15,Save for later,India,Brand Owned,Test,Possible duplicate,2025-11,Wednesday,749.0,6.79,0.897,0.58
+PST-00347,GlowKart,2025-08-06,13:30,Reel,Beauty,1616,26,0,5,Yes,CAM-2509-055,Yes,10643,25654,341.0,8,69,60,249,55,106,14946,-0.14,Link in bio,,Brand Owned,Test,Possible duplicate,2025-08,Wednesday,478.0,4.49,0.648,0.564
+PST-00348,FitFuel India,2025-07-11,23:15,Carousel,Fitness,197,1,4,88,,CAM-2508-024,Yes,15146,22908,517.0,22,64,22,280,7,59,9762,-0.12,Comment below,India,Nano,Creator,Outlier,2025-07,Friday,625.0,4.13,0.423,0.145
+PST-00349,FitFuel India,2025-08-25,12:45,Static,Fitness,2184,6,3,74,,CAM-2508-038,Yes,11613,24772,282.0,10,39,15,381,89,167,4658,0.12,No CTA,India,Brand Owned,Holiday,,2025-08,Monday,346.0,2.98,0.336,0.129
+PST-00350,GlowKart,2025-07-23,18:05,Carousel,Beauty,415,12,3,55,No,,No,16981,35094,1120.0,19,115,107,334,48,7,0,0.32,Learn More,UAE,Mid,Outlier,Check metrics,2025-07,Wednesday,1361.0,8.01,0.677,0.63
+PST-00351,ByteBazaar,2025-07-30,13:45,Reel,Tech,1835,18,4,49,No,CAM-2508-035,Yes,15910,31740,877.0,38,241,111,125,5,65,5909,0.28,Learn More,India,Macro,Outlier,Outlier,2025-07,Wednesday,1267.0,7.96,1.515,0.698
+PST-00352,ByteBazaar,2025-11-08,17:30,Reel,Tech,150,16,7,9,Y,,No,4162,6896,146.0,11,15,25,162,14,41,0,0.7,Shop Now,Global,Brand Owned,Retargeting,Outlier,2025-11,Saturday,197.0,4.73,0.36,0.601
+PST-00353,SareeStreet,2025-07-07,17:00,Story,Fashion,1354,8,3,40,No,,No,4918,11117,57.0,2,10,6,121,21,37,0,0.9,Link in bio,IN,Mid,Test,,2025-07,Monday,75.0,1.53,0.203,0.122
+PST-00354,UrbanPaws,2026-01-06,18:00,Reel,Pet Care,1804,6,3,18,Y,,No,14539,29930,746.0,33,80,17,325,64,99,0,0.08,Comment below,US,Mid,Retargeting,Outlier,2026-01,Tuesday,876.0,6.03,0.55,0.117
+PST-00355,FitFuel India,2025-12-28,22:05,Static,Fitness,2064,19,0,70,No,,No,20237,39650,575.0,41,141,101,723,62,272,0,-0.63,Tap to buy,India,Macro,Outlier,,2025-12,Sunday,858.0,4.24,0.697,0.499
+PST-00356,CafeCanvas,2025-12-21,19:30,Story,Food,723,23,3,45,Y,,No,11189,23187,245.0,4,21,36,237,23,26,0,0.48,Link in bio,US,Micro,,,2025-12,Sunday,306.0,2.73,0.188,0.322
+PST-00357,SareeStreet,2025-09-20,08:15,Carousel,Fashion,25,14,2,81,Yes,CAM-2508-047,Yes,4399,9735,154.0,11,37,26,16,1,4,13370,-0.74,Shop Now,India,Brand Owned,,Missing UTMs,2025-09,Saturday,228.0,5.18,0.841,0.591
+PST-00358,UrbanPaws,2025-11-29,17:15,Reel,Pet Care,424,1,7,74,,,No,35003,37855,1208.0,33,139,54,896,78,349,0,-0.28,Shop Now,India,Micro,Retargeting,,2025-11,Saturday,1434.0,4.1,0.397,0.154
+PST-00359,ByteBazaar,2025-12-07,08:05,Story,Tech,1710,5,1,0,,,No,3103,5406,43.0,2,7,2,53,5,25,0,0.84,Comment below,India,Micro,High Intent,,2025-12,Sunday,54.0,1.74,0.226,0.064
+PST-00360,UrbanPaws,2025-10-23,19:05,Story,Pet Care,339,3,0,18,N,,No,6951,17982,86.0,6,16,13,49,11,23,0,0.4,Save for later,UAE,Mid,High Intent,,2025-10,Thursday,121.0,1.74,0.23,0.187
+PST-00361,ByteBazaar,2025-09-02,08:30,Story,Tech,705,12,2,40,N,,No,3374,7512,57.0,1,6,7,21,1,0,0,-0.84,Tap to buy,India,Nano,High Intent,Possible duplicate,2025-09,Tuesday,71.0,2.1,0.178,0.207
+PST-00362,SareeStreet,2026-01-07,18:05,Static,Fashion,598,0,0,84,No,,No,8074,6481,147.0,4,33,9,304,16,155,0,0.67,Tap to buy,US,Mid,Retargeting,,2026-01,Wednesday,193.0,2.39,0.409,0.111
+PST-00363,GlowKart,2025-08-10,19:05,Reel,Beauty,455,3,4,63,No,,No,9033,10449,303.0,18,62,34,129,18,34,0,-0.36,Learn More,IN,Macro,Creator,Missing UTMs,2025-08,Sunday,417.0,4.62,0.686,0.376
+PST-00364,FitFuel India,2025-11-11,08:00,Live,Fitness,284,20,4,49,Y,,No,2045,2377,54.0,2,11,3,43,2,20,0,0.07,Learn More,IN,Nano,,Missing UTMs,2025-11,Tuesday,70.0,3.42,0.538,0.147
+PST-00365,UrbanPaws,2025-10-13,18:15,Reel,Pet Care,642,18,3,57,Y,,No,67247,114135,3984.0,148,734,99,2391,257,878,0,0.9,Tap to buy,India,Mid,Creator,,2025-10,Monday,4965.0,7.38,1.091,0.147
+PST-00366,FitFuel India,2025-11-18,12:00,Carousel,Fitness,1601,23,2,86,,,No,18250,44927,590.0,19,136,95,442,22,202,0,0.28,Comment below,,Nano,,Check metrics,2025-11,Tuesday,840.0,4.6,0.745,0.521
+PST-00367,FitFuel India,2025-09-11,20:45,Carousel,Fitness,784,7,2,66,Yes,,No,29491,41708,1964.0,73,247,264,970,61,102,0,0.92,Save for later,US,Macro,,Outlier,2025-09,Thursday,2548.0,8.64,0.838,0.895
+PST-00368,CafeCanvas,2025-09-07,17:30,Reel,Food,464,3,6,14,N,,No,5626,12314,340.0,11,83,39,165,27,84,0,0.02,Learn More,India,Macro,Retargeting,Check metrics,2025-09,Sunday,473.0,8.41,1.475,0.693
+PST-00369,ByteBazaar,2025-10-10,20:05,Reel,Tech,334,10,2,97,N,CAM-2512-043,Yes,28214,51419,763.0,49,167,32,109,16,47,4458,-0.05,No CTA,Global,Nano,,,2025-10,Friday,1011.0,3.58,0.592,0.113
+PST-00370,CafeCanvas,2025-08-15,20:45,Story,Food,1882,24,1,70,Yes,,No,10501,16421,207.0,16,8,36,306,34,21,0,-0.8,Tap to buy,US,Nano,High Intent,Possible duplicate,2025-08,Friday,267.0,2.54,0.076,0.343
+PST-00371,CafeCanvas,2026-01-06,19:45,Reel,Food,1948,19,1,10,N,,No,8411,12339,203.0,8,21,33,259,8,48,0,0.28,No CTA,India,Micro,Outlier,,2026-01,Tuesday,265.0,3.15,0.25,0.392
+PST-00372,SareeStreet,2026-01-24,19:05,Static,Fashion,438,2,5,8,No,,No,7760,19871,95.0,4,26,9,185,24,13,0,-0.69,Link in bio,UAE,Micro,High Intent,Outlier,2026-01,Saturday,134.0,1.73,0.335,0.116
+PST-00373,FitFuel India,2025-07-16,13:00,Reel,Fitness,530,26,3,68,No,CAM-2510-021,Yes,33518,78358,1766.0,61,75,196,405,36,188,24627,0.35,Save for later,,Macro,Test,Missing UTMs,2025-07,Wednesday,2098.0,6.26,0.224,0.585
+PST-00374,FitFuel India,2026-01-10,23:00,Reel,Fitness,2152,16,2,36,N,,No,10330,8401,594.0,9,76,23,377,10,62,0,0.63,Tap to buy,IN,Micro,Retargeting,,2026-01,Saturday,702.0,6.8,0.736,0.223
+PST-00375,GlowKart,2026-01-05,09:15,Static,Beauty,565,7,0,75,Yes,CAM-2510-045,Yes,22962,57438,745.0,50,177,30,416,45,85,21823,0.62,Save for later,IN,Nano,,,2026-01,Monday,1002.0,4.36,0.771,0.131
+PST-00376,CafeCanvas,2026-01-07,08:00,Story,Food,898,9,2,61,Yes,,No,20156,36775,353.0,7,96,21,592,62,145,0,0.29,Link in bio,Global,Nano,,,2026-01,Wednesday,477.0,2.37,0.476,0.104
+PST-00377,UrbanPaws,2025-11-21,18:30,Reel,Pet Care,1999,4,6,78,Yes,CAM-2510-033,Yes,103544,149191,2923.0,116,536,520,1219,43,637,20697,-0.15,Tap to buy,India,Macro,,,2025-11,Friday,4095.0,3.95,0.518,0.502
+PST-00378,SareeStreet,2025-11-23,08:00,Reel,Fashion,1286,0,3,76,No,CAM-2510-020,Yes,17139,22156,819.0,17,130,59,546,69,181,4069,-0.16,DM us,IN,Macro,Outlier,Outlier,2025-11,Sunday,1025.0,5.98,0.759,0.344
+PST-00379,SareeStreet,2025-10-01,20:05,Reel,Fashion,2179,27,5,94,No,,No,14936,18061,523.0,10,26,36,332,6,101,0,0.44,Comment below,US,Mid,Retargeting,Check metrics,2025-10,Wednesday,595.0,3.98,0.174,0.241
+PST-00380,FitFuel India,2026-01-25,22:05,Reel,Fitness,2018,7,2,59,No,,No,13326,21875,761.0,7,104,33,188,9,43,-2394,0.03,Learn More,Global,Mid,Holiday,Check metrics,2026-01,Sunday,905.0,6.79,0.78,0.248
+PST-00381,SareeStreet,2025-09-15,17:00,Static,Fashion,338,2,6,84,No,,No,5234,9673,129.0,8,34,22,145,27,12,0,-0.73,DM us,India,Mid,High Intent,,2025-09,Monday,193.0,3.69,0.65,0.42
+PST-00382,UrbanPaws,2025-09-09,08:00,Carousel,Pet Care,681,11,5,30,N,,No,13272,33716,319.0,19,65,56,331,81,57,0,-0.32,Tap to buy,,Micro,Outlier,Possible duplicate,2025-09,Tuesday,459.0,3.46,0.49,0.422
+PST-00383,GlowKart,2026-01-29,18:30,Reel,Beauty,1347,10,0,3,N,,No,13576,15926,815.0,26,60,28,202,16,37,0,-0.05,Link in bio,IN,Nano,Holiday,,2026-01,Thursday,929.0,6.84,0.442,0.206
+PST-00384,CafeCanvas,2025-08-18,12:05,Story,Food,369,2,6,76,N,CAM-2508-002,No,9303,18148,98.0,6,9,15,85,8,38,0,-0.83,Link in bio,UAE,Nano,Outlier,Possible duplicate,2025-08,Monday,128.0,1.38,0.097,0.161
+PST-00385,GlowKart,2026-01-21,17:05,Carousel,Beauty,194,14,3,81,Yes,,No,5567,11532,402.0,31,50,58,215,24,12,-1680,-0.45,Shop Now,,Brand Owned,Creator,Outlier,2026-01,Wednesday,541.0,9.72,0.898,1.042
+PST-00386,SareeStreet,2025-08-11,19:05,Reel,Fashion,693,5,1,71,Yes,CAM-2507-031,No,27465,60712,1295.0,63,341,92,882,26,175,0,0.34,No CTA,Global,Macro,High Intent,Check metrics,2025-08,Monday,1791.0,6.52,1.242,0.335
+PST-00387,UrbanPaws,2025-09-13,12:45,Reel,Pet Care,683,19,2,43,Y,CAM-2508-047,Yes,38917,78213,2269.0,159,475,395,1386,177,226,21160,0.86,Save for later,Global,Nano,,,2025-09,Saturday,3298.0,8.47,1.221,1.015
+PST-00388,CafeCanvas,2025-09-02,23:45,Reel,Food,337,16,1,91,Yes,,No,19444,36648,977.0,61,77,113,592,115,177,0,0.71,Tap to buy,,Mid,Holiday,Possible duplicate,2025-09,Tuesday,1228.0,6.32,0.396,0.581
+PST-00389,CafeCanvas,2025-12-13,12:15,Reel,Food,241,21,4,61,Yes,,No,6794,7286,206.0,2,28,14,206,38,48,0,0.54,Tap to buy,US,Macro,Outlier,Possible duplicate,2025-12,Saturday,250.0,3.68,0.412,0.206
+PST-00390,CafeCanvas,2025-12-29,08:00,Reel,Food,1843,24,7,19,,,No,11717,18757,276.0,8,50,38,412,12,205,0,0.94,DM us,India,Macro,High Intent,Outlier,2025-12,Monday,372.0,3.17,0.427,0.324
+PST-00391,FitFuel India,2026-01-26,17:30,Static,Fitness,2160,21,7,53,,CAM-2510-042,Yes,9970,22038,276.0,17,34,29,301,5,110,21699,0.61,DM us,India,Nano,Outlier,,2026-01,Monday,356.0,3.57,0.341,0.291
+PST-00392,FitFuel India,2025-10-09,09:15,Carousel,Fitness,1293,6,1,98,N,CAM-2507-058,Yes,27226,42553,1244.0,61,224,182,203,26,82,22553,0.51,Link in bio,US,Brand Owned,Outlier,Possible duplicate,2025-10,Thursday,1711.0,6.28,0.823,0.668
+PST-00393,SareeStreet,2025-12-04,23:15,Reel,Fashion,351,13,6,60,Y,,No,11314,26602,512.0,34,52,53,425,20,147,0,-0.11,Comment below,IN,Mid,Creator,Missing UTMs,2025-12,Thursday,651.0,5.75,0.46,0.468
+PST-00394,SareeStreet,2025-07-23,20:05,Carousel,Fashion,419,24,0,46,No,CAM-2510-033,No,12487,23673,666.0,29,37,116,184,16,89,0,0.29,Comment below,India,Brand Owned,Outlier,Possible duplicate,2025-07,Wednesday,848.0,6.79,0.296,0.929
+PST-00395,SareeStreet,2026-01-29,09:45,Story,Fashion,275,0,6,63,No,CAM-2507-037,Yes,7327,8209,175.0,11,23,18,148,27,34,14217,0.56,DM us,India,Nano,High Intent,,2026-01,Thursday,227.0,3.1,0.314,0.246
+PST-00396,UrbanPaws,2025-09-18,08:00,Static,Pet Care,1924,22,1,37,,,No,16291,34978,244.0,15,31,28,524,19,35,0,0.65,Link in bio,US,Nano,High Intent,,2025-09,Thursday,318.0,1.95,0.19,0.172
+PST-00397,SareeStreet,2025-08-24,08:15,Carousel,Fashion,2045,16,7,79,,CAM-2507-026,No,8035,20069,401.0,27,69,38,301,51,155,0,-0.02,DM us,US,Macro,High Intent,Missing UTMs,2025-08,Sunday,535.0,6.66,0.859,0.473
+PST-00398,FitFuel India,2026-01-24,22:45,Reel,Fitness,2170,16,3,12,No,,No,15528,38479,614.0,36,102,29,55,12,21,0,0.11,No CTA,IN,Brand Owned,Creator,Possible duplicate,2026-01,Saturday,781.0,5.03,0.657,0.187
+PST-00399,FitFuel India,2025-09-18,08:30,Carousel,Fitness,1328,24,1,99,No,,No,17270,23539,1198.0,35,331,194,310,4,50,0,0.88,Comment below,US,Micro,Outlier,Outlier,2025-09,Thursday,1758.0,10.18,1.917,1.123
+PST-00400,FitFuel India,2025-07-07,08:00,Reel,Fitness,1799,9,2,28,Y,,No,7853,8544,239.0,11,40,34,251,59,118,0,0.27,DM us,India,Nano,,Check metrics,2025-07,Monday,324.0,4.13,0.509,0.433
+PST-00401,UrbanPaws,2025-11-01,18:45,Story,Pet Care,84,17,0,100,Yes,CAM-2510-059,Yes,6607,11770,128.0,8,6,20,24,4,1,9793,-0.53,Comment below,US,Brand Owned,High Intent,Check metrics,2025-11,Saturday,162.0,2.45,0.091,0.303
+PST-00402,UrbanPaws,2025-10-05,17:05,Reel,Pet Care,898,27,6,16,Y,CAM-2508-016,Yes,11237,17614,542.0,31,54,47,175,32,33,23324,0.03,No CTA,,Micro,Outlier,Possible duplicate,2025-10,Sunday,674.0,6.0,0.481,0.418
+PST-00403,CafeCanvas,2025-08-20,13:15,Static,Food,1302,3,3,28,Yes,CAM-2508-046,Yes,21330,32170,,25,26,42,70,1,1,14675,0.15,No CTA,Global,Mid,Outlier,Possible duplicate,2025-08,Wednesday,93.0,0.44,0.122,0.197
+PST-00404,SareeStreet,2025-07-24,13:00,Carousel,Fashion,2195,1,5,90,N,CAM-2508-024,No,14874,31638,855.0,63,187,105,361,62,136,0,-0.69,Comment below,US,Micro,Retargeting,Check metrics,2025-07,Thursday,1210.0,8.14,1.257,0.706
+PST-00405,ByteBazaar,2025-08-27,20:45,Carousel,Tech,50,21,7,81,N,,No,25814,47593,936.0,29,189,104,434,72,120,0,0.87,Shop Now,IN,Nano,Holiday,Possible duplicate,2025-08,Wednesday,1258.0,4.87,0.732,0.403
+PST-00406,GlowKart,2025-12-15,13:45,Story,Beauty,1204,26,1,28,Yes,CAM-2510-028,No,21289,53203,331.0,18,73,7,489,27,140,0,0.52,Tap to buy,IN,Nano,Test,Outlier,2025-12,Monday,429.0,2.02,0.343,0.033
+PST-00407,FitFuel India,2025-12-26,13:45,Reel,Fitness,1733,19,7,71,Y,,No,25558,39350,1147.0,37,255,67,662,12,102,0,-0.54,Learn More,India,Mid,Creator,Missing UTMs,2025-12,Friday,1506.0,5.89,0.998,0.262
+PST-00408,UrbanPaws,2025-07-23,20:05,Reel,Pet Care,72,9,5,92,No,,No,31476,52348,1562.0,82,153,261,624,64,138,0,-0.06,Learn More,IN,Macro,Outlier,,2025-07,Wednesday,2058.0,6.54,0.486,0.829
+PST-00409,SareeStreet,2025-12-14,13:05,Story,Fashion,1467,1,3,79,,,No,11874,16138,137.0,1,30,18,430,14,227,0,0.9,Tap to buy,US,Micro,Outlier,Possible duplicate,2025-12,Sunday,186.0,1.57,0.253,0.152
+PST-00410,FitFuel India,2025-12-06,22:45,Story,Fitness,328,7,0,61,No,,No,3746,8387,83.0,6,14,8,80,2,29,0,-0.5,Comment below,Global,Nano,Holiday,,2025-12,Saturday,111.0,2.96,0.374,0.214
+PST-00411,SareeStreet,2025-10-01,12:05,Reel,Fashion,1774,14,1,85,N,,No,20507,27168,443.0,13,35,39,206,8,53,0,-0.02,No CTA,US,Nano,,Check metrics,2025-10,Wednesday,530.0,2.58,0.171,0.19
+PST-00412,CafeCanvas,2025-12-12,19:30,Reel,Food,1958,21,4,56,N,,No,4690,8642,192.0,11,45,20,179,32,92,0,-0.46,Tap to buy,India,Nano,High Intent,,2025-12,Friday,268.0,5.71,0.959,0.426
+PST-00413,CafeCanvas,2025-09-25,23:30,Reel,Food,1209,17,0,37,,,No,13182,20824,414.0,28,91,31,288,56,73,0,0.88,Comment below,UAE,Brand Owned,Retargeting,Check metrics,2025-09,Thursday,564.0,4.28,0.69,0.235
+PST-00414,SareeStreet,2025-11-18,22:05,Carousel,Fashion,578,13,0,0,,,No,19357,31191,815.0,38,152,106,101,18,43,0,0.84,Comment below,UAE,Micro,High Intent,,2025-11,Tuesday,1111.0,5.74,0.785,0.548
+PST-00415,GlowKart,2025-08-11,22:45,Story,Beauty,2074,11,2,75,Yes,,No,8591,9188,97.0,4,10,8,57,1,14,0,0.11,No CTA,,Nano,Retargeting,Possible duplicate,2025-08,Monday,119.0,1.39,0.116,0.093
+PST-00416,FitFuel India,2025-08-03,18:05,Static,Fitness,1375,22,4,99,Y,,No,26184,54122,605.0,7,105,106,692,76,87,0,-0.2,Learn More,,Macro,,,2025-08,Sunday,823.0,3.14,0.401,0.405
+PST-00417,CafeCanvas,2026-01-30,23:00,Carousel,Food,1168,6,4,87,,,No,13372,30662,676.0,25,161,98,479,103,148,0,-0.23,Learn More,US,Nano,Creator,,2026-01,Friday,960.0,7.18,1.204,0.733
+PST-00418,FitFuel India,2025-10-24,18:30,Reel,Fitness,1577,11,6,48,No,CAM-2512-015,Yes,19398,34959,1017.0,26,183,85,134,9,20,10123,-0.26,Save for later,Global,Macro,Retargeting,,2025-10,Friday,1311.0,6.76,0.943,0.438
+PST-00419,FitFuel India,2026-01-09,22:00,Reel,Fitness,489,6,7,58,N,CAM-2510-004,Yes,9326,17990,433.0,19,59,59,365,40,43,586,0.24,No CTA,India,Brand Owned,,Missing UTMs,2026-01,Friday,570.0,6.11,0.633,0.633
+PST-00420,FitFuel India,2025-12-27,23:15,Static,Fitness,1826,8,1,31,Y,CAM-2510-033,Yes,6393,12363,99.0,1,21,4,89,17,17,5388,-0.16,Shop Now,IN,Brand Owned,Holiday,,2025-12,Saturday,125.0,1.96,0.328,0.063
+PST-00421,CafeCanvas,2025-08-22,09:05,Story,Food,248,10,7,11,No,CAM-2508-057,No,901,2038,12.0,0,1,0,16,0,0,0,-0.22,Link in bio,UAE,Micro,High Intent,,2025-08,Friday,13.0,1.44,0.111,0.0
+PST-00422,UrbanPaws,2026-01-20,09:15,Reel,Pet Care,1263,7,5,72,,,No,38310,68879,1870.0,78,484,310,1165,285,144,0,0.9,No CTA,,Nano,Outlier,,2026-01,Tuesday,2742.0,7.16,1.263,0.809
+PST-00423,ByteBazaar,2025-10-28,22:45,Carousel,Tech,1986,7,4,89,Yes,,No,3376,6763,188.0,7,22,24,87,4,14,0,-0.31,No CTA,India,Nano,Outlier,Outlier,2025-10,Tuesday,241.0,7.14,0.652,0.711
+PST-00424,GlowKart,2026-01-30,23:30,Reel,Beauty,2071,2,1,44,N,,No,4072,5497,,2,17,16,83,5,17,0,0.6,Comment below,IN,Nano,High Intent,Check metrics,2026-01,Friday,35.0,0.86,0.417,0.393
+PST-00425,CafeCanvas,2025-09-29,09:30,Static,Food,1273,0,5,74,Y,,No,11774,20510,630.0,28,143,49,264,15,53,0,-0.74,No CTA,India,Micro,Outlier,Outlier,2025-09,Monday,850.0,7.22,1.215,0.416
+PST-00426,UrbanPaws,2025-09-11,22:05,Carousel,Pet Care,2191,12,1,43,,,No,10307,18288,148.0,8,31,8,142,20,66,0,-0.57,Learn More,IN,Mid,Creator,Missing UTMs,2025-09,Thursday,195.0,1.89,0.301,0.078
+PST-00427,GlowKart,2025-07-04,13:15,Static,Beauty,445,17,7,42,,CAM-2510-028,Yes,9594,7379,256.0,15,23,28,282,19,30,10711,-0.17,Comment below,IN,Brand Owned,Test,,2025-07,Friday,322.0,3.36,0.24,0.292
+PST-00428,SareeStreet,2026-01-10,18:05,Carousel,Fashion,2181,17,2,95,No,,No,4907,5422,156.0,5,14,7,168,32,59,0,0.28,Comment below,India,Mid,High Intent,,2026-01,Saturday,182.0,3.71,0.285,0.143
+PST-00429,FitFuel India,2025-11-04,20:30,Carousel,Fitness,944,19,5,9,Y,,No,2507,5699,132.0,7,18,6,75,5,31,0,-0.01,Tap to buy,,Macro,Test,,2025-11,Tuesday,163.0,6.5,0.718,0.239
+PST-00430,FitFuel India,2025-08-14,13:15,Story,Fitness,646,2,4,15,No,,No,6819,13293,93.0,3,3,11,195,17,7,0,-0.78,Learn More,IN,Mid,High Intent,,2025-08,Thursday,110.0,1.61,0.044,0.161
+PST-00431,GlowKart,2026-01-03,20:45,Live,Beauty,1575,28,7,90,Y,,No,11137,26180,538.0,13,128,84,133,21,67,0,-0.55,Tap to buy,US,Nano,Creator,,2026-01,Saturday,763.0,6.85,1.149,0.754
+PST-00432,UrbanPaws,2025-10-16,13:15,Carousel,Pet Care,866,21,5,43,Y,,No,9750,19229,544.0,30,120,62,351,83,22,0,0.47,Comment below,,Mid,High Intent,Missing UTMs,2025-10,Thursday,756.0,7.75,1.231,0.636
+PST-00433,FitFuel India,2025-10-04,20:45,Reel,Fitness,232,7,4,59,No,,No,6196,11048,134.0,1,31,16,102,6,17,0,-0.76,Shop Now,India,Nano,Holiday,Missing UTMs,2025-10,Saturday,182.0,2.94,0.5,0.258
+PST-00434,GlowKart,2026-01-15,13:05,Carousel,Beauty,590,0,0,37,,,No,6877,15805,270.0,12,23,48,45,4,6,0,-0.43,Learn More,,Brand Owned,Holiday,,2026-01,Thursday,353.0,5.13,0.334,0.698
+PST-00435,FitFuel India,2025-08-28,17:30,Story,Fitness,87,23,6,10,N,,No,6321,11364,90.0,1,18,6,34,6,4,0,-0.78,Tap to buy,US,Nano,Retargeting,Check metrics,2025-08,Thursday,115.0,1.82,0.285,0.095
+PST-00436,ByteBazaar,2026-01-26,23:00,Carousel,Tech,690,6,3,54,N,,No,8511,17500,613.0,37,43,106,148,20,66,0,-0.8,Comment below,UAE,Brand Owned,,Check metrics,2026-01,Monday,799.0,9.39,0.505,1.245
+PST-00437,ByteBazaar,2025-09-02,17:15,Reel,Tech,861,0,3,48,Yes,CAM-2508-035,Yes,73850,182126,2218.0,135,92,397,1515,253,643,22486,-0.07,Save for later,IN,Nano,Creator,Outlier,2025-09,Tuesday,2842.0,3.85,0.125,0.538
+PST-00438,UrbanPaws,2026-01-21,22:00,Carousel,Pet Care,1483,13,0,70,,CAM-2508-008,Yes,25765,29028,1483.0,53,98,87,314,68,153,8594,-0.02,Shop Now,,Macro,High Intent,Check metrics,2026-01,Wednesday,1721.0,6.68,0.38,0.338
+PST-00439,GlowKart,2025-09-04,19:00,Static,Beauty,1848,25,6,32,Y,CAM-2510-033,Yes,3293,4155,56.0,2,13,5,82,15,24,13956,-0.16,Shop Now,UAE,Mid,Holiday,,2025-09,Thursday,76.0,2.31,0.395,0.152
+PST-00440,SareeStreet,2025-09-04,09:30,Static,Fashion,190,7,4,14,,CAM-2511-012,No,5280,8354,91.0,5,4,6,159,2,61,0,0.62,Shop Now,India,Mid,High Intent,Possible duplicate,2025-09,Thursday,106.0,2.01,0.076,0.114
+PST-00441,SareeStreet,2025-10-15,18:05,Story,Fashion,649,4,1,56,Y,,No,12598,32194,157.0,2,17,20,450,34,174,0,0.35,DM us,UAE,Brand Owned,Holiday,Missing UTMs,2025-10,Wednesday,196.0,1.56,0.135,0.159
+PST-00442,ByteBazaar,2025-08-29,13:00,Reel,Tech,1832,19,5,24,No,,No,45570,113514,2276.0,96,412,203,1132,162,616,0,-0.69,No CTA,UAE,Brand Owned,Retargeting,Check metrics,2025-08,Friday,2987.0,6.55,0.904,0.445
+PST-00444,SareeStreet,2026-01-21,23:15,Reel,Fashion,106,26,4,48,No,CAM-2509-011,Yes,10736,27825,561.0,10,95,67,379,60,35,9026,0.17,Learn More,US,Mid,Outlier,,2026-01,Wednesday,733.0,6.83,0.885,0.624
+PST-00445,ByteBazaar,2025-11-09,13:00,Reel,Tech,2069,5,7,17,N,,No,2815,1957,87.0,3,22,13,105,9,47,0,0.12,Tap to buy,Global,Macro,Creator,Missing UTMs,2025-11,Sunday,125.0,4.44,0.782,0.462
+PST-00446,GlowKart,2025-08-18,20:00,Story,Beauty,275,9,4,91,No,CAM-2512-043,Yes,8841,20048,433.0,20,90,40,75,17,38,20712,-0.84,Link in bio,IN,Mid,Outlier,Missing UTMs,2025-08,Monday,583.0,6.59,1.018,0.452
+PST-00448,GlowKart,2025-12-12,17:30,Carousel,Beauty,581,28,7,37,,,No,23592,35208,950.0,24,137,156,121,24,63,0,-0.34,Comment below,,Micro,Creator,,2025-12,Friday,1267.0,5.37,0.581,0.661
+PST-00449,SareeStreet,2025-10-22,17:15,Reel,Fashion,529,14,7,72,,CAM-2508-046,Yes,25421,51691,1443.0,40,236,230,310,70,86,11032,-0.44,Learn More,Global,Macro,Test,Check metrics,2025-10,Wednesday,1949.0,7.67,0.928,0.905
+PST-00450,SareeStreet,2025-10-24,TBD,Static,Fashion,1352,25,1,61,No,CAM-2508-057,Yes,11872,22311,133.0,2,33,15,31,4,11,22734,0.19,Shop Now,UAE,Nano,High Intent,Outlier,2025-10,Friday,183.0,1.54,0.278,0.126
+PST-00451,ByteBazaar,2025-10-12,23:05,Story,Tech,1459,28,0,94,No,CAM-2509-039,Yes,8432,15523,127.0,3,12,15,306,4,90,7139,0.08,DM us,India,Micro,High Intent,,2025-10,Sunday,157.0,1.86,0.142,0.178
+PST-00452,SareeStreet,2025-10-18,18:15,Carousel,Fashion,41,12,3,3,Yes,,No,623,892,42.0,2,8,7,6,0,1,0,-0.06,No CTA,UAE,Micro,Test,,2025-10,Saturday,59.0,9.47,1.284,1.124
+PST-00453,UrbanPaws,2025-08-29,17:00,Reel,Pet Care,1033,23,5,68,Y,,No,4097,8805,,5,19,12,75,4,21,0,0.71,Link in bio,IN,Macro,,Check metrics,2025-08,Friday,36.0,0.88,0.464,0.293
+PST-00454,GlowKart,2026-01-01,09:45,Reel,Beauty,1944,21,5,100,Yes,,No,13686,19544,463.0,32,75,79,353,62,127,0,0.65,No CTA,IN,Brand Owned,Test,,2026-01,Thursday,649.0,4.74,0.548,0.577
+PST-00455,UrbanPaws,2025-11-17,13:30,Reel,Pet Care,650,28,4,47,Yes,,No,4392,6715,238.0,15,61,34,172,31,89,-1917,-0.83,Comment below,India,Macro,,Check metrics,2025-11,Monday,348.0,7.92,1.389,0.774
+PST-00456,FitFuel India,2025-11-11,20:15,Reel,Fitness,754,2,7,83,No,CAM-2508-035,Yes,72025,118104,3036.0,140,187,425,2815,643,1279,16719,-0.75,Shop Now,Global,Macro,,,2025-11,Tuesday,3788.0,5.26,0.26,0.59
+PST-00457,GlowKart,2026-01-25,18:05,Story,Beauty,600,17,7,71,,,No,4925,9712,63.0,2,10,10,57,12,3,0,-0.38,Comment below,Global,Mid,Retargeting,,2026-01,Sunday,85.0,1.73,0.203,0.203
+PST-00459,CafeCanvas,2025-07-31,08:05,Live,Food,1137,22,5,19,N,,No,68080,79959,2951.0,86,690,455,1500,104,250,0,0.62,DM us,UAE,Mid,,Missing UTMs,2025-07,Thursday,4182.0,6.14,1.014,0.668
+PST-00460,CafeCanvas,2025-07-27,12:05,Carousel,Food,1243,27,7,46,No,,No,6935,13335,463.0,29,32,53,244,21,86,0,0.77,Comment below,Global,Nano,Creator,,2025-07,Sunday,577.0,8.32,0.461,0.764
+PST-00461,UrbanPaws,2025-07-03,18:15,Static,Pet Care,195,6,0,8,N,CAM-2511-013,Yes,5593,7582,104.0,1,5,11,174,25,93,7527,0.89,Tap to buy,UAE,Micro,High Intent,Check metrics,2025-07,Thursday,121.0,2.16,0.089,0.197
+PST-00462,UrbanPaws,2025-07-29,18:45,Reel,Pet Care,1313,25,7,60,Yes,,No,20208,21803,1152.0,91,210,170,683,54,154,0,0.89,Tap to buy,India,Micro,Creator,,2025-07,Tuesday,1623.0,8.03,1.039,0.841
+PST-00463,FitFuel India,2025-08-04,09:45,Story,Fitness,1630,5,0,65,Y,,No,5806,10454,134.0,8,30,10,23,1,10,0,-0.46,Link in bio,IN,Macro,Holiday,Possible duplicate,2025-08,Monday,182.0,3.13,0.517,0.172
+PST-00464,UrbanPaws,2025-09-15,20:45,Reel,Pet Care,1453,7,2,80,Yes,CAM-2510-021,No,25543,50775,1158.0,44,128,121,807,200,350,0,0.65,Learn More,UAE,Nano,Creator,Possible duplicate,2025-09,Monday,1451.0,5.68,0.501,0.474
+PST-00465,GlowKart,2025-12-21,18:30,Carousel,Beauty,1933,21,6,22,No,CAM-2510-045,No,15435,25255,1092.0,61,68,188,320,13,46,0,0.45,Tap to buy,US,Brand Owned,,Possible duplicate,2025-12,Sunday,1409.0,9.13,0.441,1.218
+PST-00466,FitFuel India,2026-01-26,17:30,Reel,Fitness,822,20,5,86,No,CAM-2510-023,Yes,15794,35208,849.0,63,202,30,231,37,18,9066,-0.12,Shop Now,India,Mid,Outlier,,2026-01,Monday,1144.0,7.24,1.279,0.19
+PST-00467,CafeCanvas,2025-12-31,12:45,Reel,Food,599,28,6,35,N,,No,12324,20471,420.0,29,83,40,70,12,4,0,-0.16,Tap to buy,IN,Macro,,,2025-12,Wednesday,572.0,4.64,0.673,0.325
+PST-00468,GlowKart,2025-09-28,18:00,Carousel,Beauty,903,1,3,98,Yes,,No,9290,11616,392.0,10,102,54,321,71,76,0,0.55,Learn More,UAE,Mid,,Outlier,2025-09,Sunday,558.0,6.01,1.098,0.581
+PST-00469,SareeStreet,2026-01-11,17:00,Story,Fashion,492,25,0,20,No,,No,11286,20527,166.0,2,44,7,53,3,13,0,0.13,Learn More,UAE,Macro,,,2026-01,Sunday,219.0,1.94,0.39,0.062
+PST-00470,CafeCanvas,2025-08-15,23:30,Static,Food,830,13,5,99,N,,No,25299,30635,379.0,12,34,45,440,90,56,0,0.1,No CTA,India,Micro,Holiday,,2025-08,Friday,470.0,1.86,0.134,0.178
+PST-00471,UrbanPaws,2025-07-30,20:30,Carousel,Pet Care,672,22,1,43,Y,,No,4502,10292,223.0,15,10,21,178,4,42,0,-0.42,Shop Now,,Micro,Creator,Check metrics,2025-07,Wednesday,269.0,5.98,0.222,0.466
+PST-00472,CafeCanvas,2025-08-10,23:45,Reel,Food,1865,5,0,57,Yes,,No,17942,21796,369.0,24,62,42,560,21,127,0,-0.46,No CTA,India,Macro,Test,Outlier,2025-08,Sunday,497.0,2.77,0.346,0.234
+PST-00473,UrbanPaws,2025-08-06,18:00,Reel,Pet Care,1489,19,6,35,Y,,No,16666,38882,446.0,29,70,49,68,3,16,0,0.88,Learn More,,Nano,Outlier,Check metrics,2025-08,Wednesday,594.0,3.56,0.42,0.294
+PST-00474,FitFuel India,2025-09-29,18:05,Carousel,Fitness,455,21,3,41,N,,No,12123,13914,810.0,13,136,25,385,15,65,0,0.28,Link in bio,,Macro,Retargeting,Missing UTMs,2025-09,Monday,984.0,8.12,1.122,0.206
+PST-00475,CafeCanvas,2026-01-19,18:45,Story,Food,323,23,7,59,No,,No,2118,4118,50.0,3,3,4,70,8,24,0,-0.45,Tap to buy,US,Brand Owned,Creator,,2026-01,Monday,60.0,2.83,0.142,0.189
+PST-00476,GlowKart,2026-01-08,20:05,Reel,Beauty,295,11,2,52,N,CAM-2511-025,Yes,25089,54927,666.0,22,168,46,293,15,152,19250,0.91,Comment below,UAE,Macro,Holiday,Outlier,2026-01,Thursday,902.0,3.6,0.67,0.183
+PST-00477,GlowKart,2025-10-09,09:00,Story,Beauty,947,1,3,5,Y,,No,24094,50765,,5,90,16,585,116,28,0,-0.15,Shop Now,US,Brand Owned,Test,,2025-10,Thursday,111.0,0.46,0.374,0.066
+PST-00478,CafeCanvas,2025-12-05,08:05,Story,Food,1935,10,4,41,No,CAM-2507-034,Yes,4326,7546,41.0,0,3,3,140,21,60,6388,-0.26,No CTA,India,Mid,Retargeting,,2025-12,Friday,47.0,1.09,0.069,0.069
+PST-00479,ByteBazaar,2026-01-12,13:30,Reel,Tech,657,6,4,99,Y,,No,6971,11376,186.0,2,22,22,26,4,3,0,-0.34,DM us,Global,Micro,Holiday,,2026-01,Monday,232.0,3.33,0.316,0.316
+PST-00480,FitFuel India,2025-12-08,13:30,Reel,Fitness,2090,15,7,40,,,No,14678,28914,793.0,47,219,51,95,12,12,0,-0.69,Link in bio,,Micro,Retargeting,,2025-12,Monday,1110.0,7.56,1.492,0.347
+PST-00481,SareeStreet,2025-08-15,9pm,Static,Fashion,444,10,6,94,Yes,,No,33088,51115,681.0,37,124,42,1112,205,378,0,0.33,No CTA,India,Nano,Test,Possible duplicate,2025-08,Friday,884.0,2.67,0.375,0.127
+PST-00482,FitFuel India,2025-11-01,20:30,Story,Fitness,888,24,4,2,,,No,12939,26387,253.0,14,52,38,197,4,72,0,0.43,Shop Now,India,Nano,Test,Outlier,2025-11,Saturday,357.0,2.76,0.402,0.294
+PST-00483,UrbanPaws,2026-01-28,20:15,Static,Pet Care,365,2,6,1,N,,No,8329,14363,270.0,6,24,30,55,5,25,0,0.72,DM us,India,Macro,,,2026-01,Wednesday,330.0,3.96,0.288,0.36
+PST-00484,GlowKart,2025-07-23,08:05,Story,Beauty,1707,9,7,93,Yes,CAM-2510-045,Yes,16182,40949,903.0,59,107,122,637,101,203,1907,-0.66,Link in bio,India,Micro,Outlier,,2025-07,Wednesday,1191.0,7.36,0.661,0.754
+PST-00485,CafeCanvas,2025-07-26,12:30,Carousel,Food,1389,23,2,44,No,,No,18781,35693,1188.0,74,132,82,732,97,24,0,-0.84,Save for later,US,Micro,Retargeting,Missing UTMs,2025-07,Saturday,1476.0,7.86,0.703,0.437
+PST-00486,ByteBazaar,2025-12-22,18:15,Static,Tech,1637,7,6,50,N,CAM-2508-038,Yes,18716,47067,256.0,13,30,26,336,79,44,23676,0.42,Link in bio,IN,Macro,Retargeting,Check metrics,2025-12,Monday,325.0,1.74,0.16,0.139
+PST-00487,GlowKart,2025-07-23,09:00,Static,Beauty,427,9,6,32,,CAM-2510-023,Yes,18914,25419,560.0,7,63,76,246,60,80,21735,0.57,Shop Now,Global,Mid,Creator,Outlier,2025-07,Wednesday,706.0,3.73,0.333,0.402
+PST-00488,SareeStreet,2025-12-17,19:15,Carousel,Fashion,953,12,4,29,N,CAM-2508-057,Yes,16722,37577,1006.0,52,125,126,666,121,72,17749,-0.02,Comment below,IN,Macro,,Missing UTMs,2025-12,Wednesday,1309.0,7.83,0.748,0.753
+PST-00490,SareeStreet,2026-01-06,23:15,Carousel,Fashion,1276,9,6,8,N,CAM-2508-024,Yes,29782,31778,751.0,47,148,102,1144,149,189,19749,-0.22,DM us,US,Nano,Creator,,2026-01,Tuesday,1048.0,3.52,0.497,0.342
+PST-00491,FitFuel India,2025-07-10,12:45,Static,Fitness,975,18,2,34,N,,No,3418,8368,52.0,3,3,2,109,5,57,0,-0.74,DM us,,Brand Owned,,,2025-07,Thursday,60.0,1.76,0.088,0.059
+PST-00492,CafeCanvas,2025-11-20,23:45,Static,Food,169,23,7,34,No,CAM-2510-054,No,10104,15253,188.0,3,15,6,374,26,43,0,0.8,No CTA,India,Micro,Retargeting,Possible duplicate,2025-11,Thursday,212.0,2.1,0.148,0.059
+PST-00493,FitFuel India,2026-01-14,23:15,Reel,Fitness,1132,8,6,58,No,,No,6183,10335,232.0,2,28,8,13,1,2,0,0.26,Link in bio,IN,Brand Owned,Creator,,2026-01,Wednesday,270.0,4.37,0.453,0.129
+PST-00494,FitFuel India,2025-12-23,13:45,Story,Fitness,1753,3,3,88,No,,No,17638,33912,396.0,5,105,14,585,70,96,0,0.09,No CTA,India,Micro,,Outlier,2025-12,Tuesday,520.0,2.95,0.595,0.079
+PST-00495,CafeCanvas,2025-07-15,23:30,Carousel,Food,971,0,1,100,,,No,5439,6631,81.0,3,5,13,199,26,35,0,-0.38,No CTA,US,Mid,Outlier,,2025-07,Tuesday,102.0,1.88,0.092,0.239
+PST-00496,GlowKart,2025-07-22,19:30,Reel,Beauty,1169,26,3,23,No,,No,9153,12003,462.0,10,62,39,322,55,61,0,-0.19,DM us,Global,Mid,Retargeting,,2025-07,Tuesday,573.0,6.26,0.677,0.426
+PST-00497,FitFuel India,2025-10-06,08:30,Carousel,Fitness,1232,25,6,40,No,,No,13524,32350,751.0,11,72,26,267,7,91,0,-0.45,Comment below,,Macro,,Possible duplicate,2025-10,Monday,860.0,6.36,0.532,0.192
+PST-00498,SareeStreet,2025-11-04,9pm,Reel,Fashion,1446,5,7,65,N,CAM-2511-041,Yes,35010,66202,1255.0,41,80,172,72,7,20,15357,-0.35,DM us,India,Macro,Creator,,2025-11,Tuesday,1548.0,4.42,0.229,0.491
+PST-00499,GlowKart,2025-10-11,23:00,Carousel,Beauty,2195,22,5,35,No,,No,35265,68383,977.0,12,156,88,886,132,35,0,-0.51,No CTA,US,Brand Owned,Creator,Missing UTMs,2025-10,Saturday,1233.0,3.5,0.442,0.25
+PST-00500,SareeStreet,2025-09-01,23:45,Live,Fashion,1328,10,3,31,No,CAM-2511-053,Yes,6960,7725,221.0,2,12,7,162,37,36,3022,0.45,Link in bio,Global,Nano,Test,Possible duplicate,2025-09,Monday,242.0,3.48,0.172,0.101
+PST-00501,UrbanPaws,2025-07-12,08:15,Reel,Pet Care,783,8,3,20,No,,No,30348,67190,900.0,46,130,160,584,100,258,0,0.35,No CTA,India,Nano,Retargeting,Missing UTMs,2025-07,Saturday,1236.0,4.07,0.428,0.527
+PST-00502,SareeStreet,2025-08-05,17:45,Reel,Fashion,1890,20,6,23,No,,No,7120,8610,377.0,20,98,11,244,3,15,-967,0.57,Comment below,US,Micro,Holiday,Outlier,2025-08,Tuesday,506.0,7.11,1.376,0.154
+PST-00503,FitFuel India,2025-09-24,18:15,Reel,Fitness,777,0,5,20,Yes,CAM-2510-023,Yes,59494,82017,2532.0,175,543,364,1713,116,300,6201,0.33,Learn More,UAE,Macro,Outlier,,2025-09,Wednesday,3614.0,6.07,0.913,0.612
+PST-00504,ByteBazaar,2025-09-01,18:05,Reel,Tech,1001,10,7,31,Yes,CAM-2512-015,Yes,18078,42924,1017.0,75,282,38,163,4,69,16279,0.76,No CTA,US,Brand Owned,Retargeting,Missing UTMs,2025-09,Monday,1412.0,7.81,1.56,0.21
+PST-00505,FitFuel India,2025-10-25,13:15,Reel,Fitness,1378,0,3,14,,CAM-2508-057,Yes,36138,47559,2060.0,101,335,301,775,190,101,13727,0.5,Learn More,,Mid,Retargeting,Possible duplicate,2025-10,Saturday,2797.0,7.74,0.927,0.833
+PST-00506,UrbanPaws,2026-01-21,19:45,Reel,Pet Care,1103,13,3,80,Y,,No,34740,86915,1722.0,49,423,210,952,231,503,0,0.85,Tap to buy,UAE,Macro,,,2026-01,Wednesday,2404.0,6.92,1.218,0.604
+PST-00507,SareeStreet,2025-12-16,23:15,Reel,Fashion,1293,15,0,59,N,,No,12211,16109,392.0,22,83,13,213,53,98,0,-0.28,DM us,Global,Mid,Retargeting,,2025-12,Tuesday,510.0,4.18,0.68,0.106
+PST-00508,FitFuel India,2025-09-15,17:05,Story,Fitness,745,23,0,73,No,,No,2051,4713,20.0,0,5,1,12,1,6,0,0.08,DM us,,Macro,Creator,,2025-09,Monday,26.0,1.27,0.244,0.049
+PST-00509,UrbanPaws,2025-11-04,23:15,Story,Pet Care,884,0,2,58,Y,,No,4589,8295,75.0,2,5,7,165,11,67,0,0.81,Learn More,India,Mid,Holiday,,2025-11,Tuesday,89.0,1.94,0.109,0.153
+PST-00510,SareeStreet,2025-08-04,19:05,Reel,Fashion,1924,13,3,53,No,CAM-2511-041,No,7361,8355,233.0,9,32,19,208,26,87,0,-0.17,Tap to buy,UAE,Macro,High Intent,,2025-08,Monday,293.0,3.98,0.435,0.258
+PST-00511,FitFuel India,2026-01-25,23:45,Reel,Fitness,1392,16,7,65,Yes,CAM-2510-009,No,45364,94822,1900.0,77,466,286,733,135,156,0,0.36,No CTA,India,Nano,Retargeting,,2026-01,Sunday,2729.0,6.02,1.027,0.63
+PST-00512,CafeCanvas,2025-07-13,19:30,Reel,Food,145,3,1,26,N,,No,25992,35159,1502.0,36,178,194,94,17,27,0,0.59,Learn More,UAE,Mid,Holiday,,2025-07,Sunday,1910.0,7.35,0.685,0.746
+PST-00513,GlowKart,2025-12-11,19:00,Reel,Beauty,1716,23,4,68,,,No,16750,39581,349.0,19,74,59,448,101,175,0,0.77,Comment below,IN,Micro,Test,,2025-12,Thursday,501.0,2.99,0.442,0.352
+PST-00514,SareeStreet,2025-09-22,18:00,Carousel,Fashion,27,6,7,28,No,CAM-2508-057,Yes,30833,57202,1998.0,22,156,233,669,113,318,18899,-0.34,No CTA,Global,Micro,Outlier,Possible duplicate,2025-09,Monday,2409.0,7.81,0.506,0.756
+PST-00515,GlowKart,2025-11-02,23:05,Static,Beauty,477,17,7,72,No,,No,20344,39892,542.0,24,47,83,598,23,119,0,-0.71,Comment below,,Micro,Retargeting,,2025-11,Sunday,696.0,3.42,0.231,0.408
+PST-00516,ByteBazaar,2025-12-26,13:15,Reel,Tech,319,27,0,76,No,CAM-2511-044,No,15651,40366,603.0,27,53,31,398,61,39,0,-0.31,Tap to buy,US,Nano,Creator,,2025-12,Friday,714.0,4.56,0.339,0.198
+PST-00517,ByteBazaar,2025-08-07,TBD,Reel,Tech,114,21,3,41,No,,No,22775,44108,505.0,30,105,34,698,26,341,0,0.75,Shop Now,Global,Brand Owned,High Intent,Outlier,2025-08,Thursday,674.0,2.96,0.461,0.149
+PST-00518,CafeCanvas,2025-07-03,22:45,Static,Food,644,19,3,35,No,CAM-2510-020,No,9095,16519,230.0,3,54,22,338,28,71,0,-0.51,Learn More,Global,Micro,Holiday,,2025-07,Thursday,309.0,3.4,0.594,0.242
+PST-00519,GlowKart,2026-01-15,18:30,Reel,Beauty,1817,9,6,13,No,,No,6802,13823,217.0,9,25,18,241,60,121,0,0.32,Shop Now,IN,Mid,Creator,Possible duplicate,2026-01,Thursday,269.0,3.95,0.368,0.265
+PST-00520,CafeCanvas,2026-01-03,08:05,Reel,Food,258,5,5,84,Y,,No,42651,83648,1544.0,30,125,74,1363,313,239,0,0.57,Comment below,US,Nano,High Intent,,2026-01,Saturday,1773.0,4.16,0.293,0.174
+PST-00521,UrbanPaws,2025-10-03,17:45,Carousel,Pet Care,1985,8,7,97,N,,No,43992,76657,1211.0,23,64,51,1229,37,266,0,-0.15,Link in bio,,Brand Owned,,,2025-10,Friday,1349.0,3.07,0.145,0.116
+PST-00522,GlowKart,2025-11-04,08:30,Story,Beauty,1768,2,3,1,,CAM-2508-005,Yes,5014,11901,109.0,3,5,10,194,33,90,22108,0.08,Tap to buy,,Nano,,Possible duplicate,2025-11,Tuesday,127.0,2.53,0.1,0.199
+PST-00523,GlowKart,2025-07-23,22:05,Reel,Beauty,1734,27,4,68,N,,No,34429,59363,1678.0,43,186,87,139,27,76,0,-0.44,DM us,India,Micro,,,2025-07,Wednesday,1994.0,5.79,0.54,0.253
+PST-00524,SareeStreet,2025-10-15,09:45,Reel,Fashion,451,26,1,2,Y,CAM-2508-002,Yes,69993,149521,1625.0,115,248,176,993,86,381,24268,0.41,Tap to buy,Global,Macro,Test,Outlier,2025-10,Wednesday,2164.0,3.09,0.354,0.251
+PST-00525,UrbanPaws,2026-01-09,09:45,Reel,Pet Care,1677,26,3,8,Yes,,No,6592,11906,347.0,27,53,8,104,12,30,0,0.49,No CTA,UAE,Nano,High Intent,Possible duplicate,2026-01,Friday,435.0,6.6,0.804,0.121
+PST-00526,UrbanPaws,2025-09-28,19:15,Carousel,Pet Care,1009,25,2,5,,,No,9247,11258,505.0,37,102,37,290,39,136,0,0.37,Link in bio,UAE,Mid,Retargeting,Possible duplicate,2025-09,Sunday,681.0,7.36,1.103,0.4
+PST-00527,SareeStreet,2025-12-17,9pm,Static,Fashion,201,23,2,19,No,,No,12890,21533,156.0,4,35,18,510,70,80,0,0.69,No CTA,Global,Macro,Creator,,2025-12,Wednesday,213.0,1.65,0.272,0.14
+PST-00528,SareeStreet,2025-11-23,19:45,Static,Fashion,1534,20,7,47,No,,No,7065,14943,150.0,4,18,12,244,11,88,0,0.41,DM us,UAE,Macro,Holiday,Check metrics,2025-11,Sunday,184.0,2.6,0.255,0.17
+PST-00529,GlowKart,2025-09-11,09:15,Reel,Beauty,1771,8,3,55,Yes,,No,78259,164601,2479.0,175,523,127,2537,185,1016,0,-0.58,Comment below,Global,Nano,High Intent,Check metrics,2025-09,Thursday,3304.0,4.22,0.668,0.162
+PST-00530,FitFuel India,2025-07-14,12:30,Carousel,Fitness,1991,24,0,32,No,CAM-2510-054,Yes,20391,40341,536.0,36,127,90,364,83,130,14337,-0.76,DM us,UAE,Macro,High Intent,,2025-07,Monday,789.0,3.87,0.623,0.441
+PST-00531,GlowKart,2026-01-20,17:15,Story,Beauty,254,27,5,10,Y,CAM-2507-056,No,6017,6771,145.0,4,25,16,191,3,4,-2280,0.83,Link in bio,UAE,Brand Owned,Test,Possible duplicate,2026-01,Tuesday,190.0,3.16,0.415,0.266
+PST-00532,CafeCanvas,2025-12-24,22:15,Static,Food,293,10,2,82,Yes,,No,9413,18759,655.0,37,79,117,134,20,59,0,-0.38,Link in bio,US,Micro,Holiday,Missing UTMs,2025-12,Wednesday,888.0,9.43,0.839,1.243
+PST-00533,GlowKart,2025-12-14,17:15,Story,Beauty,1839,28,5,84,N,CAM-2508-005,Yes,3448,6950,45.0,0,10,4,86,4,44,10162,-0.18,Tap to buy,India,Macro,Creator,,2025-12,Sunday,59.0,1.71,0.29,0.116
+PST-00534,CafeCanvas,2025-12-31,20:30,Story,Food,78,18,4,77,Y,CAM-2510-001,Yes,23786,40437,359.0,14,41,47,490,97,126,10555,-0.52,Link in bio,,Brand Owned,Outlier,,2025-12,Wednesday,461.0,1.94,0.172,0.198
+PST-00535,CafeCanvas,2026-01-19,17:05,Carousel,Food,869,5,1,38,No,,No,9837,18839,434.0,9,28,45,57,10,4,0,0.41,Tap to buy,India,Micro,Creator,Missing UTMs,2026-01,Monday,516.0,5.25,0.285,0.457
+PST-00536,SareeStreet,2025-09-30,9pm,Static,Fashion,1607,19,6,41,No,CAM-2510-023,No,16249,40824,420.0,28,16,62,518,30,162,0,-0.18,Learn More,Global,Mid,Test,,2025-09,Tuesday,526.0,3.24,0.098,0.382
+PST-00537,CafeCanvas,2025-07-12,20:00,Reel,Food,1407,4,5,38,No,CAM-2508-024,Yes,26712,40837,720.0,49,84,62,542,83,86,18557,-0.45,Link in bio,US,Brand Owned,High Intent,Check metrics,2025-07,Saturday,915.0,3.43,0.314,0.232
+PST-00538,CafeCanvas,2025-12-22,13:15,Story,Food,923,19,3,62,No,,No,14387,33897,723.0,57,147,90,234,58,127,0,-0.83,Comment below,IN,Nano,High Intent,,2025-12,Monday,1017.0,7.07,1.022,0.626
+PST-00539,FitFuel India,2026-01-19,20:05,Reel,Fitness,1052,14,5,9,No,,No,6622,7759,357.0,18,63,56,174,8,95,0,-0.35,No CTA,IN,Micro,,Possible duplicate,2026-01,Monday,494.0,7.46,0.951,0.846
+PST-00540,CafeCanvas,2025-07-31,19:00,Story,Food,1969,6,0,5,Yes,CAM-2510-007,Yes,8749,9714,122.0,2,28,6,75,10,1,23574,-0.45,Link in bio,,Nano,Holiday,Missing UTMs,2025-07,Thursday,158.0,1.81,0.32,0.069
+PST-00541,FitFuel India,2025-08-04,17:05,Story,Fitness,1431,13,4,62,Yes,,No,1198,1311,26.0,0,2,2,28,3,13,0,0.85,Tap to buy,US,Mid,Test,,2025-08,Monday,30.0,2.5,0.167,0.167
+PST-00542,ByteBazaar,2025-11-24,09:15,Story,Tech,373,13,6,79,N,,No,17948,26224,387.0,9,36,58,409,26,169,0,-0.28,DM us,India,Mid,Test,,2025-11,Monday,490.0,2.73,0.201,0.323
+PST-00543,ByteBazaar,2025-07-21,19:05,Story,Tech,1194,1,3,52,No,CAM-2510-020,Yes,30950,55125,331.0,21,24,27,493,61,145,14688,-0.67,Comment below,India,Micro,Holiday,,2025-07,Monday,403.0,1.3,0.078,0.087
+PST-00544,ByteBazaar,2025-11-05,09:00,Reel,Tech,1962,26,2,9,No,CAM-2507-026,Yes,22634,25270,1323.0,78,316,36,279,13,65,6405,0.11,Comment below,India,Mid,Outlier,Possible duplicate,2025-11,Wednesday,1753.0,7.74,1.396,0.159
+PST-00545,SareeStreet,2025-09-30,08:05,Reel,Fashion,1211,20,2,48,Yes,CAM-2510-045,Yes,20535,27725,1037.0,72,209,51,277,30,143,9370,0.21,Comment below,IN,Mid,Outlier,Outlier,2025-09,Tuesday,1369.0,6.67,1.018,0.248
+PST-00546,SareeStreet,2025-09-03,08:05,Reel,Fashion,1907,6,6,61,No,,No,70916,153538,3307.0,74,509,381,1477,253,721,-806,0.45,Tap to buy,IN,Mid,Outlier,Outlier,2025-09,Wednesday,4271.0,6.02,0.718,0.537
+PST-00547,FitFuel India,2025-07-12,23:45,Reel,Fitness,1081,24,0,12,No,,No,19491,37005,1120.0,77,188,42,309,51,143,0,-0.79,DM us,Global,Brand Owned,Outlier,,2025-07,Saturday,1427.0,7.32,0.965,0.215
+PST-00548,SareeStreet,2025-12-02,18:05,Static,Fashion,274,17,4,74,No,,No,17252,33161,304.0,4,24,46,115,25,50,0,0.05,Save for later,India,Macro,,,2025-12,Tuesday,378.0,2.19,0.139,0.267
+PST-00549,SareeStreet,2025-10-14,23:00,Reel,Fashion,159,2,0,14,Y,,No,8762,22154,235.0,14,33,6,32,3,4,0,0.13,Comment below,Global,Micro,High Intent,Missing UTMs,2025-10,Tuesday,288.0,3.29,0.377,0.068
+PST-00550,ByteBazaar,2025-09-08,23:45,Story,Tech,1612,27,4,79,No,,No,12661,14131,252.0,15,25,29,299,10,129,0,-0.21,Learn More,US,Nano,Retargeting,Check metrics,2025-09,Monday,321.0,2.54,0.197,0.229
+PST-00551,SareeStreet,2025-11-17,22:05,Story,Fashion,1058,15,0,94,N,CAM-2511-053,No,5977,14683,135.0,9,22,15,173,21,54,0,0.65,Comment below,India,Micro,Test,Missing UTMs,2025-11,Monday,181.0,3.03,0.368,0.251
+PST-00552,ByteBazaar,2025-10-23,17:05,Reel,Tech,1520,14,4,22,No,,No,7267,7743,184.0,8,38,11,16,0,2,0,0.63,No CTA,US,Macro,Test,,2025-10,Thursday,241.0,3.32,0.523,0.151
+PST-00553,SareeStreet,2025-07-01,09:15,Carousel,Fashion,249,10,2,40,Yes,,No,3513,4815,62.0,0,9,5,66,2,25,0,0.89,Comment below,US,Brand Owned,High Intent,,2025-07,Tuesday,76.0,2.16,0.256,0.142
+PST-00554,FitFuel India,2025-12-03,23:00,Carousel,Fitness,1205,8,5,99,No,CAM-2509-011,No,5745,13349,271.0,6,39,10,20,4,4,0,-0.47,DM us,Global,Brand Owned,,Outlier,2025-12,Wednesday,326.0,5.67,0.679,0.174
+PST-00555,SareeStreet,2025-11-16,17:05,Carousel,Fashion,841,19,0,93,Yes,CAM-2512-018,No,3433,6115,179.0,2,47,20,110,9,51,0,-0.53,Shop Now,India,Nano,Outlier,Outlier,2025-11,Sunday,248.0,7.22,1.369,0.583
+PST-00556,UrbanPaws,2026-01-20,13:00,Static,Pet Care,1613,21,2,29,No,CAM-2511-013,Yes,8063,10547,136.0,7,7,6,18,0,9,23961,0.71,No CTA,India,Macro,Test,Missing UTMs,2026-01,Tuesday,156.0,1.93,0.087,0.074
+PST-00557,CafeCanvas,2025-12-06,23:15,Static,Food,1025,6,6,93,No,,No,14501,20975,273.0,3,39,24,135,26,15,0,0.31,Comment below,India,Macro,Test,Outlier,2025-12,Saturday,339.0,2.34,0.269,0.166
+PST-00558,GlowKart,2025-07-06,13:30,Reel,Beauty,1976,2,1,25,No,,No,9326,18606,398.0,4,28,28,108,21,22,0,-0.23,Link in bio,India,Brand Owned,Retargeting,,2025-07,Sunday,458.0,4.91,0.3,0.3
+PST-00559,FitFuel India,2025-08-13,08:05,Story,Fitness,1826,13,2,49,Y,,No,4597,10722,96.0,4,11,11,148,7,3,0,-0.49,Save for later,India,Micro,Creator,,2025-08,Wednesday,122.0,2.65,0.239,0.239
+PST-00560,GlowKart,2025-09-13,17:05,Reel,Beauty,1032,24,7,22,No,,No,16916,41497,665.0,34,133,113,541,79,150,0,-0.79,Learn More,,Macro,High Intent,,2025-09,Saturday,945.0,5.59,0.786,0.668
+PST-00561,FitFuel India,2025-07-21,08:05,Reel,Fitness,906,18,4,36,N,,No,14532,22894,295.0,19,75,41,570,47,117,0,0.85,Shop Now,,Mid,Holiday,,2025-07,Monday,430.0,2.96,0.516,0.282
+PST-00562,ByteBazaar,2025-10-13,18:30,Story,Tech,1810,23,5,81,No,CAM-2507-030,Yes,7184,9450,140.0,10,30,14,166,41,71,9939,-0.38,Save for later,Global,Nano,,Outlier,2025-10,Monday,194.0,2.7,0.418,0.195
+PST-00563,UrbanPaws,2025-07-29,08:30,Story,Pet Care,184,20,4,65,No,,No,10092,12407,163.0,8,19,4,164,13,59,0,0.62,No CTA,,Micro,Test,,2025-07,Tuesday,194.0,1.92,0.188,0.04
+PST-00564,GlowKart,2025-09-22,19:45,Reel,Beauty,1743,24,5,40,No,CAM-2509-051,Yes,20076,37158,494.0,19,38,53,246,13,99,13501,-0.78,Shop Now,India,Micro,Holiday,Possible duplicate,2025-09,Monday,604.0,3.01,0.189,0.264
+PST-00565,ByteBazaar,2026-01-09,09:30,Story,Tech,267,14,6,28,N,,No,8680,10249,123.0,4,5,12,197,38,62,0,0.81,Link in bio,,Mid,Outlier,Possible duplicate,2026-01,Friday,144.0,1.66,0.058,0.138
+PST-00566,FitFuel India,2025-12-12,13:05,Reel,Fitness,598,15,1,1,Yes,,No,13629,18857,228.0,14,50,7,226,55,113,0,0.48,Learn More,,Brand Owned,Outlier,Missing UTMs,2025-12,Friday,299.0,2.19,0.367,0.051
+PST-00567,ByteBazaar,2026-01-06,TBD,Reel,Tech,1951,16,3,38,No,CAM-2509-029,No,13875,18238,763.0,45,191,47,502,10,39,0,-0.61,Save for later,Global,Macro,Retargeting,,2026-01,Tuesday,1046.0,7.54,1.377,0.339
+PST-00568,FitFuel India,2025-10-15,23:45,Reel,Fitness,777,19,0,60,N,,No,13547,20314,693.0,11,130,44,102,2,17,0,0.85,Link in bio,IN,Brand Owned,Test,Outlier,2025-10,Wednesday,878.0,6.48,0.96,0.325
+PST-00569,FitFuel India,2025-08-07,20:30,Reel,Fitness,1712,28,2,84,No,,No,19870,32907,408.0,29,80,61,489,93,140,0,0.44,Comment below,IN,Macro,Creator,Missing UTMs,2025-08,Thursday,578.0,2.91,0.403,0.307
+PST-00570,FitFuel India,2025-08-20,17:05,Carousel,Fitness,1848,11,3,8,Y,,No,9503,21986,468.0,33,116,53,349,43,15,0,0.09,Link in bio,UAE,Brand Owned,Creator,,2025-08,Wednesday,670.0,7.05,1.221,0.558
+PST-00571,FitFuel India,2025-08-01,17:45,Static,Fitness,912,18,7,38,Y,,No,12460,19290,387.0,23,57,8,402,54,191,0,-0.25,Comment below,US,Nano,Outlier,Outlier,2025-08,Friday,475.0,3.81,0.457,0.064
+PST-00572,CafeCanvas,2025-08-28,9pm,Story,Food,1195,26,0,47,,,No,5644,8858,87.0,5,8,8,156,28,51,0,-0.66,No CTA,,Nano,Test,Possible duplicate,2025-08,Thursday,108.0,1.91,0.142,0.142
+PST-00573,SareeStreet,2025-09-15,17:45,Reel,Fashion,1196,27,7,25,No,CAM-2510-009,Yes,19549,28679,1112.0,49,69,114,737,107,203,16911,0.27,Link in bio,Global,Nano,Holiday,,2025-09,Monday,1344.0,6.88,0.353,0.583
+PST-00574,FitFuel India,2025-08-24,12:45,Reel,Fitness,87,3,2,17,,CAM-2508-046,Yes,60608,114428,3593.0,76,840,216,1118,106,68,24151,-0.63,DM us,India,Mid,Creator,Missing UTMs,2025-08,Sunday,4725.0,7.8,1.386,0.356
+PST-00575,GlowKart,2025-08-04,13:45,Reel,Beauty,1845,6,7,41,,CAM-2510-028,No,44250,63600,1969.0,84,148,67,120,10,20,0,0.52,DM us,India,Mid,Test,,2025-08,Monday,2268.0,5.13,0.334,0.151
+PST-00576,UrbanPaws,2025-11-22,12:00,Story,Pet Care,1589,19,0,64,Y,CAM-2508-035,Yes,4633,5933,89.0,6,8,9,126,2,57,16484,0.14,Link in bio,US,Micro,Creator,,2025-11,Saturday,112.0,2.42,0.173,0.194
+PST-00577,GlowKart,2025-07-31,18:30,Reel,Beauty,1856,24,4,56,No,CAM-2507-026,Yes,55034,111423,1738.0,34,432,212,1375,269,458,5004,-0.42,Learn More,India,Nano,Holiday,,2025-07,Thursday,2416.0,4.39,0.785,0.385
+PST-00578,GlowKart,2025-07-18,12:30,Reel,Beauty,994,27,4,85,N,,No,20175,31495,674.0,24,181,85,364,82,143,0,-0.37,DM us,UAE,Mid,Test,Check metrics,2025-07,Friday,964.0,4.78,0.897,0.421
+PST-00579,GlowKart,2025-09-17,09:45,Carousel,Beauty,583,16,1,4,N,CAM-2508-046,Yes,37984,70083,2332.0,63,261,220,582,145,35,4986,0.91,DM us,Global,Macro,Creator,,2025-09,Wednesday,2876.0,7.57,0.687,0.579
+PST-00580,CafeCanvas,2025-07-24,12:00,Static,Food,2110,26,0,60,,CAM-2508-047,Yes,32445,42994,513.0,10,91,84,360,81,68,15667,-0.17,Shop Now,US,Mid,Holiday,Missing UTMs,2025-07,Thursday,698.0,2.15,0.28,0.259
+PST-00581,FitFuel India,2025-10-14,18:05,Static,Fitness,539,24,2,75,No,CAM-2510-007,No,18072,43965,574.0,21,27,44,321,48,137,0,-0.53,Link in bio,UAE,Macro,Creator,,2025-10,Tuesday,666.0,3.69,0.149,0.243
+PST-00582,GlowKart,2025-11-18,09:00,Static,Beauty,319,10,1,45,N,,No,12477,27892,263.0,8,31,37,137,17,64,0,-0.78,No CTA,India,Mid,Creator,,2025-11,Tuesday,339.0,2.72,0.248,0.297
+PST-00583,UrbanPaws,2025-07-29,23:30,Static,Pet Care,1055,6,6,30,Yes,CAM-2510-028,Yes,9015,13392,179.0,13,49,10,42,7,17,20127,0.13,Tap to buy,India,Micro,,,2025-07,Tuesday,251.0,2.78,0.544,0.111
+PST-00584,UrbanPaws,2025-10-22,12:30,Reel,Pet Care,459,13,0,54,No,,No,8297,16547,329.0,12,70,17,175,16,17,0,-0.29,Link in bio,UAE,Brand Owned,Outlier,Check metrics,2025-10,Wednesday,428.0,5.16,0.844,0.205
+PST-00585,SareeStreet,2025-07-21,08:45,Static,Fashion,1588,13,5,61,,CAM-2507-037,Yes,40047,74408,733.0,16,152,29,1213,99,436,5767,-0.63,Link in bio,IN,Nano,Outlier,,2025-07,Monday,930.0,2.32,0.38,0.072
+PST-00586,FitFuel India,2025-07-14,19:05,Reel,Fitness,1609,9,0,72,,CAM-2508-040,Yes,36079,39536,1365.0,66,82,27,660,42,101,6748,0.71,Tap to buy,US,Micro,Test,Check metrics,2025-07,Monday,1540.0,4.27,0.227,0.075
+PST-00587,CafeCanvas,2025-09-03,09:30,Reel,Food,1186,24,7,100,Yes,CAM-2507-026,Yes,32935,76630,862.0,21,36,46,515,13,219,3771,0.45,Save for later,India,Macro,High Intent,Missing UTMs,2025-09,Wednesday,965.0,2.93,0.109,0.14
+PST-00588,FitFuel India,2025-07-22,08:05,Carousel,Fitness,309,25,5,41,Yes,,No,22390,45024,1602.0,23,107,169,642,52,282,0,0.79,DM us,India,Brand Owned,Holiday,Outlier,2025-07,Tuesday,1901.0,8.49,0.478,0.755
+PST-00589,SareeStreet,2025-10-14,22:15,Story,Fashion,2118,7,2,15,N,,No,3523,2018,67.0,2,10,1,95,19,2,0,0.23,Learn More,UAE,Nano,,Possible duplicate,2025-10,Tuesday,80.0,2.27,0.284,0.028
+PST-00590,ByteBazaar,2025-10-17,19:05,Reel,Tech,1599,20,3,37,Yes,CAM-2508-047,Yes,19453,24773,969.0,34,132,52,648,29,331,17116,-0.79,No CTA,India,Mid,Test,,2025-10,Friday,1187.0,6.1,0.679,0.267
+PST-00591,SareeStreet,2025-09-14,08:05,Story,Fashion,1450,25,0,91,No,CAM-2508-022,Yes,15472,25072,,4,74,39,471,57,187,17885,-0.81,Link in bio,US,Brand Owned,Creator,,2025-09,Sunday,117.0,0.76,0.478,0.252
+PST-00592,CafeCanvas,2025-08-18,18:15,Reel,Food,1673,5,0,89,,,No,51081,106914,2621.0,124,304,98,598,138,189,0,-0.45,Save for later,India,Brand Owned,Retargeting,Check metrics,2025-08,Monday,3147.0,6.16,0.595,0.192
+PST-00593,UrbanPaws,2025-10-15,18:00,Carousel,Pet Care,551,11,0,2,Yes,CAM-2510-028,Yes,20491,53031,1179.0,88,260,191,205,14,11,16002,-0.77,No CTA,India,Micro,High Intent,Check metrics,2025-10,Wednesday,1718.0,8.38,1.269,0.932
+PST-00594,UrbanPaws,2025-10-21,12:00,Carousel,Pet Care,849,17,6,38,Y,,No,6391,6805,403.0,29,37,42,214,11,106,0,-0.02,Tap to buy,UAE,Mid,Outlier,Check metrics,2025-10,Tuesday,511.0,8.0,0.579,0.657
+PST-00595,CafeCanvas,2026-01-01,9pm,Reel,Food,85,14,5,6,,,No,44008,90827,2272.0,83,304,323,878,216,26,0,-0.55,Learn More,UAE,Nano,Outlier,,2026-01,Thursday,2982.0,6.78,0.691,0.734
+PST-00596,UrbanPaws,2025-10-29,23:05,Carousel,Pet Care,1941,17,5,0,N,CAM-2508-016,Yes,11721,14459,475.0,17,104,13,156,9,48,21678,-0.19,No CTA,Global,Nano,Holiday,Missing UTMs,2025-10,Wednesday,609.0,5.2,0.887,0.111
+PST-00597,GlowKart,2025-08-18,18:05,Static,Beauty,589,2,0,81,,CAM-2511-049,No,1626,3073,40.0,1,4,6,58,7,28,0,0.13,Learn More,IN,Nano,,Possible duplicate,2025-08,Monday,51.0,3.14,0.246,0.369
+PST-00598,UrbanPaws,2025-10-12,17:15,Carousel,Pet Care,1389,3,2,12,Yes,,No,5832,10046,415.0,8,22,23,28,4,9,0,-0.64,Shop Now,,Brand Owned,Outlier,,2025-10,Sunday,468.0,8.02,0.377,0.394
+PST-00599,SareeStreet,2025-10-15,18:30,Story,Fashion,1225,8,1,100,,CAM-2510-042,Yes,6222,10207,141.0,6,25,16,131,27,44,16154,0.08,No CTA,India,Mid,Outlier,,2025-10,Wednesday,188.0,3.02,0.402,0.257
+PST-00600,UrbanPaws,2026-01-06,17:15,Carousel,Pet Care,764,23,0,92,Yes,,No,13773,33024,414.0,9,55,64,343,58,20,0,0.57,DM us,IN,Micro,Outlier,Missing UTMs,2026-01,Tuesday,542.0,3.94,0.399,0.465
+PST-00601,ByteBazaar,2025-08-29,22:05,Static,Tech,1559,13,6,39,Y,,No,7428,14355,143.0,8,36,11,200,26,40,0,-0.82,Learn More,US,Brand Owned,Creator,,2025-08,Friday,198.0,2.67,0.485,0.148
+PST-00602,GlowKart,2026-01-26,23:05,Static,Beauty,1697,23,6,68,,,No,2465,3327,79.0,4,17,7,76,8,5,0,0.04,Comment below,US,Mid,Creator,,2026-01,Monday,107.0,4.34,0.69,0.284
+PST-00603,GlowKart,2025-11-10,19:30,Static,Beauty,1555,3,2,9,No,,No,2907,4468,89.0,4,4,10,91,3,17,0,0.83,Link in bio,IN,Brand Owned,Creator,,2025-11,Monday,107.0,3.68,0.138,0.344
+PST-00604,CafeCanvas,2025-10-16,09:30,Story,Food,593,20,4,38,Yes,,No,7728,15692,102.0,2,25,9,146,19,14,0,0.08,Learn More,Global,Brand Owned,Retargeting,Possible duplicate,2025-10,Thursday,138.0,1.79,0.323,0.116
+PST-00605,ByteBazaar,2025-12-16,17:00,Static,Tech,834,6,6,13,,,No,1668,2964,29.0,1,5,2,53,12,15,0,-0.05,Learn More,India,Brand Owned,Test,Check metrics,2025-12,Tuesday,37.0,2.22,0.3,0.12
+PST-00606,GlowKart,2025-09-22,12:30,Reel,Beauty,109,4,4,97,Yes,,No,30178,64837,760.0,38,55,69,248,7,8,0,-0.76,Save for later,Global,Mid,Creator,,2025-09,Monday,922.0,3.06,0.182,0.229
+PST-00607,SareeStreet,2025-11-16,22:45,Static,Fashion,1477,25,3,10,No,CAM-2510-045,Yes,12066,29407,360.0,17,92,61,44,10,21,13299,0.64,DM us,US,Macro,Retargeting,Check metrics,2025-11,Sunday,530.0,4.39,0.762,0.506
+PST-00608,CafeCanvas,2025-09-14,19:30,Reel,Food,833,10,6,39,,,No,12623,24373,552.0,27,115,40,432,16,153,0,0.61,Comment below,Global,Brand Owned,Retargeting,Possible duplicate,2025-09,Sunday,734.0,5.81,0.911,0.317
+PST-00609,CafeCanvas,2025-12-02,18:00,Carousel,Food,2097,12,0,3,No,,No,18728,22526,1049.0,68,258,140,334,7,62,0,0.24,Link in bio,India,Brand Owned,Outlier,Possible duplicate,2025-12,Tuesday,1515.0,8.09,1.378,0.748
+PST-00610,SareeStreet,2025-08-21,23:05,Reel,Fashion,781,25,0,13,N,,No,30187,46557,1325.0,60,90,133,851,69,139,0,-0.41,Shop Now,IN,Micro,High Intent,,2025-08,Thursday,1608.0,5.33,0.298,0.441
+PST-00611,CafeCanvas,2025-07-31,22:05,Static,Food,89,18,1,66,N,,No,2587,5709,37.0,0,7,2,75,3,16,0,0.44,Link in bio,,Mid,High Intent,Possible duplicate,2025-07,Thursday,46.0,1.78,0.271,0.077
+PST-00612,GlowKart,2025-11-03,12:00,Reel,Beauty,2154,21,4,69,Y,CAM-2510-004,Yes,56190,122629,2448.0,127,301,152,1612,115,669,4192,-0.73,DM us,India,Mid,Holiday,,2025-11,Monday,3028.0,5.39,0.536,0.271
+PST-00613,ByteBazaar,2025-09-22,09:05,Reel,Tech,1443,12,1,44,No,,No,208728,153024,11342.0,681,3040,1703,3792,870,1339,0,0.26,Comment below,US,Mid,Retargeting,,2025-09,Monday,16766.0,8.03,1.456,0.816
+PST-00614,ByteBazaar,2025-09-20,19:00,Story,Tech,190,0,7,66,No,CAM-2510-054,Yes,27786,63259,561.0,41,103,72,260,46,29,19402,0.32,Shop Now,India,Micro,Holiday,Possible duplicate,2025-09,Saturday,777.0,2.8,0.371,0.259
+PST-00615,UrbanPaws,2025-12-14,17:30,Reel,Pet Care,1260,2,1,3,N,CAM-2511-025,Yes,5847,8469,314.0,23,80,13,29,1,12,4630,0.47,Comment below,US,Mid,Creator,Check metrics,2025-12,Sunday,430.0,7.35,1.368,0.222
+PST-00616,SareeStreet,2026-01-23,17:45,Story,Fashion,1202,24,3,86,N,,No,15430,18441,242.0,18,36,11,335,45,81,0,0.73,Save for later,Global,Brand Owned,Retargeting,,2026-01,Friday,307.0,1.99,0.233,0.071
+PST-00617,CafeCanvas,2025-08-23,18:30,Live,Food,453,8,3,44,No,,No,23632,32894,344.0,23,90,16,865,81,186,0,0.44,Link in bio,India,Macro,Test,Possible duplicate,2025-08,Saturday,473.0,2.0,0.381,0.068
+PST-00618,UrbanPaws,2025-07-05,20:15,Story,Pet Care,1679,10,5,70,N,CAM-2512-017,Yes,17933,19292,1221.0,63,174,68,255,3,93,9611,0.24,Tap to buy,UAE,Micro,High Intent,,2025-07,Saturday,1526.0,8.51,0.97,0.379
+PST-00619,SareeStreet,2026-01-08,18:05,Carousel,Fashion,342,15,4,38,Yes,,No,24177,27018,564.0,26,77,67,260,19,50,0,-0.78,Link in bio,US,Brand Owned,,,2026-01,Thursday,734.0,3.04,0.318,0.277
+PST-00620,UrbanPaws,2025-12-04,17:30,Reel,Pet Care,908,24,4,73,No,,No,8089,19196,347.0,22,72,19,295,24,90,0,0.8,Link in bio,India,Mid,Test,Check metrics,2025-12,Thursday,460.0,5.69,0.89,0.235
+PST-00621,FitFuel India,2026-01-24,23:30,Reel,Fitness,1505,0,4,37,No,,No,14703,34019,531.0,15,84,31,480,22,131,0,0.64,Tap to buy,,Micro,Holiday,,2026-01,Saturday,661.0,4.5,0.571,0.211
+PST-00622,CafeCanvas,2025-08-27,08:05,Reel,Food,1087,1,7,94,No,CAM-2512-015,Yes,78770,147107,4599.0,289,892,165,1206,115,139,19017,-0.5,Comment below,UAE,Brand Owned,Creator,Possible duplicate,2025-08,Wednesday,5945.0,7.55,1.132,0.209
+PST-00623,UrbanPaws,2025-12-02,20:00,Story,Pet Care,1754,7,2,58,Y,,No,6501,15026,74.0,1,19,2,108,22,38,0,-0.55,No CTA,Global,Micro,Retargeting,Outlier,2025-12,Tuesday,96.0,1.48,0.292,0.031
+PST-00624,ByteBazaar,2025-07-12,23:00,Reel,Tech,1324,20,7,13,Y,,No,7128,10707,340.0,4,90,23,209,31,106,0,0.8,Learn More,UAE,Micro,Outlier,,2025-07,Saturday,457.0,6.41,1.263,0.323
+PST-00625,SareeStreet,2026-01-08,17:00,Reel,Fashion,665,8,1,2,Y,,No,9792,19246,566.0,12,54,84,266,49,131,0,-0.75,No CTA,India,Brand Owned,Outlier,Check metrics,2026-01,Thursday,716.0,7.31,0.551,0.858
+PST-00626,FitFuel India,2025-10-14,09:05,Static,Fitness,2117,24,2,18,N,CAM-2507-030,No,7323,18434,108.0,8,20,2,229,53,54,0,0.41,Tap to buy,Global,Brand Owned,Holiday,Possible duplicate,2025-10,Tuesday,138.0,1.88,0.273,0.027
+PST-00627,GlowKart,2025-07-30,17:45,Static,Beauty,1493,11,0,58,Yes,,No,6267,7835,194.0,12,45,20,41,2,15,0,-0.3,Tap to buy,India,Macro,,,2025-07,Wednesday,271.0,4.32,0.718,0.319
+PST-00628,CafeCanvas,2026-10-01,22:00,Reel,Food,1610,9,5,47,Y,,No,10895,27660,565.0,6,149,36,378,46,193,0,-0.47,Save for later,,Brand Owned,Retargeting,Missing UTMs,2026-10,Thursday,756.0,6.94,1.368,0.33
+PST-00629,ByteBazaar,2026-01-12,20:05,Live,Tech,1371,17,4,61,No,,No,13359,23860,320.0,13,61,50,143,12,19,0,-0.1,Tap to buy,Global,Macro,Holiday,Outlier,2026-01,Monday,444.0,3.32,0.457,0.374
+PST-00630,FitFuel India,2025-08-12,13:30,Reel,Fitness,1346,11,1,84,,,No,33249,78663,1987.0,157,461,119,538,17,30,0,0.6,Tap to buy,UAE,Mid,Creator,Check metrics,2025-08,Tuesday,2724.0,8.19,1.387,0.358
+PST-00631,FitFuel India,2025-09-14,08:15,Carousel,Fitness,318,1,3,83,No,CAM-2511-013,Yes,7527,13322,379.0,23,76,55,195,14,9,12675,0.7,Save for later,India,Micro,Outlier,Missing UTMs,2025-09,Sunday,533.0,7.08,1.01,0.731
+PST-00632,FitFuel India,2025-12-24,20:05,Carousel,Fitness,195,1,4,27,No,CAM-2510-028,Yes,18593,25313,1097.0,67,121,72,322,74,121,20179,-0.05,DM us,India,Brand Owned,Holiday,Possible duplicate,2025-12,Wednesday,1357.0,7.3,0.651,0.387
+PST-00633,GlowKart,2025-07-05,18:45,Carousel,Beauty,1721,19,7,58,,,No,1926,4233,59.0,3,16,8,57,9,22,0,-0.64,Tap to buy,UAE,Mid,Holiday,,2025-07,Saturday,86.0,4.47,0.831,0.415
+PST-00634,UrbanPaws,2026-01-29,22:30,Carousel,Pet Care,227,5,2,15,,CAM-2507-026,Yes,9521,21370,368.0,24,36,62,179,25,92,1573,-0.4,No CTA,India,Micro,,,2026-01,Thursday,490.0,5.15,0.378,0.651
+PST-00635,FitFuel India,2025-07-19,12:00,Story,Fitness,460,6,5,64,Yes,CAM-2510-042,No,3824,9558,82.0,5,19,10,87,14,26,0,-0.06,Tap to buy,India,Nano,Outlier,Check metrics,2025-07,Saturday,116.0,3.03,0.497,0.262
+PST-00636,GlowKart,2026-01-14,23:00,Reel,Beauty,1742,0,7,95,No,CAM-2508-040,Yes,42382,68846,1315.0,69,178,31,1629,257,106,14787,-0.31,Tap to buy,US,Nano,Creator,Possible duplicate,2026-01,Wednesday,1593.0,3.76,0.42,0.073
+PST-00637,UrbanPaws,2026-01-21,22:00,Carousel,Pet Care,1993,3,5,26,Yes,,No,3196,6755,149.0,4,14,20,10,0,1,0,-0.82,Comment below,IN,Nano,High Intent,,2026-01,Wednesday,187.0,5.85,0.438,0.626
+PST-00638,SareeStreet,2025-11-03,18:15,Carousel,Fashion,1060,9,1,77,Yes,,No,17927,19539,517.0,18,42,32,97,7,52,0,0.85,Comment below,India,Nano,High Intent,Possible duplicate,2025-11,Monday,609.0,3.4,0.234,0.179
+PST-00639,ByteBazaar,2025-07-26,13:30,Reel,Tech,1950,21,0,84,No,,No,25098,35026,1326.0,56,355,142,928,57,259,0,0.48,Tap to buy,India,Nano,Outlier,Check metrics,2025-07,Saturday,1879.0,7.49,1.414,0.566
+PST-00640,UrbanPaws,2026-01-31,09:15,Story,Pet Care,814,4,6,10,N,CAM-2510-028,Yes,9931,16338,637.0,43,68,62,293,11,130,15076,0.33,No CTA,IN,Macro,Creator,Missing UTMs,2026-01,Saturday,810.0,8.16,0.685,0.624
+PST-00641,GlowKart,2025-12-17,17:45,Static,Beauty,675,15,2,57,,CAM-2512-018,Yes,3246,5929,105.0,8,9,12,17,1,8,23961,-0.54,Tap to buy,US,Brand Owned,Creator,,2025-12,Wednesday,134.0,4.13,0.277,0.37
+PST-00642,FitFuel India,2025-09-07,22:15,Reel,Fitness,1556,21,1,90,No,,No,21927,31446,477.0,36,40,83,415,85,120,0,0.65,Learn More,,Nano,,Missing UTMs,2025-09,Sunday,636.0,2.9,0.182,0.379
+PST-00643,GlowKart,2025-12-11,20:30,Story,Beauty,1542,4,0,69,Y,,No,6259,8842,147.0,8,19,16,13,1,5,0,0.74,Link in bio,IN,Nano,Holiday,,2025-12,Thursday,190.0,3.04,0.304,0.256
+PST-00644,UrbanPaws,2025-08-07,13:45,Reel,Pet Care,1625,12,2,62,N,,No,20733,44738,682.0,22,126,122,498,26,105,0,-0.38,Comment below,IN,Brand Owned,Retargeting,Possible duplicate,2025-08,Thursday,952.0,4.59,0.608,0.588
+PST-00645,ByteBazaar,2025-10-03,09:00,Reel,Tech,98,27,1,73,Yes,,No,8960,12798,266.0,5,29,30,276,52,11,0,-0.47,Link in bio,US,Mid,Creator,,2025-10,Friday,330.0,3.68,0.324,0.335
+PST-00646,SareeStreet,2026-01-16,12:15,Carousel,Fashion,1185,16,7,22,Yes,CAM-2507-030,Yes,11648,26970,718.0,38,189,24,229,46,5,7124,-0.26,Save for later,US,Brand Owned,Creator,Missing UTMs,2026-01,Friday,969.0,8.32,1.623,0.206
+PST-00647,ByteBazaar,2026-01-13,22:05,Static,Tech,856,17,3,61,,,No,6736,17288,96.0,1,8,14,185,42,100,0,-0.01,DM us,US,Macro,High Intent,,2026-01,Tuesday,119.0,1.77,0.119,0.208
+PST-00648,GlowKart,2025-12-08,evening,Story,Beauty,1737,4,1,16,No,CAM-2507-031,No,4425,8185,78.0,2,7,9,175,36,45,0,0.17,Learn More,US,Mid,,Outlier,2025-12,Monday,96.0,2.17,0.158,0.203
+PST-00649,FitFuel India,2025-10-24,17:05,Reel,Fitness,635,7,2,86,Yes,,No,31852,65491,1335.0,48,202,148,152,26,62,0,-0.82,DM us,Global,Micro,,,2025-10,Friday,1733.0,5.44,0.634,0.465
+PST-00650,FitFuel India,2025-10-07,20:15,Story,Fitness,1537,5,4,7,Y,,No,9848,24501,147.0,10,15,3,54,3,5,0,-0.58,No CTA,UAE,Macro,Creator,,2025-10,Tuesday,175.0,1.78,0.152,0.03

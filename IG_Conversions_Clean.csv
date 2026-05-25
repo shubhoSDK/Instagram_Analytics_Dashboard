@@ -1,0 +1,830 @@
+Event_ID,Event_Date,Account,Post_ID,Campaign_ID,Discount_Code,Product,Revenue_INR,Quantity,Customer_City,City_Tier,First_Time_Buyer,Attribution_Window_Days,Refund_Flag,Payment_Status,UTM_Source,Lead_Score,Notes
+EVT-000001,2025-09-02,GlowKart,PST-00271,CAM-2512-032,FIT12,Cold Brew,2998.0,1,Kolkata,Tier 3,Unknown,30,Yes,Paid,ig_reels,72,Manual entry
+EVT-000002,2025-08-05,GlowKart,PST-00213,UNKNOWN-CAM,,Dog Treats,5999.0,1,Delhi NCR,Tier 1,Yes,30,No,Pending,ig_reels,98,Coupon mismatch
+EVT-000003,2025-11-22,GlowKart,PST-00499,,,Dog Treats,2499.0,2,Hyderabad,Tier 2,No,45,Yes,Paid,bio_link,66,Coupon mismatch
+EVT-000004,2026-01-21,CafeCanvas,PST-00082,CAM-2508-008,SAR25,Serum A,1598.0,2,Mumbai,Tier 1,No,45,Yes,Paid,influencer,37,
+EVT-000005,2026-02-08,FitFuel India,PST-00380,,,Dog Treats,799.0,3,Kolkata,Metro,Unknown,7,No,Refunded,influencer,97,
+EVT-000006,2025-11-22,ByteBazaar,PST-00451,CAM-2509-039,GLO19,Combo Pack,7998.0,2,Mumbai,Metro,,14,No,Paid,,18,Coupon mismatch
+EVT-000007,2026-02-26,UrbanPaws,PST-00640,CAM-2510-028,GLO12,Smart Lamp,2499.0,4,Mumbai,Tier 1,No,30,No,Paid,paid_social,10,Late attribution
+EVT-000008,2025-11-25,GlowKart,PST-00257,,,Silk Saree,3998.0,3,Chennai,Tier 2,No,30,No,Refunded,influencer,43,Manual entry
+EVT-000009,2025-10-04,SareeStreet,PST-00357,CAM-2508-047,GLO17,Serum A,11998.0,3,Hyderabad,Metro,Yes,30,No,Paid,,8,Manual entry
+EVT-000010,2025-12-25,FitFuel India,PST-00410,,,Smart Lamp,1197.0,2,Pune,Metro,No,7,Yes,Refunded,,44,Manual entry
+EVT-000012,2025-12-19,GlowKart,PST-00603,UNKNOWN-CAM,,Gift Card,2499.0,2,Lucknow,Metro,,45,Yes,Failed,paid_social,60,Coupon mismatch
+EVT-000013,2025-10-26,GlowKart,PST-00499,CAM-2511-013,SAR32,Gift Card,0.0,3,Bengaluru,Tier 1,No,14,No,Paid,ig_reels,7,
+EVT-000014,2025-07-18,FitFuel India,PST-00491,CAM-2508-047,GLO17,Dog Treats,4998.0,2,Jaipur,Metro,No,3,No,Pending,bio_link,88,Manual entry
+EVT-000015,2025-08-30,UrbanPaws,PST-00180,CAM-2510-001,,Protein Bar,2499.0,2,Bengaluru,Tier 3,,1,No,Refunded,Instagram,12,Coupon mismatch
+EVT-000016,2025-10-18,SareeStreet,PST-00108,UNKNOWN-CAM,,Dog Treats,7998.0,2,Hyderabad,Metro,Yes,7,No,Pending,paid_social,49,Late attribution
+EVT-000017,2025-10-08,SareeStreet,PST-00344,UNKNOWN-CAM,,Combo Pack,999.0,2,Delhi NCR,Tier 2,,14,No,Paid,instagram,68,
+EVT-000018,2026-01-06,FitFuel India,PST-00217,UNKNOWN-CAM,,Cold Brew,5999.0,1,Mumbai,Metro,yes,7,Yes,Paid,,63,Late attribution
+EVT-000019,2025-10-07,CafeCanvas,PST-00413,UNKNOWN-CAM,,Cold Brew,1197.0,1,Hyderabad,Tier 3,yes,45,Yes,Paid,influencer,44,Manual entry
+EVT-000020,2025-11-04,CafeCanvas,PST-00425,,,Combo Pack,4497.0,1,Chennai,Tier 1,,7,No,Paid,instagram,56,
+EVT-000021,2025-08-09,FitFuel India,PST-00328,UNKNOWN-CAM,,Cold Brew,1499.0,3,Lucknow,Tier 3,,14,No,Paid,bio_link,21,
+EVT-000022,2025-09-10,FitFuel India,PST-00559,UNKNOWN-CAM,,Smart Lamp,599.0,4,Mumbai,Tier 1,,7,Yes,Pending,paid_social,73,Manual entry
+EVT-000023,2025-08-24,ByteBazaar,PST-00274,CAM-2507-058,CAF36,Smart Lamp,7497.0,1,Hyderabad,Tier 2,No,7,No,Refunded,influencer,100,
+EVT-000024,2025-12-10,GlowKart,PST-00187,,,Protein Bar,17997.0,4,Kolkata,Tier 1,Unknown,3,Yes,Paid,influencer,43,Manual entry
+EVT-000025,2025-11-19,GlowKart,PST-00092,CAM-2507-030,URB36,Smart Lamp,599.0,3,Indore,Tier 3,Yes,1,Yes,Failed,paid_social,54,Late attribution
+EVT-000026,2025-11-17,CafeCanvas,PST-00070,,,Combo Pack,799.0,4,Lucknow,Metro,No,7,No,Paid,paid_social,46,Manual entry
+EVT-000027,2025-12-19,FitFuel India,PST-00089,CAM-2508-046,GLO17,Silk Saree,7497.0,2,Lucknow,Tier 1,Unknown,3,No,Refunded,instagram,81,Coupon mismatch
+EVT-000028,2025-12-02,CafeCanvas,PST-00609,,,Dog Treats,3999.0,3,Lucknow,Tier 3,No,7,No,Failed,ig_reels,11,Coupon mismatch
+EVT-000029,2026-01-30,FitFuel India,PST-00391,CAM-2510-042,WELCOME,Smart Lamp,11998.0,3,Jaipur,Tier 3,Unknown,14,No,Paid,bio_link,98,
+EVT-000030,2025-12-19,GlowKart,PST-00641,CAM-2512-018,BADCODE,Dog Treats,2998.0,2,Hyderabad,Tier 1,Yes,45,No,Refunded,,50,Manual entry
+EVT-000031,2025-09-30,SareeStreet,PST-00228,CAM-2511-010,,Combo Pack,1999.0,3,Indore,Tier 1,Unknown,1,No,Paid,,3,Late attribution
+EVT-000032,2025-12-08,ByteBazaar,PST-00298,UNKNOWN-CAM,,Combo Pack,7998.0,1,Hyderabad,Metro,Unknown,30,No,Paid,bio_link,98,Late attribution
+EVT-000033,2026-02-02,CafeCanvas,PST-00082,CAM-2508-008,SAR25,Dog Treats,799.0,1,Bengaluru,Metro,Unknown,14,No,Paid,,39,Coupon mismatch
+EVT-000034,2025-11-29,SareeStreet,PST-00551,CAM-2511-053,GLO15,Combo Pack,799.0,2,Chennai,Tier 3,Yes,3,Yes,Failed,instagram,62,
+EVT-000035,2025-08-27,CafeCanvas,PST-00291,CAM-2507-048,BYT20,Protein Bar,7998.0,4,Lucknow,Tier 3,Yes,1,No,Pending,ig_reels,71,
+EVT-000036,2026-02-06,CafeCanvas,PST-00534,CAM-2510-001,,Dog Treats,11998.0,3,Kolkata,Tier 1,,7,No,Paid,paid_social,42,
+EVT-000037,2026-03-09,FitFuel India,PST-00466,CAM-2510-023,,Combo Pack,1499.0,3,Indore,Metro,yes,45,No,Failed,ig_reels,41,Manual entry
+EVT-000038,2026-01-24,CafeCanvas,PST-00467,CAM-2507-026,GLO35,Gift Card,2499.0,2,Hyderabad,Tier 3,Yes,14,No,Pending,bio_link,22,Coupon mismatch
+EVT-000039,2025-08-07,ByteBazaar,PST-00312,UNKNOWN-CAM,,Smart Lamp,5999.0,1,Kolkata,Tier 3,yes,3,No,Refunded,ig_reels,67,Coupon mismatch
+EVT-000040,2025-11-02,UrbanPaws,PST-00401,CAM-2510-059,GLO31,Cold Brew,1499.0,4,Kolkata,Tier 2,No,45,Yes,Refunded,,98,Coupon mismatch
+EVT-000041,2026-01-25,ByteBazaar,PST-00054,CAM-2507-026,GLO35,Gift Card,5999.0,1,Mumbai,Tier 3,No,3,No,Paid,paid_social,49,Manual entry
+EVT-000042,2025-12-31,ByteBazaar,PST-00048,CAM-2509-029,SAR31,Gift Card,1999.0,3,Chennai,Tier 2,yes,30,Yes,Paid,Instagram,71,Late attribution
+EVT-000043,2025-09-23,FitFuel India,PST-00399,UNKNOWN-CAM,,Combo Pack,1797.0,2,Lucknow,Tier 1,No,1,Yes,Failed,paid_social,11,Coupon mismatch
+EVT-000044,2026-01-17,CafeCanvas,PST-00101,CAM-2511-053,GLO15,Dog Treats,5997.0,3,Indore,Metro,Unknown,7,No,Pending,instagram,45,Late attribution
+EVT-000045,2025-11-30,FitFuel India,PST-00649,,,Dog Treats,999.0,3,Pune,Metro,yes,30,No,Paid,instagram,1,Manual entry
+EVT-000046,2025-12-07,ByteBazaar,PST-00198,CAM-2508-008,WELCOME,Silk Saree,5997.0,4,Mumbai,Metro,,1,No,Paid,Instagram,76,
+EVT-000047,2025-12-31,UrbanPaws,PST-00091,,,Protein Bar,2997.0,3,Pune,Tier 1,Yes,14,No,Paid,,14,
+EVT-000048,2026-01-14,CafeCanvas,PST-00309,UNKNOWN-CAM,,Dog Treats,3999.0,1,Kolkata,Tier 2,,14,No,Paid,Instagram,5,Manual entry
+EVT-000049,2026-01-26,FitFuel India,PST-00419,CAM-2510-004,WELCOME,Dog Treats,11997.0,4,Bengaluru,Tier 1,Yes,1,No,Refunded,bio_link,19,Coupon mismatch
+EVT-000050,2025-12-05,GlowKart,PST-00441,CAM-2507-048,BYT20,Cold Brew,3999.0,2,Lucknow,Tier 2,Unknown,1,No,Refunded,Instagram,69,
+EVT-000051,2025-12-01,ByteBazaar,PST-00590,CAM-2508-047,GLO17,Gift Card,17997.0,1,Pune,Tier 1,,45,No,Refunded,bio_link,47,Coupon mismatch
+EVT-000052,2025-09-21,ByteBazaar,PST-00039,CAM-2510-023,,Smart Lamp,1598.0,1,Mumbai,Metro,yes,7,Yes,Failed,Instagram,94,Late attribution
+EVT-000053,2026-02-22,ByteBazaar,PST-00242,CAM-2511-041,SAR26,Silk Saree,4998.0,4,Jaipur,Tier 3,yes,3,No,Paid,paid_social,85,Late attribution
+EVT-000054,2025-08-07,UrbanPaws,PST-00501,CAM-2507-048,BYT20,Dog Treats,7998.0,1,Pune,Tier 2,Unknown,30,Yes,Paid,bio_link,91,Manual entry
+EVT-000055,2025-08-05,ByteBazaar,PST-00154,UNKNOWN-CAM,,Serum A,599.0,1,Delhi NCR,Metro,Yes,30,No,Pending,instagram,99,Manual entry
+EVT-000056,2025-12-02,UrbanPaws,PST-00027,CAM-2507-003,GLO18,Serum A,5999.0,2,Indore,Metro,No,30,No,Refunded,bio_link,59,Coupon mismatch
+EVT-000058,2025-07-07,ByteBazaar,PST-00012,CAM-2511-049,FIT23,Combo Pack,2499.0,3,Delhi NCR,Tier 3,No,3,Yes,Paid,bio_link,47,Manual entry
+EVT-000059,2025-12-24,SareeStreet,PST-00393,,,Dog Treats,2998.0,3,Chennai,Tier 1,No,30,No,Failed,bio_link,47,Manual entry
+EVT-000060,2025-09-21,SareeStreet,PST-00047,CAM-2509-011,SAR37,Silk Saree,1197.0,2,Indore,Tier 1,Yes,14,No,Paid,ig_reels,4,Late attribution
+EVT-000061,2025-11-27,FitFuel India,PST-00252,UNKNOWN-CAM,,Combo Pack,2998.0,1,Jaipur,Tier 3,Unknown,30,No,Paid,Instagram,72,Coupon mismatch
+EVT-000062,2025-10-21,UrbanPaws,PST-00161,CAM-2510-054,URB11,Protein Bar,599.0,3,Kolkata,Tier 3,Unknown,7,Yes,Paid,,39,Coupon mismatch
+EVT-000063,2025-11-13,GlowKart,PST-00072,CAM-2511-012,CAF37,Dog Treats,1998.0,4,Indore,Tier 3,No,7,No,Paid,ig_reels,50,Coupon mismatch
+EVT-000065,2025-09-25,GlowKart,PST-00186,UNKNOWN-CAM,,Dog Treats,7497.0,4,Lucknow,Tier 3,yes,30,Yes,Paid,bio_link,95,
+EVT-000066,2025-12-29,SareeStreet,PST-00393,,,Serum A,11997.0,3,Pune,Tier 3,No,14,Yes,Paid,paid_social,13,Manual entry
+EVT-000067,2026-02-07,SareeStreet,PST-00616,,,Protein Bar,599.0,2,Lucknow,Tier 3,yes,1,Yes,Refunded,influencer,29,Late attribution
+EVT-000068,2025-10-19,FitFuel India,PST-00160,CAM-2510-023,,Cold Brew,7497.0,4,Jaipur,Tier 2,Yes,1,No,Paid,ig_reels,81,Manual entry
+EVT-000069,2026-02-10,SareeStreet,PST-00074,CAM-2508-052,CAF34,Cold Brew,5997.0,4,Jaipur,Tier 3,yes,1,No,Paid,instagram,36,Coupon mismatch
+EVT-000070,2026-01-21,CafeCanvas,PST-00330,CAM-2508-046,GLO17,Combo Pack,4497.0,4,Bengaluru,Metro,Yes,30,Yes,Paid,bio_link,70,Late attribution
+EVT-000071,2026-03-12,UrbanPaws,PST-00016,CAM-2510-019,FIT31,Serum A,1499.0,3,Indore,Tier 2,No,45,No,Paid,paid_social,100,
+EVT-000072,2025-08-07,SareeStreet,PST-00281,CAM-2508-052,WELCOME,Silk Saree,799.0,4,Lucknow,Tier 2,Unknown,1,No,Paid,ig_reels,19,Late attribution
+EVT-000073,2025-11-23,SareeStreet,PST-00555,CAM-2512-018,FIT20,Smart Lamp,3998.0,4,Indore,Tier 1,Yes,1,No,Refunded,paid_social,92,
+EVT-000074,2025-11-15,SareeStreet,PST-00599,UNKNOWN-CAM,,Gift Card,798.0,2,Bengaluru,Tier 1,Unknown,7,No,Paid,Instagram,74,Coupon mismatch
+EVT-000075,2025-11-04,GlowKart,PST-00072,,,Smart Lamp,7497.0,2,Chennai,Metro,yes,3,No,Paid,instagram,98,Manual entry
+EVT-000076,2026-02-12,ByteBazaar,PST-00647,CAM-2509-051,BYT22,Combo Pack,5999.0,1,Bengaluru,Tier 3,,1,No,Failed,ig_reels,59,Late attribution
+EVT-000077,2026-03-02,FitFuel India,PST-00195,,,Protein Bar,1499.0,3,Bengaluru,Tier 2,yes,30,No,Failed,Instagram,93,
+EVT-000078,2025-09-11,CafeCanvas,PST-00370,,,Cold Brew,1198.0,4,Kolkata,Tier 2,,3,Yes,Pending,paid_social,78,
+EVT-000079,2026-02-21,ByteBazaar,PST-00565,UNKNOWN-CAM,,Dog Treats,11998.0,1,Lucknow,Metro,,1,Yes,Paid,paid_social,16,Late attribution
+EVT-000080,2025-12-14,CafeCanvas,PST-00107,UNKNOWN-CAM,,Silk Saree,4998.0,4,Hyderabad,Metro,yes,30,No,Paid,Instagram,13,Late attribution
+EVT-000081,2026-02-04,SareeStreet,PST-00469,CAM-2511-010,,Gift Card,399.0,3,Pune,Metro,yes,1,No,Failed,ig_reels,19,Coupon mismatch
+EVT-000082,2025-09-04,GlowKart,PST-00222,CAM-2509-029,SAR31,Serum A,399.0,2,Lucknow,Tier 3,No,30,No,Pending,bio_link,71,
+EVT-000083,2025-09-20,CafeCanvas,PST-00056,CAM-2510-001,,Silk Saree,1797.0,2,Lucknow,Metro,Unknown,1,Yes,Refunded,instagram,2,
+EVT-000084,2026-01-20,GlowKart,PST-00226,UNKNOWN-CAM,,Cold Brew,1999.0,1,Bengaluru,Tier 2,,1,No,Failed,paid_social,96,Late attribution
+EVT-000085,2025-08-04,UrbanPaws,PST-00269,,,Silk Saree,1797.0,1,Pune,Tier 2,Yes,3,No,Failed,bio_link,35,Late attribution
+EVT-000086,2025-08-06,CafeCanvas,PST-00132,,,Combo Pack,2997.0,1,Lucknow,Tier 2,,7,Yes,Refunded,influencer,53,Coupon mismatch
+EVT-000087,2025-11-07,SareeStreet,PST-00038,CAM-2510-009,FIT30,Gift Card,3998.0,2,Pune,Tier 3,Unknown,14,Yes,Failed,ig_reels,67,
+EVT-000088,2025-12-23,UrbanPaws,PST-00623,CAM-2510-021,,Serum A,3999.0,1,Mumbai,Metro,yes,14,No,Pending,paid_social,36,Late attribution
+EVT-000089,2025-12-19,UrbanPaws,PST-00049,,BADCODE,Smart Lamp,798.0,4,Mumbai,Tier 2,No,30,Yes,Failed,instagram,72,Coupon mismatch
+EVT-000090,2025-08-13,GlowKart,PST-00575,CAM-2510-028,GLO12,Gift Card,5997.0,3,Hyderabad,Metro,Yes,7,Yes,Refunded,,23,
+EVT-000091,2025-11-15,GlowKart,PST-00297,CAM-2507-058,CAF36,Protein Bar,1198.0,2,Mumbai,Tier 1,,1,Yes,Paid,Instagram,46,Late attribution
+EVT-000092,2025-09-20,ByteBazaar,PST-00361,UNKNOWN-CAM,,Smart Lamp,11998.0,4,Jaipur,Tier 3,No,30,No,Failed,bio_link,55,Manual entry
+EVT-000093,2025-07-22,CafeCanvas,PST-00537,UNKNOWN-CAM,,Protein Bar,3999.0,4,Pune,Metro,Yes,30,No,Pending,ig_reels,59,Coupon mismatch
+EVT-000094,2025-08-20,ByteBazaar,PST-00012,CAM-2511-049,FIT23,Serum A,799.0,4,Kolkata,Tier 1,No,45,Yes,Paid,influencer,30,Late attribution
+EVT-000095,2025-11-06,GlowKart,PST-00273,CAM-2510-042,CAF19,Gift Card,7497.0,3,Bengaluru,Tier 1,yes,30,No,Failed,paid_social,92,
+EVT-000096,2026-01-09,GlowKart,PST-00250,CAM-2508-035,FIT31,Cold Brew,1499.0,3,Indore,Tier 1,,1,Yes,Refunded,paid_social,28,Manual entry
+EVT-000097,2025-09-21,CafeCanvas,PST-00313,CAM-2511-014,SAR20,Smart Lamp,11997.0,1,Pune,Tier 1,No,30,No,Paid,bio_link,56,Coupon mismatch
+EVT-000098,2025-08-03,SareeStreet,PST-00064,,,Cold Brew,17997.0,2,Lucknow,Tier 2,Unknown,7,Yes,Refunded,,48,Coupon mismatch
+EVT-000099,2025-12-21,CafeCanvas,PST-00412,UNKNOWN-CAM,INSTA10,Dog Treats,599.0,2,Delhi NCR,Tier 1,No,14,No,Refunded,ig_reels,85,Coupon mismatch
+EVT-000100,2025-08-16,FitFuel India,PST-00530,CAM-2510-054,URB11,Protein Bar,3999.0,2,Chennai,Tier 1,,1,Yes,Paid,paid_social,83,Late attribution
+EVT-000101,2025-12-12,GlowKart,PST-00068,UNKNOWN-CAM,,Smart Lamp,1598.0,2,Jaipur,Tier 1,No,7,Yes,Failed,,46,Late attribution
+EVT-000102,2025-12-31,FitFuel India,PST-00306,CAM-2512-017,URB30,Dog Treats,1999.0,4,Lucknow,Tier 2,Yes,45,No,Paid,bio_link,72,Late attribution
+EVT-000103,2025-09-23,SareeStreet,PST-00196,UNKNOWN-CAM,,Gift Card,3999.0,1,Kolkata,Tier 3,No,3,No,Refunded,ig_reels,19,Manual entry
+EVT-000104,2025-12-25,ByteBazaar,PST-00140,UNKNOWN-CAM,,Serum A,399.0,2,Lucknow,Tier 1,No,1,Yes,Paid,influencer,50,Manual entry
+EVT-000105,2025-09-09,CafeCanvas,PST-00313,UNKNOWN-CAM,INSTA10,Combo Pack,3998.0,1,Jaipur,Tier 3,yes,30,No,Paid,influencer,15,
+EVT-000106,2025-11-26,FitFuel India,PST-00206,CAM-2511-049,,Combo Pack,1797.0,4,Lucknow,Tier 2,Unknown,3,No,Failed,,81,Coupon mismatch
+EVT-000107,2025-08-10,FitFuel India,PST-00170,CAM-2509-050,CAF11,Gift Card,798.0,4,Indore,Tier 1,No,3,No,Pending,,15,
+EVT-000108,2025-11-07,GlowKart,PST-00314,CAM-2512-018,FIT20,Protein Bar,5997.0,3,Mumbai,Metro,Yes,14,No,Paid,paid_social,80,Late attribution
+EVT-000109,2026-02-04,GlowKart,PST-00465,CAM-2510-045,,Serum A,2998.0,3,Bengaluru,Tier 1,,45,No,Failed,influencer,16,Manual entry
+EVT-000111,2025-10-31,ByteBazaar,PST-00243,CAM-2510-007,WELCOME,Gift Card,3998.0,2,Pune,Metro,yes,3,No,Paid,influencer,46,
+EVT-000112,2025-10-26,SareeStreet,PST-00573,CAM-2510-009,FIT30,Cold Brew,399.0,4,Lucknow,Tier 3,yes,45,No,Pending,paid_social,64,
+EVT-000113,2026-02-23,CafeCanvas,PST-00131,UNKNOWN-CAM,,Cold Brew,1198.0,1,Chennai,Tier 1,,14,No,Paid,bio_link,13,Manual entry
+EVT-000114,2025-08-11,ByteBazaar,PST-00311,CAM-2507-003,GLO18,Gift Card,3999.0,1,Delhi NCR,Metro,yes,45,No,Paid,influencer,1,Manual entry
+EVT-000115,2026-01-26,FitFuel India,PST-00157,,,Protein Bar,999.0,3,Hyderabad,Tier 3,No,14,No,Refunded,bio_link,68,
+EVT-000116,2025-07-23,ByteBazaar,PST-00624,UNKNOWN-CAM,,Dog Treats,2397.0,4,Delhi NCR,Tier 1,Yes,7,No,Pending,paid_social,86,Manual entry
+EVT-000117,2026-02-27,SareeStreet,PST-00076,UNKNOWN-CAM,BADCODE,Serum A,1499.0,4,Chennai,Metro,Unknown,1,No,Paid,bio_link,22,
+EVT-000118,2026-01-05,FitFuel India,PST-00058,CAM-2510-004,GLO18,Protein Bar,7497.0,4,Mumbai,Tier 3,Unknown,14,No,Paid,Instagram,77,Coupon mismatch
+EVT-000119,2025-08-27,ByteBazaar,PST-00639,CAM-2507-034,INSTA10,Cold Brew,1598.0,3,Mumbai,Tier 2,Unknown,45,Yes,Paid,ig_reels,28,Manual entry
+EVT-000120,2026-02-11,SareeStreet,PST-00166,UNKNOWN-CAM,,Smart Lamp,1998.0,4,Kolkata,Tier 3,No,14,No,Refunded,Instagram,44,Late attribution
+EVT-000121,2025-10-16,GlowKart,PST-00186,CAM-2508-024,,Serum A,1499.0,2,Indore,Tier 2,Yes,3,No,Refunded,influencer,23,Manual entry
+EVT-000122,2025-12-31,SareeStreet,PST-00261,CAM-2508-027,FIT17,Combo Pack,7998.0,3,Lucknow,Metro,Yes,7,Yes,Failed,influencer,54,
+EVT-000123,2025-08-09,UrbanPaws,PST-00163,CAM-2511-010,INSTA10,Serum A,5997.0,3,Jaipur,Tier 3,,3,Yes,Pending,influencer,39,
+EVT-000124,2026-01-31,GlowKart,PST-00454,,,Serum A,3999.0,1,Pune,Tier 1,Unknown,7,No,Refunded,ig_reels,100,
+EVT-000125,2026-02-18,ByteBazaar,PST-00054,CAM-2511-053,,Combo Pack,799.0,4,Lucknow,Tier 3,Unknown,14,No,Paid,,20,Manual entry
+EVT-000126,2025-11-17,FitFuel India,PST-00429,,,Combo Pack,2997.0,4,Pune,Metro,No,7,Yes,Pending,ig_reels,54,
+EVT-000127,2025-11-09,GlowKart,PST-00059,CAM-2511-044,WELCOME,Silk Saree,1197.0,4,Bengaluru,Metro,Yes,7,Yes,Paid,,1,Late attribution
+EVT-000128,2025-09-27,CafeCanvas,PST-00617,,,Gift Card,1198.0,3,Indore,Tier 3,Unknown,1,Yes,Paid,bio_link,78,Late attribution
+EVT-000129,2025-12-03,CafeCanvas,PST-00337,UNKNOWN-CAM,,Smart Lamp,1198.0,1,Hyderabad,Tier 3,Yes,30,No,Paid,instagram,85,Manual entry
+EVT-000130,2025-11-09,SareeStreet,PST-00498,CAM-2511-041,SAR26,Gift Card,7998.0,3,Chennai,Tier 2,,3,No,Failed,,52,Manual entry
+EVT-000131,2025-12-26,ByteBazaar,PST-00155,CAM-2508-024,BYT38,Serum A,2397.0,3,Delhi NCR,Metro,,14,No,Paid,,61,Manual entry
+EVT-000132,2025-08-19,UrbanPaws,PST-00269,,BADCODE,Combo Pack,999.0,3,Bengaluru,Tier 2,Unknown,1,No,Refunded,,3,Late attribution
+EVT-000133,2025-09-06,ByteBazaar,PST-00172,UNKNOWN-CAM,,Gift Card,1999.0,4,Lucknow,Tier 3,yes,14,No,Paid,influencer,49,Manual entry
+EVT-000134,2026-03-09,FitFuel India,PST-00002,CAM-2511-041,SAR26,Smart Lamp,1198.0,2,Jaipur,Tier 1,Unknown,1,Yes,Paid,influencer,77,Manual entry
+EVT-000135,2025-11-02,ByteBazaar,PST-00645,CAM-2510-045,,Combo Pack,5997.0,2,Pune,Metro,,1,Yes,Failed,influencer,96,Coupon mismatch
+EVT-000136,2025-08-11,FitFuel India,PST-00209,UNKNOWN-CAM,,Combo Pack,3999.0,3,Mumbai,Metro,,1,No,Refunded,influencer,13,Late attribution
+EVT-000137,2025-12-11,UrbanPaws,PST-00031,,,Cold Brew,3999.0,3,Chennai,Metro,No,30,No,Paid,,37,
+EVT-000138,2026-03-11,SareeStreet,PST-00395,CAM-2512-032,FIT12,Gift Card,399.0,1,Lucknow,Metro,Unknown,7,No,Failed,instagram,65,
+EVT-000139,2025-12-02,FitFuel India,PST-00212,CAM-2511-041,SAR26,Combo Pack,2997.0,3,Delhi NCR,Tier 3,No,30,No,Pending,paid_social,40,
+EVT-000140,2025-09-07,GlowKart,PST-00347,CAM-2509-055,CAF39,Serum A,1198.0,3,Pune,Metro,No,14,No,Pending,paid_social,69,Coupon mismatch
+EVT-000141,2025-12-07,GlowKart,PST-00276,,,Combo Pack,5997.0,2,Kolkata,Metro,yes,3,Yes,Failed,paid_social,40,Coupon mismatch
+EVT-000142,2025-12-14,GlowKart,PST-00515,UNKNOWN-CAM,,Silk Saree,1598.0,2,Delhi NCR,Metro,yes,45,Yes,Refunded,ig_reels,15,Coupon mismatch
+EVT-000143,2025-10-19,SareeStreet,PST-00214,CAM-2508-002,,Smart Lamp,1197.0,4,Delhi NCR,Tier 2,Yes,1,Yes,Failed,influencer,74,Manual entry
+EVT-000144,2025-09-02,ByteBazaar,PST-00208,UNKNOWN-CAM,,Protein Bar,1999.0,1,Indore,Metro,Unknown,30,Yes,Paid,Instagram,61,Coupon mismatch
+EVT-000145,2025-12-23,UrbanPaws,PST-00317,UNKNOWN-CAM,,Dog Treats,1198.0,3,Mumbai,Metro,yes,30,No,Paid,ig_reels,55,
+EVT-000146,2026-03-05,UrbanPaws,PST-00506,UNKNOWN-CAM,,Smart Lamp,4998.0,2,Mumbai,Metro,,14,Yes,Paid,instagram,18,Manual entry
+EVT-000147,2025-09-05,GlowKart,PST-00071,CAM-2508-024,BYT38,Smart Lamp,7497.0,4,Chennai,Tier 2,,7,Yes,Pending,influencer,20,Manual entry
+EVT-000148,2025-10-29,SareeStreet,PST-00108,,,Smart Lamp,5997.0,3,Bengaluru,Tier 1,No,14,No,Failed,Instagram,60,
+EVT-000149,2025-07-28,CafeCanvas,PST-00460,CAM-2512-043,,Smart Lamp,1998.0,3,Delhi NCR,Tier 2,Unknown,1,Yes,Refunded,bio_link,55,Late attribution
+EVT-000150,2025-08-15,FitFuel India,PST-00170,UNKNOWN-CAM,,Dog Treats,17997.0,1,Hyderabad,Tier 1,Yes,30,No,Refunded,Instagram,65,Manual entry
+EVT-000151,2025-08-08,UrbanPaws,PST-00644,UNKNOWN-CAM,,Protein Bar,1499.0,1,Bengaluru,Tier 3,,45,Yes,Refunded,Instagram,72,Manual entry
+EVT-000152,2025-10-24,SareeStreet,PST-00450,CAM-2508-057,BYT14,Silk Saree,1198.0,2,Bengaluru,Tier 1,Yes,1,No,Paid,instagram,88,Manual entry
+EVT-000153,2026-01-24,FitFuel India,PST-00058,,INSTA10,Protein Bar,2499.0,2,Mumbai,Metro,Yes,7,No,Refunded,,92,Late attribution
+EVT-000154,2025-08-03,GlowKart,PST-00100,UNKNOWN-CAM,,Combo Pack,2397.0,3,Chennai,Tier 3,yes,3,No,Pending,ig_reels,18,Coupon mismatch
+EVT-000155,2025-08-03,ByteBazaar,PST-00194,UNKNOWN-CAM,,Combo Pack,1598.0,4,Kolkata,Tier 3,No,14,No,Paid,ig_reels,20,Manual entry
+EVT-000156,2026-01-05,CafeCanvas,PST-00538,,,Combo Pack,4497.0,4,Chennai,Tier 1,Yes,45,No,Pending,,88,
+EVT-000157,2025-09-06,CafeCanvas,PST-00279,CAM-2509-011,SAR37,Serum A,4497.0,4,Indore,Tier 2,No,3,No,Paid,influencer,22,
+EVT-000158,2025-08-19,CafeCanvas,PST-00097,CAM-2508-005,FIT22,Protein Bar,2998.0,4,Kolkata,Metro,,30,No,Paid,bio_link,63,Late attribution
+EVT-000159,2026-01-06,SareeStreet,PST-00527,,,Serum A,17997.0,4,Jaipur,Metro,yes,14,No,Pending,,11,Coupon mismatch
+EVT-000160,2025-10-29,SareeStreet,PST-00357,CAM-2508-047,GLO17,Cold Brew,2499.0,1,Hyderabad,Metro,yes,14,No,Pending,instagram,32,Manual entry
+EVT-000161,2025-11-05,ByteBazaar,PST-00613,,,Gift Card,4998.0,4,Hyderabad,Tier 3,Unknown,7,No,Failed,bio_link,38,
+EVT-000162,2025-12-20,CafeCanvas,PST-00478,,,Combo Pack,2997.0,2,Lucknow,Metro,Yes,30,No,Paid,bio_link,29,Manual entry
+EVT-000163,2026-01-15,GlowKart,PST-00648,CAM-2510-007,INSTA10,Protein Bar,2998.0,1,Kolkata,Tier 2,Unknown,1,No,Pending,,37,Late attribution
+EVT-000164,2025-11-18,CafeCanvas,PST-00142,CAM-2508-057,BYT14,Protein Bar,1999.0,3,Indore,Tier 3,,7,Yes,Paid,paid_social,95,Late attribution
+EVT-000165,2025-12-28,CafeCanvas,PST-00325,CAM-2510-028,GLO12,Silk Saree,1797.0,1,Pune,Metro,No,3,No,Paid,paid_social,32,Manual entry
+EVT-000166,2025-08-23,FitFuel India,PST-00117,CAM-2511-049,FIT23,Serum A,11998.0,2,Chennai,Tier 1,yes,30,No,Paid,ig_reels,79,Coupon mismatch
+EVT-000167,2025-11-02,SareeStreet,PST-00108,UNKNOWN-CAM,,Combo Pack,7998.0,4,Mumbai,Metro,yes,30,Yes,Refunded,influencer,76,
+EVT-000168,2025-12-28,CafeCanvas,PST-00107,UNKNOWN-CAM,,Gift Card,4497.0,1,Pune,Tier 3,Unknown,45,No,Paid,ig_reels,78,Late attribution
+EVT-000169,2025-10-09,FitFuel India,PST-00631,CAM-2511-013,SAR32,Silk Saree,1197.0,2,Jaipur,Tier 2,Yes,14,No,Paid,ig_reels,58,Late attribution
+EVT-000170,2026-02-06,GlowKart,PST-00531,CAM-2507-056,CAF10,Serum A,1797.0,2,Kolkata,Tier 2,Unknown,14,No,Paid,ig_reels,13,Manual entry
+EVT-000171,2026-01-28,CafeCanvas,PST-00081,UNKNOWN-CAM,,Serum A,7998.0,2,Bengaluru,Tier 2,Yes,30,No,Paid,paid_social,94,Manual entry
+EVT-000172,2025-12-29,ByteBazaar,PST-00542,CAM-2508-027,FIT17,Combo Pack,11997.0,4,Lucknow,Metro,,30,No,Pending,bio_link,100,
+EVT-000173,2025-10-18,FitFuel India,PST-00084,CAM-2508-022,BYT14,Protein Bar,1797.0,3,Pune,Tier 2,,3,No,Paid,instagram,37,Manual entry
+EVT-000174,2025-11-01,GlowKart,PST-00606,CAM-2510-042,CAF19,Gift Card,7497.0,3,Jaipur,Metro,No,3,Yes,Paid,paid_social,82,Manual entry
+EVT-000175,2025-08-16,ByteBazaar,PST-00182,,,Combo Pack,11998.0,2,Jaipur,Metro,yes,30,No,Paid,,12,Manual entry
+EVT-000176,2025-11-23,FitFuel India,PST-00111,CAM-2510-001,,Gift Card,7998.0,4,Jaipur,Tier 1,No,14,Yes,Pending,,70,Coupon mismatch
+EVT-000177,2026-01-19,UrbanPaws,PST-00046,,,Silk Saree,3999.0,3,Lucknow,Metro,yes,7,Yes,Failed,Instagram,61,Coupon mismatch
+EVT-000178,2025-07-25,FitFuel India,PST-00209,,,Protein Bar,1998.0,3,Lucknow,Metro,,45,Yes,Failed,,13,Late attribution
+EVT-000179,2025-10-13,ByteBazaar,PST-00118,UNKNOWN-CAM,,Protein Bar,1198.0,3,Kolkata,Tier 3,Unknown,14,No,Refunded,ig_reels,24,Coupon mismatch
+EVT-000181,2025-07-18,ByteBazaar,PST-00154,UNKNOWN-CAM,,Gift Card,1598.0,3,Mumbai,Tier 3,No,1,Yes,Failed,paid_social,66,Coupon mismatch
+EVT-000182,2025-12-29,UrbanPaws,PST-00029,CAM-2508-040,SAR16,Cold Brew,1797.0,1,Hyderabad,Tier 1,yes,1,Yes,Failed,paid_social,18,Late attribution
+EVT-000183,2025-09-09,CafeCanvas,,CAM-2510-009,BADCODE,Silk Saree,599.0,2,Chennai,Metro,yes,14,Yes,Paid,ig_reels,24,Coupon mismatch
+EVT-000184,2025-10-05,ByteBazaar,PST-00550,CAM-2508-035,FIT31,Dog Treats,3999.0,3,Pune,Tier 3,,7,Yes,Paid,paid_social,5,Coupon mismatch
+EVT-000185,2025-11-05,CafeCanvas,PST-00199,CAM-2508-005,WELCOME,Protein Bar,1999.0,2,Jaipur,Metro,No,45,No,Pending,ig_reels,40,Late attribution
+EVT-000186,2026-01-29,UrbanPaws,PST-00637,CAM-2510-001,BADCODE,Silk Saree,3998.0,2,Hyderabad,Metro,Yes,45,No,Paid,bio_link,50,
+EVT-000187,2025-10-09,ByteBazaar,PST-00189,CAM-2507-058,INSTA10,Gift Card,1999.0,3,Delhi NCR,Metro,Unknown,14,Yes,Paid,bio_link,80,Late attribution
+EVT-000188,2025-10-31,UrbanPaws,PST-00402,CAM-2508-016,,Protein Bar,1999.0,3,Mumbai,Tier 3,Yes,14,Yes,Failed,bio_link,74,Manual entry
+EVT-000189,2025-10-21,FitFuel India,PST-00493,CAM-2508-005,FIT22,Dog Treats,3999.0,3,Bengaluru,Tier 2,Unknown,1,No,Failed,bio_link,92,Manual entry
+EVT-000190,2025-08-27,GlowKart,PST-00363,CAM-2511-010,,Silk Saree,11998.0,2,Pune,Tier 1,yes,30,Yes,Paid,instagram,37,
+EVT-000191,2025-11-28,SareeStreet,PST-00038,,WELCOME,Serum A,799.0,1,Mumbai,Tier 3,,30,Yes,Pending,ig_reels,67,Late attribution
+EVT-000192,2025-11-06,SareeStreet,PST-00028,UNKNOWN-CAM,,Dog Treats,798.0,2,Lucknow,Tier 1,Yes,7,No,Paid,influencer,79,Manual entry
+EVT-000193,2025-12-11,CafeCanvas,PST-00343,,,Smart Lamp,999.0,3,Lucknow,Metro,No,1,Yes,Pending,,27,Coupon mismatch
+EVT-000194,2025-11-13,ByteBazaar,PST-00051,,,Smart Lamp,1197.0,4,Bengaluru,Tier 2,yes,45,Yes,Paid,Instagram,13,Coupon mismatch
+EVT-000195,2025-11-10,UrbanPaws,PST-00401,CAM-2510-059,WELCOME,Protein Bar,7497.0,4,Chennai,Tier 1,No,45,Yes,Pending,,32,Manual entry
+EVT-000196,2025-12-05,SareeStreet,PST-00289,CAM-2510-004,GLO18,Serum A,1598.0,2,Bengaluru,Metro,Yes,3,No,Paid,,81,Coupon mismatch
+EVT-000197,2026-02-25,GlowKart,PST-00259,UNKNOWN-CAM,,Smart Lamp,2998.0,4,Mumbai,Tier 3,Yes,45,Yes,Paid,ig_reels,71,
+EVT-000198,2026-02-11,FitFuel India,PST-00288,,WELCOME,Dog Treats,4998.0,1,Delhi NCR,Metro,yes,45,No,Failed,Instagram,27,Manual entry
+EVT-000199,2025-12-11,ByteBazaar,PST-00544,CAM-2507-026,BADCODE,Cold Brew,399.0,4,Hyderabad,Tier 3,Unknown,45,No,Paid,,35,
+EVT-000200,2025-08-03,GlowKart,PST-00115,CAM-2511-036,WELCOME,Protein Bar,3998.0,2,Jaipur,Tier 2,Unknown,1,Yes,Paid,,49,Late attribution
+EVT-000201,2025-07-22,FitFuel India,PST-00635,CAM-2510-042,CAF19,Protein Bar,2997.0,2,Delhi NCR,Tier 2,yes,14,Yes,Pending,,29,
+EVT-000202,2026-01-18,CafeCanvas,PST-00412,,,Cold Brew,2998.0,2,Bengaluru,Tier 3,Yes,30,Yes,Refunded,instagram,59,Late attribution
+EVT-000203,2025-12-12,GlowKart,PST-00612,CAM-2510-004,GLO18,Protein Bar,1198.0,3,Bengaluru,Tier 1,,45,No,Pending,influencer,11,Manual entry
+EVT-000204,2025-12-11,ByteBazaar,PST-00198,CAM-2510-020,BYT29,Cold Brew,4998.0,3,Pune,Tier 1,Yes,3,No,Paid,instagram,16,Coupon mismatch
+EVT-000205,2026-01-12,UrbanPaws,PST-00215,CAM-2511-049,FIT23,Smart Lamp,1998.0,3,Bengaluru,Metro,Yes,7,No,Pending,,1,Manual entry
+EVT-000206,2025-08-10,CafeCanvas,PST-00203,UNKNOWN-CAM,,Smart Lamp,0.0,2,Bengaluru,Tier 3,Yes,3,Yes,Failed,paid_social,64,Coupon mismatch
+EVT-000207,2025-11-27,UrbanPaws,PST-00167,CAM-2507-056,CAF10,Cold Brew,1998.0,2,Mumbai,Tier 2,yes,45,No,Pending,influencer,24,Manual entry
+EVT-000208,2026-01-13,GlowKart,PST-00476,CAM-2511-025,BYT38,Dog Treats,599.0,3,Pune,Tier 3,Unknown,14,Yes,Paid,ig_reels,23,
+EVT-000209,2025-10-22,SareeStreet,PST-00381,CAM-2507-026,GLO35,Dog Treats,17997.0,4,Lucknow,Tier 1,Unknown,7,No,Pending,influencer,1,Manual entry
+EVT-000210,2026-03-02,FitFuel India,PST-00539,,,Combo Pack,2499.0,3,Indore,Tier 3,Yes,30,No,Refunded,,2,Manual entry
+EVT-000211,2025-11-23,ByteBazaar,PST-00249,UNKNOWN-CAM,,Gift Card,1198.0,2,Mumbai,Tier 2,Yes,7,No,Paid,ig_reels,82,
+EVT-000212,2025-11-05,GlowKart,PST-00468,CAM-2507-056,CAF10,Gift Card,999.0,4,Kolkata,Tier 1,,1,Yes,Refunded,paid_social,54,Manual entry
+EVT-000213,2026-01-05,UrbanPaws,PST-00377,,,Silk Saree,1198.0,3,Lucknow,Tier 3,Unknown,1,No,Paid,paid_social,92,
+EVT-000214,2026-01-09,UrbanPaws,PST-00620,,INSTA10,Dog Treats,1797.0,3,Kolkata,Tier 2,Unknown,45,No,Paid,bio_link,29,Late attribution
+EVT-000215,2025-08-09,SareeStreet,PST-00230,CAM-2508-057,BYT14,Dog Treats,2397.0,2,Mumbai,Metro,Yes,30,No,Paid,,11,Late attribution
+EVT-000216,2025-11-12,GlowKart,PST-00477,UNKNOWN-CAM,,Dog Treats,1998.0,2,Pune,Tier 3,No,3,No,Paid,paid_social,77,Coupon mismatch
+EVT-000217,2026-01-12,SareeStreet,PST-00045,,,Gift Card,2998.0,3,Hyderabad,Tier 2,Yes,14,No,Failed,Instagram,91,
+EVT-000218,2025-09-09,ByteBazaar,PST-00311,,,Smart Lamp,1197.0,4,Jaipur,Tier 2,yes,3,No,Pending,paid_social,46,
+EVT-000219,2025-08-04,UrbanPaws,PST-00501,,,Smart Lamp,999.0,4,Hyderabad,Tier 1,yes,1,No,Refunded,bio_link,42,
+EVT-000220,2025-10-29,FitFuel India,PST-00399,,WELCOME,Combo Pack,1198.0,3,Hyderabad,Metro,Yes,1,No,Pending,bio_link,88,Late attribution
+EVT-000221,2025-08-12,FitFuel India,PST-00348,CAM-2508-024,BYT38,Combo Pack,1499.0,3,Bengaluru,Tier 2,Unknown,1,No,Paid,influencer,6,
+EVT-000222,2026-02-27,FitFuel India,PST-00511,CAM-2510-009,FIT30,Combo Pack,5997.0,1,Chennai,Tier 2,yes,7,No,Paid,instagram,8,Coupon mismatch
+EVT-000223,2025-11-27,UrbanPaws,PST-00027,UNKNOWN-CAM,,Gift Card,7497.0,4,Mumbai,Tier 1,Yes,3,No,Refunded,influencer,67,Coupon mismatch
+EVT-000224,2025-09-10,ByteBazaar,PST-00437,CAM-2508-035,FIT31,Silk Saree,799.0,1,Lucknow,Tier 1,,3,Yes,Refunded,bio_link,63,Manual entry
+EVT-000225,2025-08-19,FitFuel India,PST-00239,UNKNOWN-CAM,,Smart Lamp,11997.0,3,Bengaluru,Tier 2,No,30,Yes,Paid,influencer,61,Manual entry
+EVT-000226,2026-02-08,GlowKart,PST-00424,UNKNOWN-CAM,,Silk Saree,3999.0,2,Bengaluru,Tier 2,yes,1,No,Paid,,36,Late attribution
+EVT-000227,2025-08-28,UrbanPaws,PST-00615,CAM-2511-025,BADCODE,Silk Saree,1998.0,1,Delhi NCR,Tier 2,,7,Yes,Failed,instagram,93,Late attribution
+EVT-000228,2025-11-05,GlowKart,PST-00477,UNKNOWN-CAM,,Combo Pack,599.0,4,Delhi NCR,Tier 1,No,1,No,Paid,ig_reels,93,Manual entry
+EVT-000229,2025-09-30,FitFuel India,PST-00084,CAM-2508-022,BYT14,Silk Saree,1598.0,3,Hyderabad,Tier 2,,14,Yes,Paid,influencer,5,Manual entry
+EVT-000230,2026-02-25,UrbanPaws,PST-00483,UNKNOWN-CAM,,Dog Treats,1598.0,4,Kolkata,Tier 1,No,1,Yes,Paid,influencer,63,Late attribution
+EVT-000231,2025-12-12,CafeCanvas,PST-00343,CAM-2507-048,BYT20,Smart Lamp,1198.0,3,Bengaluru,Tier 1,Yes,30,Yes,Paid,ig_reels,5,Late attribution
+EVT-000232,2025-10-06,FitFuel India,PST-00146,UNKNOWN-CAM,,Serum A,5999.0,4,Jaipur,Tier 1,Yes,45,No,Pending,instagram,56,Coupon mismatch
+EVT-000233,2025-09-23,ByteBazaar,PST-00319,CAM-2508-027,FIT17,Protein Bar,1197.0,2,Kolkata,Tier 2,Unknown,30,No,Paid,,17,Late attribution
+EVT-000234,2025-12-08,GlowKart,PST-00331,CAM-2508-047,GLO17,Gift Card,1598.0,3,Bengaluru,Tier 1,yes,30,No,Pending,instagram,98,Late attribution
+EVT-000235,2025-12-21,ByteBazaar,PST-00048,CAM-2509-029,SAR31,Gift Card,2998.0,3,Bengaluru,Tier 3,Yes,1,No,Paid,ig_reels,74,Manual entry
+EVT-000236,2026-02-11,SareeStreet,PST-00362,CAM-2511-010,,Smart Lamp,1197.0,1,Mumbai,Tier 2,Yes,1,No,Paid,bio_link,9,Manual entry
+EVT-000237,2025-12-30,FitFuel India,PST-00566,CAM-2511-025,BYT38,Serum A,7497.0,3,Chennai,Tier 2,,3,Yes,Paid,paid_social,44,Late attribution
+EVT-000238,2025-11-16,CafeCanvas,PST-00040,CAM-2511-012,CAF37,Protein Bar,7497.0,4,Pune,Tier 1,yes,7,No,Refunded,influencer,98,Coupon mismatch
+EVT-000239,2026-01-03,FitFuel India,PST-00267,CAM-2508-002,,Cold Brew,1598.0,4,Indore,Tier 1,No,7,No,Refunded,paid_social,27,Coupon mismatch
+EVT-000240,2026-03-07,GlowKart,PST-00457,CAM-2508-016,INSTA10,Cold Brew,1598.0,4,Indore,Tier 2,No,14,No,Paid,influencer,64,Manual entry
+EVT-000241,2025-11-08,FitFuel India,PST-00111,CAM-2510-001,,Silk Saree,11998.0,4,Mumbai,Tier 1,Unknown,3,Yes,Refunded,instagram,42,Coupon mismatch
+EVT-000242,2026-01-30,GlowKart,PST-00375,UNKNOWN-CAM,,Protein Bar,2998.0,3,Delhi NCR,Tier 1,Unknown,14,No,Paid,Instagram,65,Coupon mismatch
+EVT-000243,2025-10-17,SareeStreet,PST-00441,CAM-2508-006,URB13,Silk Saree,1499.0,2,Delhi NCR,Tier 3,No,45,No,Paid,paid_social,62,Coupon mismatch
+EVT-000244,2026-01-28,SareeStreet,PST-00126,CAM-2510-033,URB30,Combo Pack,399.0,3,Indore,Tier 1,yes,14,Yes,Refunded,Instagram,9,Late attribution
+EVT-000245,2025-12-04,ByteBazaar,PST-00552,,,Cold Brew,17997.0,1,Kolkata,Tier 3,No,7,No,Refunded,instagram,16,
+EVT-000246,2026-03-07,FitFuel India,PST-00380,CAM-2510-045,,Combo Pack,7497.0,2,Kolkata,Metro,Yes,7,No,Failed,influencer,79,
+EVT-000247,2025-09-24,GlowKart,PST-00271,UNKNOWN-CAM,BADCODE,Dog Treats,4998.0,4,Hyderabad,Tier 2,No,14,No,Paid,ig_reels,23,Manual entry
+EVT-000248,2025-12-18,SareeStreet,PST-00607,CAM-2510-045,,Gift Card,7497.0,2,Delhi NCR,Tier 1,No,3,No,Paid,paid_social,97,Coupon mismatch
+EVT-000249,2025-09-14,CafeCanvas,PST-00622,CAM-2512-015,,Cold Brew,799.0,3,Jaipur,Metro,,45,No,Failed,paid_social,37,Late attribution
+EVT-000251,2026-01-20,SareeStreet,PST-00009,UNKNOWN-CAM,,Silk Saree,17997.0,2,Lucknow,Tier 2,Yes,14,No,Failed,paid_social,50,Coupon mismatch
+EVT-000252,2025-07-27,UrbanPaws,PST-00618,CAM-2512-017,URB30,Cold Brew,11998.0,3,Bengaluru,Tier 1,Yes,1,No,Paid,bio_link,84,Manual entry
+EVT-000253,2025-12-21,UrbanPaws,PST-00244,CAM-2507-037,,Serum A,399.0,3,Kolkata,Metro,yes,30,No,Paid,influencer,24,Coupon mismatch
+EVT-000254,2025-08-21,GlowKart,PST-00577,CAM-2507-026,GLO35,Combo Pack,1598.0,4,Chennai,Tier 1,No,7,No,Paid,influencer,19,Coupon mismatch
+EVT-000255,2025-10-10,GlowKart,PST-00560,,,Combo Pack,3999.0,4,Chennai,Tier 1,Yes,7,No,Failed,,92,Late attribution
+EVT-000256,2026-03-06,ByteBazaar,PST-00238,,,Silk Saree,2997.0,3,Lucknow,Metro,yes,3,Yes,Paid,bio_link,5,Manual entry
+EVT-000257,2025-11-07,UrbanPaws,PST-00521,CAM-2507-048,BYT20,Gift Card,11998.0,2,Kolkata,Tier 2,yes,3,No,Paid,ig_reels,93,Late attribution
+EVT-000258,2026-02-18,CafeCanvas,PST-00376,CAM-2507-037,INSTA10,Serum A,599.0,2,Lucknow,Tier 2,No,14,Yes,Pending,influencer,14,Manual entry
+EVT-000259,2026-01-09,GlowKart,PST-00004,,WELCOME,Gift Card,4497.0,4,Chennai,Metro,Unknown,30,No,Pending,,92,Coupon mismatch
+EVT-000260,2025-12-18,UrbanPaws,PST-00027,CAM-2509-051,BYT22,Serum A,3999.0,2,Bengaluru,Metro,yes,7,Yes,Paid,paid_social,83,Late attribution
+EVT-000261,2026-01-04,GlowKart,PST-00068,CAM-2510-028,GLO12,Gift Card,1598.0,3,Chennai,Metro,Unknown,30,Yes,Failed,,28,Late attribution
+EVT-000262,2025-09-26,FitFuel India,PST-00099,UNKNOWN-CAM,,Smart Lamp,1499.0,1,Indore,Tier 1,yes,7,No,Refunded,influencer,37,Manual entry
+EVT-000263,2025-11-25,FitFuel India,PST-00143,CAM-2511-053,GLO15,Smart Lamp,1598.0,2,Kolkata,Tier 3,Yes,1,No,Refunded,Instagram,29,Coupon mismatch
+EVT-000264,2025-12-12,GlowKart,PST-00083,UNKNOWN-CAM,,Dog Treats,599.0,2,Pune,Metro,,45,No,Pending,instagram,84,
+EVT-000265,2026-02-25,UrbanPaws,PST-00254,CAM-2511-053,GLO15,Combo Pack,1598.0,4,Bengaluru,Tier 3,Unknown,30,No,Paid,Instagram,2,Manual entry
+EVT-000266,2025-12-29,CafeCanvas,PST-00219,UNKNOWN-CAM,,Serum A,2499.0,4,Delhi NCR,Metro,Unknown,45,No,Failed,,6,Late attribution
+EVT-000267,2025-08-20,CafeCanvas,PST-00512,UNKNOWN-CAM,,Cold Brew,4998.0,4,Chennai,Tier 3,yes,3,Yes,Pending,Instagram,56,Coupon mismatch
+EVT-000268,2025-09-13,UrbanPaws,PST-00216,UNKNOWN-CAM,,Cold Brew,0.0,2,Bengaluru,Tier 3,yes,45,No,Refunded,,25,
+EVT-000269,2025-12-21,SareeStreet,PST-00094,UNKNOWN-CAM,,Smart Lamp,1197.0,4,Pune,Tier 2,No,14,No,Paid,influencer,11,Late attribution
+EVT-000270,2025-11-16,SareeStreet,PST-00289,CAM-2510-004,GLO18,Smart Lamp,399.0,4,Jaipur,Tier 2,Unknown,3,Yes,Paid,influencer,20,
+EVT-000271,2026-02-16,SareeStreet,PST-00444,CAM-2509-011,SAR37,Smart Lamp,2998.0,2,Delhi NCR,Metro,,1,No,Refunded,influencer,68,Late attribution
+EVT-000272,2025-08-30,CafeCanvas,PST-00003,CAM-2509-050,CAF11,Silk Saree,1197.0,4,Chennai,Tier 1,Yes,1,Yes,Pending,paid_social,53,Manual entry
+EVT-000273,2026-01-04,GlowKart,PST-00191,,,Protein Bar,1198.0,1,Delhi NCR,Tier 3,No,3,No,Pending,ig_reels,95,
+EVT-000274,2025-11-10,FitFuel India,PST-00160,UNKNOWN-CAM,,Combo Pack,3999.0,2,Hyderabad,Metro,No,1,No,Paid,instagram,15,Manual entry
+EVT-000275,2025-10-11,CafeCanvas,PST-00272,UNKNOWN-CAM,,Gift Card,2997.0,1,Bengaluru,Tier 3,Unknown,7,No,Paid,Instagram,36,Manual entry
+EVT-000276,2026-01-22,GlowKart,PST-00476,CAM-2511-025,BYT38,Gift Card,2499.0,4,Delhi NCR,Tier 1,,3,No,Pending,bio_link,35,
+EVT-000277,2025-08-28,SareeStreet,PST-00394,CAM-2510-033,URB30,Combo Pack,1198.0,1,Delhi NCR,Metro,,7,No,Failed,bio_link,69,
+EVT-000279,2026-02-13,SareeStreet,PST-00057,CAM-2511-025,BYT38,Protein Bar,3999.0,4,Lucknow,Tier 2,Unknown,1,Yes,Paid,ig_reels,63,
+EVT-000280,2025-08-30,CafeCanvas,PST-00540,UNKNOWN-CAM,,Silk Saree,1998.0,2,Bengaluru,Tier 3,No,14,Yes,Pending,ig_reels,58,Coupon mismatch
+EVT-000281,2025-09-09,CafeCanvas,PST-00485,UNKNOWN-CAM,,Silk Saree,1499.0,3,Indore,Metro,,7,No,Paid,Instagram,33,Late attribution
+EVT-000282,2025-11-29,SareeStreet,PST-00114,UNKNOWN-CAM,,Silk Saree,5997.0,1,Pune,Metro,,1,Yes,Failed,instagram,15,Late attribution
+EVT-000283,2025-11-20,GlowKart,PST-00603,CAM-2511-014,SAR20,Protein Bar,7998.0,1,Kolkata,Tier 1,Unknown,14,No,Refunded,Instagram,12,
+EVT-000284,2025-12-13,GlowKart,PST-00643,,,Dog Treats,11998.0,1,Pune,Tier 1,,45,No,Paid,,46,
+EVT-000285,2025-12-15,CafeCanvas,PST-00142,,,Combo Pack,3999.0,3,Kolkata,Tier 2,,7,No,Paid,influencer,86,
+EVT-000286,2026-01-12,ByteBazaar,PST-00359,,,Gift Card,599.0,4,Pune,Tier 2,No,30,No,Paid,instagram,96,Late attribution
+EVT-000287,2026-02-09,FitFuel India,PST-00157,CAM-2507-056,BADCODE,Cold Brew,3998.0,1,Mumbai,Tier 3,,30,No,Paid,Instagram,65,Late attribution
+EVT-000288,2025-09-10,SareeStreet,PST-00020,CAM-2512-043,,Gift Card,599.0,2,Delhi NCR,Tier 2,Unknown,30,No,Paid,ig_reels,96,Coupon mismatch
+EVT-000289,2025-08-11,GlowKart,PST-00627,CAM-2507-058,CAF36,Silk Saree,5997.0,1,Chennai,Metro,yes,7,No,Paid,ig_reels,60,Late attribution
+EVT-000290,2026-02-09,FitFuel India,PST-00171,CAM-2510-019,FIT31,Cold Brew,3999.0,3,Hyderabad,Tier 3,yes,30,No,Refunded,paid_social,82,
+EVT-000291,2025-11-17,SareeStreet,PST-00638,UNKNOWN-CAM,,Protein Bar,4998.0,3,Chennai,Tier 1,yes,1,No,Paid,ig_reels,30,Coupon mismatch
+EVT-000292,2025-11-29,GlowKart,PST-00139,,,Gift Card,11998.0,3,Jaipur,Tier 2,Unknown,1,Yes,Pending,,84,Manual entry
+EVT-000293,2026-02-20,FitFuel India,PST-00511,CAM-2510-009,FIT30,Smart Lamp,798.0,1,Lucknow,Tier 2,Unknown,7,No,Paid,Instagram,11,Late attribution
+EVT-000294,2025-11-18,UrbanPaws,PST-00509,CAM-2508-046,GLO17,Serum A,2997.0,4,Lucknow,Tier 3,Unknown,14,Yes,Paid,paid_social,85,
+EVT-000295,2026-01-14,SareeStreet,PST-00057,CAM-2511-025,BYT38,Smart Lamp,2397.0,1,Mumbai,Tier 1,,7,No,Paid,bio_link,29,Manual entry
+EVT-000296,2025-11-13,ByteBazaar,PST-00645,,,Cold Brew,1797.0,2,Hyderabad,Tier 2,Unknown,3,Yes,Pending,influencer,68,Late attribution
+EVT-000297,2025-09-01,GlowKart,PST-00100,,,Serum A,5999.0,1,Mumbai,Tier 2,Unknown,7,No,Paid,,14,Late attribution
+EVT-000298,2026-01-18,SareeStreet,PST-00094,CAM-2507-048,INSTA10,Cold Brew,7497.0,3,Jaipur,Tier 3,Yes,45,No,Paid,instagram,21,Late attribution
+EVT-000299,2026-01-17,SareeStreet,PST-00007,,,Protein Bar,4998.0,3,Jaipur,Tier 3,Unknown,30,No,Paid,paid_social,26,
+EVT-000300,2026-02-05,GlowKart,PST-00424,CAM-2508-027,FIT17,Smart Lamp,5999.0,1,Bengaluru,Tier 2,No,45,Yes,Paid,Instagram,65,Manual entry
+EVT-000301,2026-02-01,CafeCanvas,PST-00078,CAM-2512-043,,Cold Brew,1598.0,3,Kolkata,Tier 3,yes,45,No,Paid,bio_link,65,
+EVT-000302,2025-11-03,ByteBazaar,PST-00308,CAM-2510-020,BYT29,Silk Saree,798.0,4,Chennai,Metro,Unknown,30,No,Pending,,96,Manual entry
+EVT-000303,2025-10-14,ByteBazaar,PST-00315,CAM-2509-050,CAF11,Smart Lamp,17997.0,3,Chennai,Metro,,14,No,Paid,paid_social,22,Coupon mismatch
+EVT-000304,2026-01-06,SareeStreet,PST-00045,,,Cold Brew,11998.0,3,Lucknow,Tier 2,Unknown,30,Yes,Failed,ig_reels,2,
+EVT-000305,2025-11-22,FitFuel India,PST-00346,CAM-2510-004,GLO18,Protein Bar,17997.0,4,Mumbai,Tier 1,yes,3,Yes,Paid,instagram,71,Coupon mismatch
+EVT-000306,2025-08-06,ByteBazaar,PST-00274,CAM-2507-058,CAF36,Protein Bar,1499.0,2,Delhi NCR,Tier 1,yes,7,Yes,Failed,,84,
+EVT-000307,2025-12-16,SareeStreet,PST-00414,CAM-2512-018,FIT20,Protein Bar,1197.0,3,Chennai,Metro,,45,No,Failed,bio_link,59,Manual entry
+EVT-000308,2025-08-07,FitFuel India,PST-00569,CAM-2507-030,URB36,Silk Saree,1999.0,1,Indore,Tier 2,yes,1,No,Paid,instagram,39,Coupon mismatch
+EVT-000309,2025-11-28,GlowKart,PST-00059,CAM-2511-044,,Serum A,1797.0,1,Hyderabad,Tier 2,Unknown,45,No,Paid,Instagram,78,Manual entry
+EVT-000310,2025-12-03,GlowKart,PST-00148,CAM-2512-043,,Protein Bar,1999.0,2,Hyderabad,Metro,Yes,30,No,Failed,instagram,61,Manual entry
+EVT-000311,2026-02-02,GlowKart,PST-00457,CAM-2509-055,CAF39,Silk Saree,1999.0,3,Jaipur,Metro,yes,30,No,Pending,,47,Manual entry
+EVT-000312,2025-12-05,FitFuel India,PST-00366,CAM-2507-048,BYT20,Serum A,2397.0,1,Chennai,Metro,Unknown,7,No,Refunded,instagram,19,Manual entry
+EVT-000313,2025-12-28,GlowKart,PST-00148,CAM-2512-043,,Cold Brew,2997.0,4,Chennai,Tier 2,Yes,30,No,Paid,paid_social,10,
+EVT-000314,2025-07-27,ByteBazaar,PST-00149,,,Silk Saree,0.0,4,Mumbai,Tier 3,yes,1,No,Paid,paid_social,91,Coupon mismatch
+EVT-000315,2025-11-18,FitFuel India,PST-00649,CAM-2507-048,BYT20,Combo Pack,7497.0,2,Lucknow,Tier 3,No,1,No,Pending,influencer,70,Late attribution
+EVT-000316,2025-11-09,ByteBazaar,PST-00079,UNKNOWN-CAM,,Dog Treats,2997.0,4,Bengaluru,Metro,yes,1,Yes,Pending,,23,Manual entry
+EVT-000317,2025-10-11,GlowKart,PST-00273,CAM-2510-042,CAF19,Silk Saree,2997.0,4,Kolkata,Tier 3,Yes,7,No,Refunded,Instagram,94,Late attribution
+EVT-000318,2025-12-26,UrbanPaws,PST-00244,CAM-2507-037,,Combo Pack,1198.0,4,Jaipur,Metro,No,30,No,Failed,bio_link,27,
+EVT-000319,2026-02-18,GlowKart,PST-00434,,,Dog Treats,2397.0,4,Lucknow,Tier 2,yes,14,No,Refunded,,37,Manual entry
+EVT-000320,2025-10-04,FitFuel India,PST-00399,UNKNOWN-CAM,INSTA10,Gift Card,1499.0,3,Bengaluru,Tier 2,No,30,No,Paid,bio_link,22,Manual entry
+EVT-000321,2025-10-23,SareeStreet,PST-00108,UNKNOWN-CAM,,Protein Bar,799.0,3,Bengaluru,Tier 2,No,45,No,Failed,bio_link,42,Late attribution
+EVT-000322,2025-11-19,CafeCanvas,PST-00337,UNKNOWN-CAM,,Protein Bar,1499.0,3,Delhi NCR,Tier 3,No,45,No,Pending,Instagram,92,Manual entry
+EVT-000323,2025-11-09,FitFuel India,PST-00075,CAM-2510-023,,Silk Saree,1499.0,1,Indore,Tier 3,yes,14,No,Paid,paid_social,69,Manual entry
+EVT-000324,2025-07-27,FitFuel India,PST-00005,UNKNOWN-CAM,,Protein Bar,2499.0,2,Chennai,Tier 3,yes,14,No,Failed,instagram,53,Late attribution
+EVT-000325,2025-10-06,ByteBazaar,PST-00295,UNKNOWN-CAM,,Combo Pack,1598.0,2,Hyderabad,Metro,,7,Yes,Pending,Instagram,67,Manual entry
+EVT-000326,2025-10-31,ByteBazaar,PST-00189,CAM-2507-058,CAF36,Protein Bar,11997.0,1,Chennai,Tier 3,,30,Yes,Failed,ig_reels,43,Late attribution
+EVT-000327,2025-10-24,CafeCanvas,PST-00608,CAM-2510-019,FIT31,Serum A,5997.0,4,Bengaluru,Tier 2,No,45,No,Paid,,52,
+EVT-000328,2025-08-28,CafeCanvas,PST-00266,UNKNOWN-CAM,,Combo Pack,5999.0,4,Chennai,Tier 1,Yes,30,No,Failed,,28,Late attribution
+EVT-000329,2026-01-30,ByteBazaar,PST-00174,CAM-2508-006,URB13,Gift Card,798.0,1,Chennai,Tier 3,No,45,No,Failed,Instagram,12,
+EVT-000330,2025-10-19,UrbanPaws,PST-00018,,,Smart Lamp,2998.0,1,Kolkata,Metro,,14,No,Failed,instagram,6,
+EVT-000331,2025-12-14,UrbanPaws,PST-00167,UNKNOWN-CAM,,Cold Brew,2997.0,3,Lucknow,Tier 3,Unknown,1,Yes,Failed,influencer,2,Late attribution
+EVT-000332,2025-12-27,CafeCanvas,PST-00389,CAM-2507-037,,Cold Brew,1197.0,4,Chennai,Tier 2,Unknown,30,No,Refunded,ig_reels,89,Coupon mismatch
+EVT-000333,2025-11-14,UrbanPaws,PST-00031,,BADCODE,Combo Pack,999.0,1,Pune,Tier 1,yes,14,No,Refunded,instagram,19,Coupon mismatch
+EVT-000334,2025-08-13,GlowKart,PST-00578,UNKNOWN-CAM,,Silk Saree,3998.0,4,Kolkata,Tier 2,No,14,No,Pending,instagram,16,Coupon mismatch
+EVT-000335,2026-01-22,FitFuel India,PST-00276,,,Cold Brew,7998.0,3,Delhi NCR,Tier 2,No,7,Yes,Paid,influencer,33,Manual entry
+EVT-000336,2025-11-25,FitFuel India,PST-00456,UNKNOWN-CAM,,Protein Bar,1499.0,3,Indore,Metro,,7,Yes,Refunded,instagram,10,Manual entry
+EVT-000337,2026-01-16,FitFuel India,,UNKNOWN-CAM,WELCOME,Dog Treats,7998.0,1,Mumbai,Tier 3,yes,45,No,Paid,ig_reels,17,Late attribution
+EVT-000338,2025-08-21,SareeStreet,PST-00394,,,Gift Card,599.0,3,Bengaluru,Tier 1,Unknown,45,No,Failed,ig_reels,84,
+EVT-000339,2025-10-20,CafeCanvas,PST-00080,UNKNOWN-CAM,,Serum A,599.0,1,Mumbai,Metro,Unknown,3,Yes,Pending,influencer,99,Late attribution
+EVT-000340,2026-01-31,FitFuel India,PST-00466,UNKNOWN-CAM,,Gift Card,7497.0,4,Jaipur,Tier 3,,3,No,Pending,bio_link,65,Manual entry
+EVT-000341,2025-12-18,FitFuel India,PST-00410,,,Silk Saree,1797.0,1,Mumbai,Tier 3,Yes,3,No,Refunded,Instagram,100,Coupon mismatch
+EVT-000342,2025-08-15,CafeCanvas,PST-00460,CAM-2511-036,SAR37,Protein Bar,1198.0,3,Indore,Tier 1,,14,Yes,Failed,bio_link,42,Manual entry
+EVT-000343,2025-12-27,UrbanPaws,PST-00091,UNKNOWN-CAM,,Protein Bar,999.0,4,Lucknow,Metro,No,14,Yes,Paid,paid_social,87,Manual entry
+EVT-000344,2026-02-17,SareeStreet,PST-00444,CAM-2509-011,SAR37,Serum A,1797.0,2,Indore,Tier 2,Yes,14,No,Paid,ig_reels,83,Manual entry
+EVT-000345,2025-09-08,CafeCanvas,PST-00592,CAM-2511-025,INSTA10,Serum A,7497.0,1,Chennai,Metro,,45,No,Paid,bio_link,44,Late attribution
+EVT-000346,2025-11-24,ByteBazaar,PST-00067,UNKNOWN-CAM,,Silk Saree,1499.0,4,Jaipur,Metro,,3,No,Refunded,ig_reels,33,
+EVT-000347,2025-12-14,FitFuel India,PST-00346,CAM-2508-016,,Dog Treats,11997.0,1,Pune,Tier 3,No,45,Yes,Paid,bio_link,92,Manual entry
+EVT-000348,2026-02-21,FitFuel India,PST-00157,UNKNOWN-CAM,,Serum A,798.0,4,Delhi NCR,Tier 3,,1,No,Paid,bio_link,36,
+EVT-000349,2025-10-12,UrbanPaws,PST-00402,CAM-2508-016,,Protein Bar,2499.0,1,Hyderabad,Metro,No,30,Yes,Paid,instagram,16,
+EVT-000350,2025-08-13,ByteBazaar,PST-00137,CAM-2507-003,GLO18,Silk Saree,399.0,4,Mumbai,Metro,No,1,No,Paid,bio_link,32,Late attribution
+EVT-000351,2025-09-11,UrbanPaws,PST-00473,UNKNOWN-CAM,,Gift Card,1499.0,3,Hyderabad,Tier 3,No,14,No,Paid,bio_link,57,Coupon mismatch
+EVT-000352,2025-10-13,ByteBazaar,PST-00169,,,Cold Brew,1197.0,4,Kolkata,Tier 2,yes,14,No,Refunded,paid_social,22,Manual entry
+EVT-000353,2025-12-05,FitFuel India,PST-00346,UNKNOWN-CAM,,Cold Brew,3999.0,2,Kolkata,Tier 3,Yes,30,Yes,Paid,paid_social,91,Late attribution
+EVT-000354,2025-09-11,FitFuel India,PST-00571,UNKNOWN-CAM,,Smart Lamp,1999.0,3,Delhi NCR,Tier 1,,30,No,Paid,influencer,68,Manual entry
+EVT-000355,2025-08-17,UrbanPaws,PST-00563,CAM-2507-031,,Silk Saree,7998.0,3,Jaipur,Tier 1,yes,14,No,Pending,,62,Manual entry
+EVT-000356,2025-10-02,SareeStreet,PST-00116,CAM-2507-037,,Protein Bar,1797.0,4,Hyderabad,Tier 1,No,30,No,Paid,Instagram,28,
+EVT-000357,2025-07-25,GlowKart,PST-00523,UNKNOWN-CAM,,Smart Lamp,1999.0,4,Mumbai,Tier 1,Unknown,3,No,Refunded,paid_social,57,Coupon mismatch
+EVT-000358,2025-11-18,FitFuel India,PST-00066,CAM-2509-029,SAR31,Dog Treats,11997.0,4,Jaipur,Metro,Unknown,7,No,Failed,bio_link,31,Coupon mismatch
+EVT-000359,2025-12-19,SareeStreet,PST-00121,CAM-2510-004,GLO18,Dog Treats,999.0,2,Indore,Tier 1,Unknown,14,No,Failed,Instagram,45,
+EVT-000360,2025-08-18,UrbanPaws,,,,Smart Lamp,3999.0,1,Jaipur,Tier 3,Unknown,7,No,Failed,,45,Manual entry
+EVT-000361,2025-10-19,SareeStreet,PST-00599,CAM-2510-042,CAF19,Protein Bar,1797.0,4,Pune,Tier 1,,3,No,Refunded,paid_social,54,Manual entry
+EVT-000362,2025-09-16,SareeStreet,PST-00502,,,Combo Pack,799.0,3,Lucknow,Tier 2,Yes,7,Yes,Failed,ig_reels,3,
+EVT-000363,2026-01-10,SareeStreet,PST-00393,UNKNOWN-CAM,,Dog Treats,1999.0,2,Mumbai,Tier 1,No,1,No,Pending,,54,Coupon mismatch
+EVT-000364,2026-01-11,FitFuel India,PST-00632,CAM-2510-028,GLO12,Dog Treats,3998.0,4,Mumbai,Tier 1,yes,14,No,Paid,bio_link,75,Late attribution
+EVT-000366,2026-01-07,GlowKart,PST-00105,CAM-2508-038,CAF15,Protein Bar,4497.0,1,Pune,Tier 1,,45,No,Paid,Instagram,14,Manual entry
+EVT-000367,2025-10-25,UrbanPaws,PST-00021,,,Silk Saree,798.0,1,Lucknow,Tier 1,No,1,No,Pending,bio_link,76,Late attribution
+EVT-000368,2026-01-14,GlowKart,PST-00513,,,Gift Card,5999.0,4,Pune,Tier 1,Unknown,7,No,Failed,instagram,35,Late attribution
+EVT-000369,2026-02-10,SareeStreet,PST-00646,CAM-2507-030,URB36,Cold Brew,7998.0,2,Pune,Tier 3,Unknown,14,No,Refunded,bio_link,30,Late attribution
+EVT-000370,2025-12-28,UrbanPaws,PST-00327,UNKNOWN-CAM,,Protein Bar,11998.0,1,Bengaluru,Tier 1,Unknown,45,No,Failed,paid_social,18,
+EVT-000371,2025-09-27,FitFuel India,PST-00176,,,Smart Lamp,17997.0,2,Indore,Tier 1,Yes,14,Yes,Paid,bio_link,51,Coupon mismatch
+EVT-000372,2026-02-22,FitFuel India,PST-00282,CAM-2510-060,CAF12,Protein Bar,3999.0,1,Pune,Tier 2,No,7,No,Paid,influencer,61,
+EVT-000373,2026-02-04,CafeCanvas,PST-00001,CAM-2508-046,GLO17,Dog Treats,799.0,4,Indore,Metro,,3,No,Refunded,influencer,42,Manual entry
+EVT-000374,2026-03-14,UrbanPaws,PST-00152,CAM-2510-059,GLO31,Serum A,7998.0,3,Bengaluru,Metro,Unknown,30,No,Paid,,55,Late attribution
+EVT-000375,2025-07-12,SareeStreet,PST-00353,CAM-2510-021,,Combo Pack,1598.0,3,Pune,Tier 3,Unknown,7,No,Paid,influencer,2,Manual entry
+EVT-000376,2025-08-09,CafeCanvas,PST-00460,CAM-2511-013,SAR32,Serum A,2997.0,1,Jaipur,Metro,Unknown,30,Yes,Failed,bio_link,7,Manual entry
+EVT-000377,2026-02-08,GlowKart,PST-00383,,,Combo Pack,2397.0,1,Hyderabad,Tier 3,No,45,Yes,Paid,Instagram,6,Manual entry
+EVT-000378,2025-08-27,FitFuel India,PST-00635,CAM-2510-042,CAF19,Protein Bar,7497.0,3,Jaipur,Tier 2,,1,Yes,Pending,bio_link,4,Manual entry
+EVT-000379,2026-01-10,UrbanPaws,PST-00049,CAM-2510-059,GLO31,Gift Card,798.0,2,Chennai,Metro,,1,No,Refunded,instagram,68,Manual entry
+EVT-000380,2026-01-31,UrbanPaws,PST-00640,CAM-2510-028,GLO12,Protein Bar,1999.0,4,Kolkata,Tier 3,yes,7,No,Failed,Instagram,35,Manual entry
+EVT-000381,2025-08-31,UrbanPaws,PST-00216,,,Protein Bar,1499.0,2,Indore,Metro,No,3,No,Paid,,1,Manual entry
+EVT-000382,2026-01-19,GlowKart,PST-00648,CAM-2507-031,,Gift Card,798.0,4,Indore,Tier 1,Unknown,1,No,Pending,instagram,97,Coupon mismatch
+EVT-000383,2025-12-26,FitFuel India,PST-00089,UNKNOWN-CAM,,Combo Pack,17997.0,2,Indore,Metro,Yes,30,No,Pending,paid_social,93,Late attribution
+EVT-000384,2026-02-12,FitFuel India,PST-00318,,,Gift Card,599.0,4,Bengaluru,Metro,Unknown,14,No,Pending,ig_reels,55,
+EVT-000385,2025-12-19,ByteBazaar,PST-00298,CAM-2510-060,CAF12,Combo Pack,2397.0,1,Chennai,Metro,Yes,7,No,Failed,ig_reels,92,
+EVT-000386,2025-07-24,ByteBazaar,PST-00543,,,Gift Card,11998.0,2,Hyderabad,Tier 3,yes,45,No,Failed,influencer,76,Late attribution
+EVT-000387,2026-01-24,ByteBazaar,PST-00006,CAM-2510-007,FIT33,Silk Saree,1499.0,2,Lucknow,Metro,yes,3,No,Failed,influencer,69,Late attribution
+EVT-000388,2026-03-01,UrbanPaws,PST-00634,CAM-2507-026,GLO35,Combo Pack,4497.0,2,Delhi NCR,Metro,No,3,Yes,Pending,paid_social,53,Late attribution
+EVT-000389,2025-12-02,GlowKart,PST-00227,CAM-2509-050,,Combo Pack,1999.0,1,Delhi NCR,Tier 1,,1,No,Paid,,81,
+EVT-000390,2026-01-02,SareeStreet,PST-00527,UNKNOWN-CAM,,Serum A,3998.0,1,Lucknow,Metro,Unknown,3,Yes,Refunded,bio_link,81,Late attribution
+EVT-000391,2025-11-19,UrbanPaws,PST-00584,UNKNOWN-CAM,,Combo Pack,4497.0,2,Bengaluru,Metro,,45,No,Failed,,12,
+EVT-000392,2026-01-16,ByteBazaar,PST-00052,CAM-2507-058,WELCOME,Combo Pack,11997.0,3,Hyderabad,Tier 2,,7,No,Paid,influencer,93,Late attribution
+EVT-000393,2025-11-12,FitFuel India,PST-00111,,,Dog Treats,2997.0,3,Lucknow,Metro,,1,No,Paid,paid_social,87,Coupon mismatch
+EVT-000394,2025-10-13,ByteBazaar,PST-00361,,,Dog Treats,7998.0,4,Hyderabad,Tier 3,No,7,No,Paid,paid_social,96,Late attribution
+EVT-000395,2026-01-21,GlowKart,PST-00431,,,Cold Brew,7497.0,2,Mumbai,Tier 2,Unknown,1,No,Failed,Instagram,99,Late attribution
+EVT-000396,2025-11-04,ByteBazaar,PST-00079,UNKNOWN-CAM,,Cold Brew,2499.0,1,Kolkata,Tier 3,No,7,No,Paid,Instagram,5,Manual entry
+EVT-000397,2025-08-08,ByteBazaar,PST-00208,CAM-2508-008,SAR25,Cold Brew,2998.0,4,Lucknow,Tier 2,,3,No,Paid,instagram,53,Manual entry
+EVT-000398,2025-08-08,SareeStreet,PST-00404,,,Silk Saree,2998.0,4,Lucknow,Tier 2,No,45,Yes,Refunded,Instagram,67,Coupon mismatch
+EVT-000399,2025-09-02,FitFuel India,PST-00170,CAM-2510-020,BYT29,Serum A,2397.0,3,Hyderabad,Metro,No,1,No,Refunded,instagram,30,Manual entry
+EVT-000400,2026-01-07,FitFuel India,PST-00173,CAM-2508-057,BADCODE,Silk Saree,999.0,3,Pune,Metro,Unknown,45,No,Refunded,,95,
+EVT-000401,2025-09-25,CafeCanvas,PST-00413,,,Combo Pack,7497.0,4,Lucknow,Tier 3,Yes,45,No,Paid,Instagram,16,
+EVT-000402,2025-12-12,ByteBazaar,PST-00359,CAM-2510-007,FIT33,Dog Treats,1797.0,2,Indore,Tier 2,Yes,45,No,Paid,bio_link,97,Coupon mismatch
+EVT-000403,2025-10-28,UrbanPaws,PST-00387,CAM-2508-047,INSTA10,Protein Bar,999.0,3,Hyderabad,Metro,Yes,7,No,Paid,Instagram,19,Late attribution
+EVT-000404,2025-09-22,FitFuel India,PST-00253,CAM-2508-006,URB13,Cold Brew,4998.0,2,Mumbai,Tier 1,Unknown,30,No,Pending,bio_link,72,Late attribution
+EVT-000405,2025-08-14,UrbanPaws,PST-00207,,,Silk Saree,11998.0,3,Indore,Tier 1,Unknown,45,No,Paid,influencer,82,
+EVT-000406,2026-02-08,GlowKart,PST-00457,,,Cold Brew,5997.0,2,Jaipur,Tier 2,yes,1,No,Paid,instagram,88,Late attribution
+EVT-000407,2025-11-17,FitFuel India,PST-00581,,,Cold Brew,5997.0,3,Delhi NCR,Metro,No,7,No,Refunded,ig_reels,45,
+EVT-000408,2026-03-08,FitFuel India,PST-00171,CAM-2512-017,URB30,Gift Card,2397.0,2,Delhi NCR,Tier 1,No,14,No,Failed,instagram,58,Late attribution
+EVT-000409,2026-02-11,ByteBazaar,PST-00086,CAM-2508-008,,Gift Card,2998.0,2,Lucknow,Tier 2,,3,Yes,Refunded,,63,Late attribution
+EVT-000410,2025-08-25,GlowKart,PST-00575,CAM-2510-028,GLO12,Gift Card,2499.0,4,Chennai,Tier 3,Unknown,14,Yes,Pending,ig_reels,80,Coupon mismatch
+EVT-000411,2025-09-24,CafeCanvas,PST-00617,UNKNOWN-CAM,,Gift Card,5999.0,1,Hyderabad,Metro,yes,45,No,Refunded,,70,
+EVT-000412,2025-08-15,ByteBazaar,PST-00517,UNKNOWN-CAM,,Serum A,1197.0,1,Lucknow,Metro,Yes,30,No,Paid,,7,Manual entry
+EVT-000413,2026-01-12,UrbanPaws,PST-00358,,,Serum A,2997.0,2,Kolkata,Tier 2,No,30,No,Paid,influencer,35,Late attribution
+EVT-000414,2026-02-20,FitFuel India,PST-00197,UNKNOWN-CAM,WELCOME,Protein Bar,599.0,2,Pune,Tier 2,No,7,Yes,Paid,influencer,63,Coupon mismatch
+EVT-000415,2025-09-30,CafeCanvas,PST-00592,CAM-2508-024,BYT38,Serum A,11997.0,2,Delhi NCR,Tier 2,yes,1,No,Pending,Instagram,81,Manual entry
+EVT-000416,2026-01-01,GlowKart,PST-00441,CAM-2507-048,BYT20,Dog Treats,1499.0,2,Delhi NCR,Tier 2,No,1,No,Paid,ig_reels,71,Late attribution
+EVT-000417,2026-01-23,UrbanPaws,PST-00109,,,Silk Saree,798.0,2,Indore,Tier 2,yes,30,No,Refunded,ig_reels,59,Coupon mismatch
+EVT-000418,2025-07-31,ByteBazaar,PST-00624,,,Serum A,1598.0,1,Indore,Tier 1,Yes,30,Yes,Paid,paid_social,94,
+EVT-000419,2025-12-07,ByteBazaar,PST-00103,,BADCODE,Gift Card,7497.0,2,Jaipur,Tier 1,Unknown,1,Yes,Paid,instagram,82,Manual entry
+EVT-000420,2025-11-17,ByteBazaar,PST-00246,CAM-2510-007,FIT33,Serum A,1998.0,1,Delhi NCR,Metro,Unknown,14,No,Pending,ig_reels,11,Coupon mismatch
+EVT-000421,2026-03-02,FitFuel India,PST-00380,CAM-2511-025,BYT38,Protein Bar,1499.0,4,Bengaluru,Metro,Unknown,14,No,Refunded,paid_social,57,Coupon mismatch
+EVT-000422,2026-01-27,SareeStreet,PST-00409,,,Protein Bar,3999.0,4,Indore,Tier 1,yes,3,No,Paid,influencer,63,Late attribution
+EVT-000423,2025-08-31,GlowKart,PST-00350,CAM-2507-048,,Combo Pack,3998.0,4,Delhi NCR,Tier 2,No,45,Yes,Pending,instagram,89,Coupon mismatch
+EVT-000424,2025-10-16,SareeStreet,PST-00599,CAM-2510-042,CAF19,Serum A,5999.0,1,Delhi NCR,Tier 2,No,1,No,Pending,instagram,77,Late attribution
+EVT-000425,2025-10-13,ByteBazaar,PST-00060,CAM-2508-005,FIT22,Serum A,599.0,3,Kolkata,Metro,,7,No,Pending,Instagram,93,Late attribution
+EVT-000426,2025-07-10,SareeStreet,PST-00240,UNKNOWN-CAM,,Dog Treats,5997.0,3,Mumbai,Metro,Yes,1,Yes,Paid,Instagram,54,Manual entry
+EVT-000428,2025-08-25,SareeStreet,PST-00524,CAM-2508-002,,Combo Pack,2499.0,1,Pune,Metro,yes,7,Yes,Failed,,39,Coupon mismatch
+EVT-000429,2025-12-13,FitFuel India,PST-00456,CAM-2507-037,,Combo Pack,1499.0,1,Indore,Tier 2,yes,1,Yes,Failed,Instagram,1,Manual entry
+EVT-000430,2025-11-24,SareeStreet,PST-00378,CAM-2510-020,WELCOME,Silk Saree,5999.0,2,Kolkata,Tier 2,yes,30,No,Paid,,86,Coupon mismatch
+EVT-000431,2025-10-23,UrbanPaws,PST-00464,CAM-2510-021,,Dog Treats,3998.0,1,Indore,Tier 1,Yes,3,No,Paid,Instagram,63,Coupon mismatch
+EVT-000432,2026-01-01,ByteBazaar,PST-00158,CAM-2508-027,FIT17,Dog Treats,799.0,3,Hyderabad,Tier 1,Unknown,7,Yes,Refunded,paid_social,5,Coupon mismatch
+EVT-000433,2025-09-05,ByteBazaar,PST-00361,,,Smart Lamp,7998.0,1,Jaipur,Tier 2,,3,No,Failed,paid_social,58,
+EVT-000434,2025-08-07,ByteBazaar,PST-00194,,,Cold Brew,2997.0,1,Jaipur,Tier 3,Yes,1,Yes,Failed,,69,
+EVT-000435,2025-11-11,GlowKart,PST-00257,CAM-2511-036,SAR37,Combo Pack,798.0,4,Indore,Tier 2,Yes,45,No,Refunded,Instagram,88,Coupon mismatch
+EVT-000436,2026-01-13,FitFuel India,PST-00419,CAM-2510-004,BADCODE,Gift Card,1198.0,2,Lucknow,Tier 2,No,1,No,Paid,bio_link,56,Coupon mismatch
+EVT-000437,2025-10-12,GlowKart,PST-00186,CAM-2508-024,BYT38,Smart Lamp,1197.0,1,Lucknow,Tier 2,,30,No,Paid,ig_reels,74,Late attribution
+EVT-000438,2025-11-06,FitFuel India,PST-00581,CAM-2510-007,FIT33,Dog Treats,3998.0,1,Hyderabad,Tier 3,No,1,Yes,Refunded,bio_link,58,
+EVT-000439,2025-09-05,GlowKart,PST-00487,CAM-2510-023,,Gift Card,4497.0,2,Pune,Tier 1,Yes,14,Yes,Refunded,ig_reels,91,Coupon mismatch
+EVT-000440,2025-12-27,SareeStreet,PST-00225,UNKNOWN-CAM,WELCOME,Cold Brew,0.0,1,Lucknow,Tier 3,Unknown,1,Yes,Paid,ig_reels,30,Late attribution
+EVT-000441,2025-10-27,ByteBazaar,PST-00118,,,Cold Brew,599.0,1,Lucknow,Tier 1,Yes,14,No,Paid,bio_link,18,Manual entry
+EVT-000442,2025-10-19,ByteBazaar,PST-00079,CAM-2510-060,CAF12,Protein Bar,999.0,4,Pune,Metro,,7,Yes,Failed,influencer,68,Manual entry
+EVT-000443,2025-09-30,ByteBazaar,PST-00614,CAM-2510-054,URB11,Cold Brew,2499.0,1,Bengaluru,Tier 1,Yes,1,No,Paid,influencer,60,Late attribution
+EVT-000444,2025-08-21,CafeCanvas,PST-00030,CAM-2508-024,BYT38,Protein Bar,2397.0,4,Delhi NCR,Metro,No,7,Yes,Failed,influencer,78,Coupon mismatch
+EVT-000445,2025-10-24,GlowKart,PST-00529,CAM-2510-033,BADCODE,Protein Bar,1198.0,4,Bengaluru,Tier 3,,3,No,Paid,bio_link,100,Late attribution
+EVT-000446,2025-09-11,FitFuel India,PST-00541,UNKNOWN-CAM,,Protein Bar,1999.0,1,Kolkata,Tier 2,yes,3,Yes,Refunded,paid_social,25,Late attribution
+EVT-000447,2025-08-06,FitFuel India,PST-00491,,,Combo Pack,1998.0,3,Chennai,Metro,,7,No,Failed,paid_social,13,
+EVT-000448,2026-01-04,GlowKart,PST-00192,UNKNOWN-CAM,,Dog Treats,5997.0,3,Bengaluru,Metro,No,14,No,Paid,,68,Manual entry
+EVT-000449,2025-11-10,SareeStreet,PST-00452,CAM-2508-006,URB13,Cold Brew,11997.0,4,Hyderabad,Tier 2,yes,14,No,Paid,instagram,64,Manual entry
+EVT-000450,2025-12-13,UrbanPaws,PST-00358,CAM-2511-025,BYT38,Silk Saree,1797.0,1,Lucknow,Tier 1,No,3,No,Failed,paid_social,13,
+EVT-000451,2025-11-08,GlowKart,PST-00237,CAM-2507-003,GLO18,Serum A,11997.0,1,Mumbai,Metro,yes,3,Yes,Paid,instagram,73,Coupon mismatch
+EVT-000452,2026-02-16,ByteBazaar,PST-00156,CAM-2509-039,BADCODE,Combo Pack,2397.0,2,Kolkata,Tier 3,yes,1,No,Paid,instagram,42,
+EVT-000453,2025-12-11,SareeStreet,PST-00378,CAM-2510-020,BYT29,Cold Brew,1598.0,4,Indore,Metro,Yes,1,Yes,Refunded,ig_reels,44,Manual entry
+EVT-000455,2025-08-03,UrbanPaws,PST-00583,UNKNOWN-CAM,,Protein Bar,1198.0,2,Hyderabad,Metro,yes,3,Yes,Paid,bio_link,23,Coupon mismatch
+EVT-000456,2026-01-19,CafeCanvas,PST-00264,CAM-2510-028,GLO12,Combo Pack,4497.0,3,Mumbai,Tier 1,,30,No,Pending,bio_link,79,Late attribution
+EVT-000457,2025-12-29,GlowKart,PST-00072,CAM-2508-008,SAR25,Cold Brew,1499.0,2,Indore,Tier 2,Unknown,1,Yes,Paid,,5,Manual entry
+EVT-000458,2026-01-28,ByteBazaar,PST-00238,CAM-2509-055,WELCOME,Gift Card,2499.0,1,Bengaluru,Tier 3,Yes,30,No,Failed,,66,
+EVT-000459,2026-01-04,SareeStreet,PST-00507,,,Serum A,2397.0,1,Lucknow,Tier 3,Unknown,3,Yes,Pending,ig_reels,71,Late attribution
+EVT-000460,2025-09-10,FitFuel India,PST-00159,CAM-2507-034,,Protein Bar,799.0,2,Jaipur,Tier 2,Unknown,45,Yes,Pending,influencer,74,Coupon mismatch
+EVT-000461,2025-09-23,FitFuel India,PST-00300,CAM-2510-054,,Gift Card,1797.0,3,Delhi NCR,Tier 1,,30,Yes,Pending,influencer,91,Coupon mismatch
+EVT-000462,2025-11-07,GlowKart,PST-00083,UNKNOWN-CAM,,Protein Bar,1499.0,2,Chennai,Metro,yes,45,No,Pending,ig_reels,31,Coupon mismatch
+EVT-000463,2026-01-08,ByteBazaar,PST-00316,CAM-2508-046,GLO17,Cold Brew,1998.0,2,Pune,Metro,yes,3,No,Paid,influencer,55,Late attribution
+EVT-000464,2025-11-16,UrbanPaws,PST-00432,UNKNOWN-CAM,,Combo Pack,2397.0,2,Jaipur,Tier 1,Yes,45,No,Paid,,27,
+EVT-000465,2025-08-07,FitFuel India,PST-00170,,,Dog Treats,1499.0,2,Bengaluru,Metro,Unknown,1,Yes,Paid,,19,Late attribution
+EVT-000466,2025-08-26,CafeCanvas,PST-00124,UNKNOWN-CAM,,Serum A,798.0,2,Chennai,Tier 1,Unknown,7,No,Pending,Instagram,35,Coupon mismatch
+EVT-000467,2025-12-11,SareeStreet,PST-00528,CAM-2510-054,URB11,Combo Pack,17997.0,2,Kolkata,Tier 2,Yes,14,Yes,Pending,ig_reels,19,Late attribution
+EVT-000468,2026-01-01,GlowKart,PST-00465,CAM-2510-045,,Gift Card,3999.0,4,Chennai,Tier 1,yes,1,No,Refunded,,10,Manual entry
+EVT-000469,2025-07-29,GlowKart,PST-00578,CAM-2508-024,BYT38,Gift Card,11998.0,2,Pune,Tier 1,yes,30,Yes,Paid,instagram,45,Manual entry
+EVT-000470,2025-12-26,FitFuel India,PST-00058,UNKNOWN-CAM,,Smart Lamp,7497.0,4,Mumbai,Tier 3,,45,Yes,Paid,paid_social,49,Manual entry
+EVT-000471,2025-08-19,GlowKart,PST-00100,,,Protein Bar,4998.0,4,Lucknow,Tier 3,Unknown,1,Yes,Pending,instagram,19,Late attribution
+EVT-000472,2025-12-19,UrbanPaws,PST-00455,UNKNOWN-CAM,BADCODE,Serum A,2997.0,2,Jaipur,Metro,No,30,Yes,Failed,Instagram,42,Manual entry
+EVT-000473,2025-11-13,FitFuel India,PST-00255,CAM-2509-039,GLO19,Gift Card,1499.0,1,Chennai,Tier 1,No,45,No,Pending,Instagram,17,Coupon mismatch
+EVT-000474,2025-11-13,SareeStreet,PST-00449,CAM-2508-046,BADCODE,Gift Card,1797.0,1,Mumbai,Tier 2,,1,Yes,Refunded,influencer,85,Coupon mismatch
+EVT-000475,2025-09-07,SareeStreet,PST-00397,CAM-2507-026,GLO35,Combo Pack,1499.0,4,Kolkata,Tier 1,,3,No,Pending,Instagram,51,Coupon mismatch
+EVT-000476,2025-09-25,GlowKart,PST-00333,,,Dog Treats,399.0,4,Lucknow,Metro,No,14,No,Pending,paid_social,75,Manual entry
+EVT-000477,2025-12-01,GlowKart,PST-00335,,,Silk Saree,2397.0,4,Indore,Tier 2,Unknown,45,No,Failed,paid_social,42,Manual entry
+EVT-000478,2025-12-05,FitFuel India,PST-00206,CAM-2511-049,FIT23,Combo Pack,3999.0,2,Jaipur,Tier 2,yes,14,No,Failed,Instagram,36,Late attribution
+EVT-000479,2025-09-25,GlowKart,PST-00296,CAM-2511-036,SAR37,Smart Lamp,11997.0,4,Mumbai,Tier 3,No,14,No,Refunded,,59,Coupon mismatch
+EVT-000480,2026-01-24,SareeStreet,PST-00094,UNKNOWN-CAM,,Protein Bar,7497.0,3,Bengaluru,Metro,Yes,14,Yes,Paid,bio_link,12,Coupon mismatch
+EVT-000481,2025-10-29,SareeStreet,PST-00116,UNKNOWN-CAM,,Gift Card,2997.0,3,Jaipur,Tier 1,No,7,No,Failed,paid_social,22,Late attribution
+EVT-000482,2025-12-10,SareeStreet,PST-00414,CAM-2507-026,GLO35,Protein Bar,2397.0,3,Lucknow,Tier 3,Yes,45,No,Failed,influencer,62,Late attribution
+EVT-000483,2026-02-08,UrbanPaws,PST-00600,CAM-2510-019,FIT31,Cold Brew,3999.0,1,Chennai,Tier 2,No,3,No,Pending,bio_link,86,
+EVT-000484,2025-12-05,GlowKart,PST-00276,,,Serum A,799.0,3,Kolkata,Metro,,3,No,Pending,Instagram,26,
+EVT-000485,2025-08-13,FitFuel India,PST-00463,,,Serum A,7497.0,3,Kolkata,Metro,yes,7,No,Paid,bio_link,71,
+EVT-000486,2025-10-04,ByteBazaar,PST-00361,CAM-2511-044,,Cold Brew,11998.0,1,Bengaluru,Tier 3,yes,30,Yes,Paid,instagram,52,
+EVT-000487,2025-07-20,GlowKart,PST-00633,CAM-2507-031,,Gift Card,1598.0,1,Lucknow,Metro,Yes,7,No,Paid,ig_reels,45,
+EVT-000488,2025-09-29,CafeCanvas,PST-00341,CAM-2510-059,GLO31,Dog Treats,1198.0,3,Pune,Tier 2,yes,30,No,Failed,,4,
+EVT-000489,2025-11-07,UrbanPaws,PST-00598,CAM-2510-045,,Silk Saree,5997.0,2,Chennai,Tier 1,Unknown,14,No,Failed,paid_social,16,Late attribution
+EVT-000490,2025-09-27,ByteBazaar,PST-00437,CAM-2508-035,FIT31,Gift Card,1198.0,3,Chennai,Metro,Yes,45,Yes,Pending,,6,Late attribution
+EVT-000492,2025-12-28,CafeCanvas,PST-00412,UNKNOWN-CAM,,Cold Brew,2397.0,2,Jaipur,Tier 1,Unknown,14,No,Paid,,21,Manual entry
+EVT-000493,2025-10-23,UrbanPaws,PST-00584,UNKNOWN-CAM,,Serum A,1499.0,4,Lucknow,Tier 2,,45,No,Paid,Instagram,32,
+EVT-000494,2025-09-18,UrbanPaws,PST-00464,CAM-2510-021,,Gift Card,2499.0,3,Jaipur,Tier 1,No,30,No,Paid,influencer,40,Late attribution
+EVT-000495,2025-09-29,SareeStreet,PST-00481,,,Serum A,4497.0,3,Jaipur,Metro,Yes,1,Yes,Paid,instagram,72,Coupon mismatch
+EVT-000496,2025-09-05,FitFuel India,PST-00508,CAM-2508-022,INSTA10,Protein Bar,2397.0,2,Chennai,Tier 1,,7,Yes,Paid,ig_reels,51,
+EVT-000497,2025-12-28,GlowKart,PST-00331,CAM-2512-018,FIT20,Combo Pack,599.0,2,Kolkata,Tier 2,Yes,14,Yes,Paid,bio_link,23,Late attribution
+EVT-000498,2025-09-07,SareeStreet,PST-00524,CAM-2508-002,,Dog Treats,2499.0,2,Pune,Metro,Yes,30,Yes,Paid,paid_social,47,Coupon mismatch
+EVT-000499,2026-02-22,CafeCanvas,PST-00293,UNKNOWN-CAM,,Gift Card,999.0,1,Delhi NCR,Tier 2,yes,14,Yes,Paid,,96,
+EVT-000500,2026-01-27,UrbanPaws,PST-00215,,,Smart Lamp,1999.0,2,Hyderabad,Metro,Yes,7,Yes,Paid,paid_social,65,Coupon mismatch
+EVT-000501,2025-09-02,CafeCanvas,PST-00003,CAM-2509-050,,Silk Saree,798.0,3,Bengaluru,Tier 3,Yes,3,No,Pending,ig_reels,17,Coupon mismatch
+EVT-000502,2025-08-11,UrbanPaws,PST-00462,,,Silk Saree,1197.0,2,Chennai,Metro,,1,No,Paid,instagram,22,
+EVT-000503,2025-12-22,SareeStreet,PST-00261,CAM-2508-027,FIT17,Smart Lamp,4497.0,1,Delhi NCR,Tier 3,Unknown,3,Yes,Pending,bio_link,20,Coupon mismatch
+EVT-000504,2025-11-14,GlowKart,,,INSTA10,Gift Card,1499.0,3,Hyderabad,Tier 2,Yes,1,No,Paid,,60,Late attribution
+EVT-000505,2026-02-04,SareeStreet,PST-00024,,BADCODE,Cold Brew,3998.0,3,Jaipur,Tier 2,Yes,7,No,Paid,ig_reels,81,Late attribution
+EVT-000506,2025-07-15,ByteBazaar,PST-00194,CAM-2510-042,CAF19,Combo Pack,1198.0,2,Chennai,Tier 3,Yes,30,No,Refunded,bio_link,63,Coupon mismatch
+EVT-000507,2025-08-29,SareeStreet,PST-00145,CAM-2509-029,SAR31,Smart Lamp,3998.0,1,Kolkata,Metro,Yes,1,No,Paid,bio_link,74,Manual entry
+EVT-000508,2025-09-17,GlowKart,PST-00271,CAM-2512-032,FIT12,Serum A,1499.0,4,Hyderabad,Tier 2,Unknown,45,No,Paid,instagram,1,Coupon mismatch
+EVT-000509,2025-10-02,CafeCanvas,PST-00251,CAM-2507-048,WELCOME,Cold Brew,0.0,2,Mumbai,Metro,yes,1,No,Refunded,,38,Coupon mismatch
+EVT-000510,2025-09-08,FitFuel India,PST-00239,CAM-2508-038,CAF15,Smart Lamp,2998.0,4,Mumbai,Metro,Unknown,7,No,Pending,paid_social,43,Late attribution
+EVT-000511,2026-01-10,CafeCanvas,PST-00330,,,Combo Pack,999.0,3,Delhi NCR,Tier 2,Yes,14,Yes,Pending,bio_link,55,Manual entry
+EVT-000512,2025-08-31,SareeStreet,PST-00510,CAM-2511-041,SAR26,Cold Brew,1197.0,1,Jaipur,Tier 1,,7,No,Refunded,influencer,15,Late attribution
+EVT-000513,2025-12-02,SareeStreet,PST-00638,,,Smart Lamp,5997.0,2,Lucknow,Tier 3,yes,30,No,Pending,paid_social,65,Coupon mismatch
+EVT-000514,2025-08-30,SareeStreet,PST-00394,CAM-2510-033,URB30,Serum A,1998.0,4,Mumbai,Tier 2,No,14,No,Paid,,22,Coupon mismatch
+EVT-000515,2025-11-02,SareeStreet,PST-00223,,BADCODE,Smart Lamp,799.0,3,Mumbai,Tier 1,Unknown,14,Yes,Failed,paid_social,95,
+EVT-000516,2025-11-08,ByteBazaar,PST-00051,CAM-2510-042,CAF19,Protein Bar,7998.0,3,Kolkata,Tier 2,,1,No,Paid,influencer,74,Late attribution
+EVT-000517,2025-08-06,CafeCanvas,PST-00003,CAM-2509-050,BADCODE,Combo Pack,2997.0,3,Hyderabad,Metro,,30,No,Pending,bio_link,9,Manual entry
+EVT-000518,2026-01-04,CafeCanvas,PST-00343,UNKNOWN-CAM,,Smart Lamp,4998.0,2,Delhi NCR,Tier 1,No,7,Yes,Paid,ig_reels,53,Late attribution
+EVT-000520,2025-12-11,GlowKart,PST-00297,CAM-2507-058,CAF36,Silk Saree,7998.0,4,Jaipur,Tier 2,Unknown,3,No,Refunded,paid_social,87,Late attribution
+EVT-000521,2025-11-10,GlowKart,PST-00139,UNKNOWN-CAM,,Serum A,1797.0,2,Kolkata,Tier 2,Unknown,14,No,Paid,ig_reels,15,Manual entry
+EVT-000522,2025-08-08,ByteBazaar,PST-00517,,,Serum A,798.0,1,Delhi NCR,Tier 1,Yes,1,Yes,Paid,ig_reels,22,Late attribution
+EVT-000523,2025-07-14,SareeStreet,PST-00281,CAM-2510-059,GLO31,Gift Card,599.0,1,Chennai,Tier 3,Yes,14,No,Failed,influencer,92,
+EVT-000524,2025-10-29,ByteBazaar,PST-00369,,,Gift Card,2998.0,3,Mumbai,Tier 1,Yes,3,Yes,Pending,bio_link,44,
+EVT-000525,2025-07-20,FitFuel India,PST-00547,UNKNOWN-CAM,,Combo Pack,599.0,4,Kolkata,Tier 3,Yes,14,Yes,Paid,Instagram,39,Late attribution
+EVT-000526,2025-09-17,FitFuel India,PST-00176,CAM-2507-058,CAF36,Serum A,11997.0,2,Indore,Tier 3,Yes,14,No,Paid,paid_social,97,
+EVT-000527,2026-02-27,GlowKart,PST-00324,CAM-2510-019,FIT31,Cold Brew,1197.0,1,Lucknow,Tier 3,,45,No,Refunded,ig_reels,99,Late attribution
+EVT-000528,2025-08-24,FitFuel India,PST-00547,CAM-2507-026,GLO35,Combo Pack,2397.0,1,Indore,Tier 3,,30,No,Failed,ig_reels,90,Coupon mismatch
+EVT-000529,2025-10-31,FitFuel India,PST-00474,UNKNOWN-CAM,,Smart Lamp,4497.0,3,Jaipur,Metro,No,7,Yes,Refunded,ig_reels,56,
+EVT-000530,2025-09-02,CafeCanvas,PST-00056,,,Smart Lamp,4998.0,4,Mumbai,Metro,No,30,No,Refunded,ig_reels,82,Late attribution
+EVT-000531,2025-12-09,GlowKart,PST-00335,CAM-2512-018,FIT20,Protein Bar,5997.0,2,Pune,Tier 3,Unknown,3,No,Refunded,bio_link,65,Coupon mismatch
+EVT-000532,2025-09-07,GlowKart,PST-00333,,,Serum A,2998.0,3,Lucknow,Tier 3,Unknown,1,Yes,Paid,influencer,17,Coupon mismatch
+EVT-000533,2025-08-25,CafeCanvas,PST-00540,CAM-2510-007,FIT33,Smart Lamp,798.0,4,Delhi NCR,Tier 3,No,7,No,Paid,instagram,33,Manual entry
+EVT-000534,2025-11-09,FitFuel India,PST-00418,CAM-2512-015,,Serum A,5997.0,1,Chennai,Tier 3,No,1,Yes,Pending,ig_reels,17,
+EVT-000535,2026-02-02,SareeStreet,PST-00043,CAM-2512-015,BADCODE,Gift Card,3998.0,3,Lucknow,Metro,No,30,Yes,Paid,ig_reels,31,
+EVT-000536,2025-07-30,UrbanPaws,PST-00461,CAM-2511-013,SAR32,Serum A,1999.0,3,Bengaluru,Tier 1,Unknown,7,No,Paid,influencer,77,Late attribution
+EVT-000537,2025-11-18,SareeStreet,PST-00450,CAM-2508-057,,Dog Treats,4998.0,4,Jaipur,Tier 3,yes,3,No,Paid,bio_link,48,Coupon mismatch
+EVT-000538,2026-01-20,GlowKart,PST-00476,CAM-2511-025,BYT38,Combo Pack,5999.0,2,Kolkata,Tier 1,Yes,30,No,Paid,bio_link,31,Coupon mismatch
+EVT-000539,2026-02-13,ByteBazaar,,CAM-2508-047,GLO17,Combo Pack,5999.0,3,Bengaluru,Tier 2,,30,Yes,Paid,instagram,16,
+EVT-000540,2025-08-25,FitFuel India,PST-00209,UNKNOWN-CAM,,Dog Treats,0.0,4,Lucknow,Tier 1,Unknown,30,No,Pending,bio_link,56,Coupon mismatch
+EVT-000541,2026-02-16,GlowKart,PST-00085,UNKNOWN-CAM,INSTA10,Smart Lamp,5999.0,4,Mumbai,Tier 3,,45,No,Paid,influencer,12,Late attribution
+EVT-000542,2025-09-19,CafeCanvas,PST-00371,UNKNOWN-CAM,,Serum A,5997.0,1,Indore,Metro,,3,No,Paid,,63,Manual entry
+EVT-000543,2025-10-18,GlowKart,PST-00560,CAM-2510-020,BYT29,Dog Treats,1999.0,1,Pune,Tier 2,,45,No,Pending,ig_reels,33,
+EVT-000544,2025-12-01,GlowKart,PST-00247,CAM-2511-036,SAR37,Cold Brew,7497.0,2,Indore,Tier 1,No,7,Yes,Paid,paid_social,86,Late attribution
+EVT-000545,2025-09-19,FitFuel India,PST-00134,UNKNOWN-CAM,,Serum A,599.0,3,Chennai,Tier 3,No,45,Yes,Pending,bio_link,15,Manual entry
+EVT-000546,2025-08-11,ByteBazaar,PST-00639,CAM-2509-050,CAF11,Smart Lamp,4497.0,2,Delhi NCR,Tier 2,Unknown,45,No,Paid,Instagram,81,Late attribution
+EVT-000547,2026-01-04,SareeStreet,PST-00125,,,Combo Pack,11997.0,1,Mumbai,Metro,yes,3,No,Paid,instagram,43,Coupon mismatch
+EVT-000548,2025-12-09,ByteBazaar,PST-00087,CAM-2507-048,BADCODE,Combo Pack,1797.0,2,Lucknow,Metro,No,1,No,Failed,,73,Coupon mismatch
+EVT-000549,2025-09-01,ByteBazaar,PST-00405,CAM-2507-026,GLO35,Combo Pack,3999.0,4,Mumbai,Metro,Unknown,45,Yes,Paid,ig_reels,68,Coupon mismatch
+EVT-000550,2026-02-28,GlowKart,PST-00457,CAM-2510-042,CAF19,Cold Brew,11998.0,2,Pune,Tier 1,yes,45,No,Paid,,19,Coupon mismatch
+EVT-000551,2025-09-03,GlowKart,PST-00496,,,Combo Pack,5999.0,3,Hyderabad,Tier 1,Yes,3,No,Refunded,influencer,38,
+EVT-000552,2025-08-30,ByteBazaar,,UNKNOWN-CAM,,Gift Card,1999.0,1,Mumbai,Metro,Yes,30,Yes,Paid,instagram,98,Late attribution
+EVT-000553,2026-01-23,SareeStreet,PST-00009,CAM-2508-008,SAR25,Smart Lamp,2998.0,3,Pune,Tier 3,Yes,45,Yes,Failed,paid_social,39,Coupon mismatch
+EVT-000554,2025-08-08,FitFuel India,PST-00571,UNKNOWN-CAM,,Smart Lamp,999.0,1,Lucknow,Tier 2,No,30,Yes,Pending,,17,Manual entry
+EVT-000555,2025-09-21,ByteBazaar,PST-00517,UNKNOWN-CAM,,Serum A,599.0,3,Mumbai,Tier 1,Yes,30,No,Failed,Instagram,36,Manual entry
+EVT-000556,2025-11-22,ByteBazaar,PST-00249,,,Gift Card,799.0,4,Chennai,Tier 2,,1,No,Paid,influencer,23,
+EVT-000557,2025-12-13,SareeStreet,PST-00638,UNKNOWN-CAM,,Dog Treats,17997.0,4,Lucknow,Tier 3,Yes,30,No,Failed,influencer,63,Coupon mismatch
+EVT-000558,2025-10-17,GlowKart,PST-00190,CAM-2508-027,FIT17,Gift Card,4497.0,1,Mumbai,Tier 1,Unknown,30,No,Paid,paid_social,31,Manual entry
+EVT-000559,2025-08-06,CafeCanvas,PST-00003,CAM-2509-050,CAF11,Dog Treats,1797.0,1,Mumbai,Tier 3,Yes,30,No,Paid,paid_social,1,Coupon mismatch
+EVT-000560,2025-09-17,CafeCanvas,PST-00371,CAM-2511-036,SAR37,Protein Bar,4497.0,1,Chennai,Tier 3,No,14,No,Failed,bio_link,92,Manual entry
+EVT-000561,2025-10-03,SareeStreet,PST-00145,CAM-2509-029,SAR31,Protein Bar,7998.0,1,Chennai,Metro,Yes,3,Yes,Paid,Instagram,57,Manual entry
+EVT-000562,2025-10-25,GlowKart,PST-00579,UNKNOWN-CAM,WELCOME,Serum A,2397.0,2,Kolkata,Metro,Unknown,45,No,Paid,instagram,54,Manual entry
+EVT-000563,2025-09-17,UrbanPaws,PST-00180,UNKNOWN-CAM,,Serum A,11998.0,4,Hyderabad,Metro,No,45,Yes,Paid,ig_reels,25,Coupon mismatch
+EVT-000564,2025-12-20,SareeStreet,PST-00225,UNKNOWN-CAM,,Protein Bar,7998.0,3,Chennai,Tier 2,,1,Yes,Refunded,bio_link,44,
+EVT-000565,2025-11-24,FitFuel India,PST-00256,UNKNOWN-CAM,,Serum A,2998.0,2,Bengaluru,Tier 2,No,1,Yes,Paid,instagram,84,Late attribution
+EVT-000566,2025-08-12,ByteBazaar,PST-00178,,,Smart Lamp,2997.0,4,Pune,Tier 1,Yes,30,No,Paid,ig_reels,99,Late attribution
+EVT-000567,2025-11-12,CafeCanvas,PST-00340,CAM-2507-056,INSTA10,Gift Card,3999.0,1,Bengaluru,Tier 3,No,3,No,Failed,instagram,60,Late attribution
+EVT-000568,2025-07-14,FitFuel India,PST-00400,,,Cold Brew,3999.0,3,Indore,Tier 2,Yes,45,No,Paid,bio_link,20,Late attribution
+EVT-000569,2025-08-18,SareeStreet,PST-00353,UNKNOWN-CAM,INSTA10,Dog Treats,2499.0,1,Delhi NCR,Tier 2,Unknown,30,No,Pending,ig_reels,33,Manual entry
+EVT-000570,2025-11-25,ByteBazaar,PST-00298,UNKNOWN-CAM,,Cold Brew,1999.0,2,Kolkata,Metro,,30,No,Paid,Instagram,22,Late attribution
+EVT-000571,2025-08-14,GlowKart,PST-00100,UNKNOWN-CAM,,Silk Saree,999.0,2,Pune,Tier 3,yes,45,No,Paid,Instagram,75,Manual entry
+EVT-000572,2025-09-28,SareeStreet,PST-00500,CAM-2511-053,GLO15,Smart Lamp,599.0,1,Bengaluru,Tier 1,Yes,14,Yes,Paid,Instagram,30,Late attribution
+EVT-000573,2026-02-14,CafeCanvas,PST-00293,,,Silk Saree,4998.0,1,Jaipur,Tier 2,Yes,30,Yes,Paid,paid_social,75,Manual entry
+EVT-000574,2025-12-26,UrbanPaws,PST-00049,,,Combo Pack,1998.0,2,Kolkata,Tier 3,,1,No,Paid,,26,Manual entry
+EVT-000575,2026-01-04,ByteBazaar,PST-00359,,,Cold Brew,1499.0,1,Indore,Tier 2,yes,3,Yes,Paid,bio_link,88,
+EVT-000576,2026-02-20,SareeStreet,PST-00372,UNKNOWN-CAM,,Smart Lamp,5999.0,2,Delhi NCR,Tier 3,Yes,3,No,Failed,instagram,95,
+EVT-000578,2026-01-31,SareeStreet,PST-00444,CAM-2509-011,BADCODE,Combo Pack,5999.0,4,Lucknow,Tier 1,Unknown,3,Yes,Refunded,instagram,83,Late attribution
+EVT-000579,2025-08-17,CafeCanvas,PST-00537,CAM-2508-024,WELCOME,Dog Treats,1499.0,3,Pune,Tier 1,No,14,No,Pending,paid_social,35,
+EVT-000580,2025-08-24,CafeCanvas,PST-00201,CAM-2510-060,CAF12,Cold Brew,4998.0,4,Hyderabad,Metro,No,1,Yes,Paid,Instagram,43,Late attribution
+EVT-000581,2025-09-06,FitFuel India,PST-00493,UNKNOWN-CAM,,Protein Bar,2998.0,3,Kolkata,Metro,No,30,Yes,Pending,ig_reels,29,Late attribution
+EVT-000582,2025-11-04,SareeStreet,PST-00270,UNKNOWN-CAM,,Protein Bar,11998.0,3,Lucknow,Tier 2,No,14,No,Paid,influencer,72,Coupon mismatch
+EVT-000583,2026-01-12,SareeStreet,PST-00285,UNKNOWN-CAM,,Silk Saree,3998.0,3,Kolkata,Metro,,30,No,Pending,,68,
+EVT-000584,2025-07-21,ByteBazaar,PST-00312,,,Cold Brew,599.0,4,Lucknow,Tier 2,Unknown,30,No,Paid,ig_reels,93,Late attribution
+EVT-000585,2025-11-06,GlowKart,PST-00022,UNKNOWN-CAM,,Silk Saree,1197.0,1,Chennai,Tier 1,yes,1,No,Paid,bio_link,11,Coupon mismatch
+EVT-000586,2025-11-04,CafeCanvas,PST-00487,UNKNOWN-CAM,,Dog Treats,1598.0,2,Indore,Tier 3,Yes,7,No,Pending,paid_social,30,Manual entry
+EVT-000587,2026-02-14,GlowKart,PST-00383,UNKNOWN-CAM,,Protein Bar,2997.0,2,Hyderabad,Tier 1,No,7,Yes,Pending,Instagram,94,Manual entry
+EVT-000588,2025-08-29,SareeStreet,PST-00404,CAM-2508-024,BYT38,Protein Bar,3998.0,4,Hyderabad,Tier 3,Yes,3,No,Pending,Instagram,41,
+EVT-000589,2026-02-25,FitFuel India,PST-00171,,INSTA10,Combo Pack,3999.0,2,Mumbai,Tier 2,,7,Yes,Failed,,31,Late attribution
+EVT-000590,2026-01-23,ByteBazaar,PST-00086,CAM-2508-008,SAR25,Serum A,1598.0,2,Indore,Tier 1,Yes,1,Yes,Failed,instagram,17,Manual entry
+EVT-000591,2025-10-08,SareeStreet,PST-00573,CAM-2510-009,FIT30,Cold Brew,5999.0,3,Chennai,Tier 2,Unknown,14,No,Refunded,ig_reels,68,
+EVT-000592,2025-12-18,FitFuel India,PST-00217,,,Silk Saree,7497.0,3,Hyderabad,Metro,,30,No,Paid,bio_link,91,
+EVT-000593,2025-09-05,GlowKart,PST-00496,,,Dog Treats,1198.0,1,Chennai,Tier 1,Unknown,30,Yes,Paid,Instagram,53,Manual entry
+EVT-000594,2025-10-19,ByteBazaar,PST-00169,UNKNOWN-CAM,,Gift Card,1499.0,2,Delhi NCR,Tier 3,yes,3,No,Failed,Instagram,44,
+EVT-000595,2025-10-16,FitFuel India,PST-00392,UNKNOWN-CAM,,Smart Lamp,399.0,3,Indore,Tier 1,Yes,45,No,Refunded,influencer,45,
+EVT-000596,2025-09-29,ByteBazaar,PST-00550,UNKNOWN-CAM,,Serum A,7998.0,1,Mumbai,Metro,yes,3,No,Paid,influencer,12,Coupon mismatch
+EVT-000597,2025-08-30,GlowKart,PST-00071,CAM-2509-011,SAR37,Combo Pack,1499.0,4,Chennai,Tier 3,yes,30,Yes,Refunded,,17,Manual entry
+EVT-000598,2025-10-05,ByteBazaar,PST-00442,UNKNOWN-CAM,,Combo Pack,1197.0,1,Pune,Tier 2,yes,3,No,Pending,instagram,59,
+EVT-000599,2025-07-19,GlowKart,PST-00213,UNKNOWN-CAM,,Gift Card,1999.0,3,Bengaluru,Tier 2,yes,3,No,Paid,ig_reels,79,Coupon mismatch
+EVT-000601,2025-10-02,SareeStreet,PST-00546,UNKNOWN-CAM,,Gift Card,11998.0,2,Jaipur,Tier 1,Yes,3,Yes,Pending,bio_link,58,Coupon mismatch
+EVT-000602,2025-10-19,GlowKart,PST-00098,,,Silk Saree,1197.0,3,Chennai,Tier 1,yes,14,No,Paid,paid_social,100,Manual entry
+EVT-000603,2026-01-01,CafeCanvas,PST-00168,CAM-2508-024,WELCOME,Protein Bar,1998.0,4,Jaipur,Tier 1,Unknown,7,No,Paid,Instagram,53,Manual entry
+EVT-000604,2026-01-26,CafeCanvas,PST-00595,UNKNOWN-CAM,,Combo Pack,599.0,1,Lucknow,Metro,,14,No,Paid,instagram,5,Manual entry
+EVT-000605,2026-02-25,GlowKart,PST-00324,CAM-2510-019,FIT31,Serum A,1499.0,2,Lucknow,Tier 3,Unknown,7,No,Paid,instagram,46,Late attribution
+EVT-000606,2025-11-12,CafeCanvas,PST-00326,,,Gift Card,799.0,4,Lucknow,Tier 2,Unknown,30,No,Paid,influencer,23,Late attribution
+EVT-000607,2025-12-07,FitFuel India,PST-00075,,BADCODE,Serum A,1797.0,1,Bengaluru,Tier 3,yes,30,No,Paid,bio_link,61,Manual entry
+EVT-000608,2025-11-16,ByteBazaar,PST-00451,CAM-2509-039,WELCOME,Smart Lamp,1499.0,1,Mumbai,Metro,Yes,45,Yes,Paid,instagram,89,Coupon mismatch
+EVT-000610,2025-12-05,SareeStreet,PST-00555,CAM-2512-018,FIT20,Smart Lamp,1499.0,4,Indore,Tier 2,,14,Yes,Failed,influencer,74,Coupon mismatch
+EVT-000611,2025-10-24,FitFuel India,PST-00631,CAM-2511-013,SAR32,Protein Bar,1999.0,4,Delhi NCR,Tier 1,,30,Yes,Paid,Instagram,2,Late attribution
+EVT-000612,2025-09-23,GlowKart,PST-00200,CAM-2510-023,,Silk Saree,1197.0,3,Chennai,Tier 3,No,1,No,Pending,influencer,47,Coupon mismatch
+EVT-000613,2026-02-01,FitFuel India,PST-00147,,,Cold Brew,4998.0,2,Kolkata,Tier 2,No,1,Yes,Refunded,paid_social,96,Coupon mismatch
+EVT-000614,2026-01-10,SareeStreet,PST-00125,,,Protein Bar,3999.0,3,Hyderabad,Tier 1,Unknown,7,No,Refunded,instagram,4,
+EVT-000615,2025-07-22,UrbanPaws,PST-00461,UNKNOWN-CAM,,Protein Bar,1999.0,1,Indore,Metro,Unknown,30,No,Refunded,ig_reels,27,Manual entry
+EVT-000616,2025-09-14,GlowKart,PST-00332,UNKNOWN-CAM,,Silk Saree,5999.0,3,Indore,Tier 2,,45,No,Paid,Instagram,23,Late attribution
+EVT-000617,2025-10-26,GlowKart,PST-00186,CAM-2508-024,BYT38,Gift Card,999.0,2,Indore,Tier 3,Unknown,30,No,Pending,,14,Manual entry
+EVT-000618,2025-12-20,UrbanPaws,PST-00049,,,Silk Saree,2499.0,4,Indore,Tier 1,yes,30,No,Paid,influencer,25,Late attribution
+EVT-000619,2025-11-19,ByteBazaar,PST-00369,,,Silk Saree,798.0,2,Lucknow,Tier 3,No,3,No,Failed,influencer,45,Late attribution
+EVT-000620,2025-10-27,CafeCanvas,PST-00236,CAM-2511-025,BYT38,Silk Saree,1999.0,2,Mumbai,Tier 2,,45,No,Paid,ig_reels,51,Coupon mismatch
+EVT-000621,2025-10-03,CafeCanvas,PST-00184,CAM-2507-026,GLO35,Smart Lamp,1797.0,4,Delhi NCR,Tier 3,Yes,14,Yes,Paid,ig_reels,21,Manual entry
+EVT-000622,2025-12-12,FitFuel India,PST-00566,UNKNOWN-CAM,,Cold Brew,2499.0,3,Chennai,Tier 3,Yes,7,No,Paid,influencer,26,
+EVT-000623,2025-11-01,ByteBazaar,PST-00295,,,Serum A,2397.0,2,Indore,Tier 2,Yes,1,No,Paid,ig_reels,54,
+EVT-000624,2025-08-23,FitFuel India,PST-00005,UNKNOWN-CAM,,Cold Brew,2997.0,4,Jaipur,Tier 3,yes,45,No,Refunded,Instagram,67,Manual entry
+EVT-000625,2025-08-30,GlowKart,PST-00575,CAM-2510-028,GLO12,Smart Lamp,2997.0,1,Lucknow,Tier 3,No,30,No,Paid,bio_link,42,Manual entry
+EVT-000626,2025-12-13,CafeCanvas,PST-00199,UNKNOWN-CAM,,Dog Treats,2397.0,4,Chennai,Tier 2,Unknown,14,No,Paid,Instagram,79,Manual entry
+EVT-000627,2025-11-18,GlowKart,PST-00515,UNKNOWN-CAM,,Combo Pack,798.0,2,Kolkata,Tier 3,,7,Yes,Paid,,79,Late attribution
+EVT-000628,2025-11-21,ByteBazaar,PST-00298,UNKNOWN-CAM,,Silk Saree,17997.0,3,Bengaluru,Tier 2,Yes,30,Yes,Refunded,,34,Late attribution
+EVT-000629,2025-12-26,ByteBazaar,PST-00542,,,Gift Card,999.0,3,Lucknow,Tier 3,Unknown,1,Yes,Refunded,ig_reels,74,Manual entry
+EVT-000630,2025-12-01,ByteBazaar,PST-00140,CAM-2510-045,,Cold Brew,5999.0,1,Kolkata,Tier 2,yes,3,No,Pending,Instagram,32,Manual entry
+EVT-000631,2025-09-28,GlowKart,PST-00292,CAM-2508-046,GLO17,Combo Pack,11997.0,3,Mumbai,Tier 2,Yes,30,No,Failed,Instagram,89,Manual entry
+EVT-000632,2026-02-04,ByteBazaar,PST-00156,CAM-2509-039,GLO19,Serum A,799.0,2,Hyderabad,Tier 3,Unknown,14,Yes,Refunded,instagram,64,Coupon mismatch
+EVT-000633,2026-01-10,CafeCanvas,PST-00264,CAM-2510-028,GLO12,Serum A,1598.0,4,Delhi NCR,Tier 1,Unknown,7,Yes,Refunded,influencer,36,Late attribution
+EVT-000634,2025-12-24,SareeStreet,PST-00555,CAM-2512-018,FIT20,Protein Bar,5999.0,1,Kolkata,Tier 3,,1,No,Paid,,12,
+EVT-000635,2026-01-31,GlowKart,PST-00338,CAM-2509-055,INSTA10,Serum A,1598.0,4,Indore,Tier 1,Unknown,7,Yes,Refunded,,35,Coupon mismatch
+EVT-000637,2026-01-26,CafeCanvas,PST-00001,,,Gift Card,2997.0,4,Delhi NCR,Tier 2,yes,1,Yes,Failed,instagram,95,Manual entry
+EVT-000638,2025-11-24,FitFuel India,PST-00017,CAM-2510-028,GLO12,Gift Card,999.0,3,Bengaluru,Metro,Yes,1,No,Paid,instagram,61,
+EVT-000639,2026-02-05,FitFuel India,PST-00195,CAM-2508-024,BYT38,Gift Card,798.0,4,Jaipur,Tier 3,yes,3,Yes,Failed,bio_link,27,Coupon mismatch
+EVT-000640,2025-11-06,ByteBazaar,PST-00369,CAM-2512-043,,Dog Treats,2499.0,1,Indore,Tier 3,Unknown,3,Yes,Paid,Instagram,94,Manual entry
+EVT-000641,2025-10-23,FitFuel India,PST-00399,,,Dog Treats,5999.0,3,Lucknow,Tier 3,Unknown,1,Yes,Refunded,paid_social,51,Manual entry
+EVT-000642,2026-01-13,ByteBazaar,PST-00050,CAM-2509-039,GLO19,Serum A,5997.0,3,Bengaluru,Metro,,7,No,Pending,Instagram,89,Coupon mismatch
+EVT-000643,2025-07-19,FitFuel India,PST-00373,CAM-2510-021,,Gift Card,1797.0,3,Pune,Tier 1,,1,No,Pending,bio_link,32,Coupon mismatch
+EVT-000644,2025-11-02,CafeCanvas,PST-00340,CAM-2508-038,CAF15,Protein Bar,2998.0,3,Delhi NCR,Metro,,45,No,Refunded,ig_reels,65,
+EVT-000645,2025-11-11,FitFuel India,PST-00014,,INSTA10,Silk Saree,5999.0,4,Bengaluru,Tier 1,yes,3,No,Paid,bio_link,45,Coupon mismatch
+EVT-000646,2025-09-02,SareeStreet,PST-00397,CAM-2507-026,GLO35,Cold Brew,0.0,4,Mumbai,Tier 2,yes,3,Yes,Refunded,influencer,82,Manual entry
+EVT-000647,2025-10-02,CafeCanvas,PST-00617,CAM-2510-045,,Gift Card,3999.0,3,Jaipur,Metro,Yes,1,Yes,Failed,paid_social,72,
+EVT-000648,2025-11-17,ByteBazaar,PST-00067,UNKNOWN-CAM,,Gift Card,7998.0,2,Jaipur,Metro,,3,Yes,Pending,instagram,21,Manual entry
+EVT-000649,2025-09-11,GlowKart,PST-00271,CAM-2512-032,FIT12,Smart Lamp,7497.0,3,Indore,Metro,Yes,1,No,Failed,instagram,38,Late attribution
+EVT-000650,2025-10-09,ByteBazaar,PST-00051,CAM-2511-053,GLO15,Combo Pack,4497.0,3,Indore,Tier 3,,14,Yes,Failed,instagram,20,Coupon mismatch
+EVT-000651,2025-07-29,FitFuel India,PST-00005,CAM-2511-053,GLO15,Combo Pack,1999.0,4,Lucknow,Metro,No,1,No,Paid,ig_reels,90,Late attribution
+EVT-000652,2025-08-24,CafeCanvas,PST-00030,CAM-2507-058,CAF36,Gift Card,999.0,2,Hyderabad,Tier 1,Yes,3,Yes,Failed,bio_link,40,
+EVT-000653,2025-10-28,GlowKart,PST-00564,CAM-2509-051,BYT22,Silk Saree,999.0,1,Bengaluru,Metro,Unknown,7,No,Paid,Instagram,72,
+EVT-000654,2025-11-22,GlowKart,PST-00297,CAM-2507-058,CAF36,Cold Brew,1198.0,3,Chennai,Tier 3,Unknown,1,Yes,Paid,instagram,87,Manual entry
+EVT-000655,2025-10-14,ByteBazaar,PST-00369,CAM-2512-043,,Gift Card,2998.0,1,Indore,Tier 1,No,14,No,Paid,Instagram,29,Manual entry
+EVT-000656,2025-11-20,SareeStreet,PST-00229,CAM-2510-004,GLO18,Cold Brew,5999.0,3,Pune,Tier 1,,30,Yes,Paid,bio_link,85,
+EVT-000657,2025-12-17,GlowKart,PST-00406,CAM-2510-028,GLO12,Combo Pack,399.0,4,Mumbai,Tier 2,No,7,Yes,Failed,bio_link,49,
+EVT-000659,2025-12-28,SareeStreet,PST-00007,CAM-2510-021,,Serum A,4998.0,3,Pune,Tier 1,Yes,30,Yes,Paid,paid_social,29,Coupon mismatch
+EVT-000660,2025-08-30,UrbanPaws,PST-00408,CAM-2507-037,,Protein Bar,999.0,2,Hyderabad,Metro,Yes,1,Yes,Refunded,ig_reels,58,Coupon mismatch
+EVT-000661,2025-10-16,UrbanPaws,PST-00018,CAM-2511-036,SAR37,Serum A,5999.0,1,Jaipur,Tier 1,Yes,45,No,Pending,bio_link,2,Manual entry
+EVT-000662,2025-12-14,GlowKart,PST-00522,CAM-2508-005,FIT22,Silk Saree,11997.0,2,Hyderabad,Metro,yes,7,No,Paid,bio_link,33,Coupon mismatch
+EVT-000663,2025-10-03,SareeStreet,PST-00336,CAM-2507-037,,Dog Treats,4998.0,4,Chennai,Tier 1,,14,No,Paid,,6,Coupon mismatch
+EVT-000664,2026-01-15,FitFuel India,PST-00508,CAM-2510-054,BADCODE,Cold Brew,799.0,4,Hyderabad,Tier 3,,3,No,Failed,instagram,37,Late attribution
+EVT-000665,2025-07-04,SareeStreet,PST-00240,CAM-2507-003,GLO18,Dog Treats,1598.0,4,Chennai,Tier 2,Unknown,7,No,Paid,Instagram,24,Late attribution
+EVT-000666,2025-09-16,CafeCanvas,PST-00062,CAM-2509-050,CAF11,Cold Brew,5999.0,4,Hyderabad,Metro,,14,No,Pending,influencer,54,
+EVT-000667,2026-01-22,CafeCanvas,PST-00595,CAM-2508-024,BYT38,Combo Pack,11997.0,2,Lucknow,Tier 3,,45,No,Refunded,Instagram,98,
+EVT-000668,2025-09-09,CafeCanvas,PST-00291,CAM-2507-048,,Protein Bar,1797.0,1,Pune,Tier 3,No,1,Yes,Pending,instagram,28,Late attribution
+EVT-000669,2026-02-16,GlowKart,PST-00519,CAM-2510-033,URB30,Protein Bar,11998.0,4,Mumbai,Tier 3,Yes,1,Yes,Paid,Instagram,2,Late attribution
+EVT-000670,2025-10-15,GlowKart,PST-00560,UNKNOWN-CAM,,Serum A,399.0,3,Mumbai,Metro,Unknown,3,Yes,Refunded,,34,Manual entry
+EVT-000671,2025-07-16,SareeStreet,PST-00240,CAM-2509-029,SAR31,Gift Card,2998.0,4,Indore,Tier 3,Yes,45,No,Failed,bio_link,80,Late attribution
+EVT-000672,2025-12-07,FitFuel India,PST-00267,,,Smart Lamp,11997.0,3,Hyderabad,Tier 2,yes,14,No,Paid,bio_link,31,Late attribution
+EVT-000673,2025-12-26,CafeCanvas,,,,Smart Lamp,999.0,3,Jaipur,Metro,Yes,7,No,Pending,,27,Manual entry
+EVT-000674,2025-08-10,CafeCanvas,PST-00201,CAM-2510-060,CAF12,Smart Lamp,599.0,4,Kolkata,Tier 3,,7,No,Failed,influencer,29,Manual entry
+EVT-000675,2025-12-04,SareeStreet,PST-00498,CAM-2511-041,SAR26,Silk Saree,2499.0,2,Pune,Metro,Unknown,14,Yes,Refunded,,73,Manual entry
+EVT-000676,2025-08-13,FitFuel India,PST-00211,CAM-2508-052,CAF34,Combo Pack,2997.0,2,Chennai,Metro,Unknown,30,No,Failed,,72,Manual entry
+EVT-000677,2025-10-09,GlowKart,PST-00129,UNKNOWN-CAM,WELCOME,Dog Treats,1998.0,3,Bengaluru,Tier 3,Unknown,30,Yes,Refunded,ig_reels,88,
+EVT-000678,2025-10-18,FitFuel India,PST-00497,CAM-2510-020,BYT29,Serum A,2499.0,1,Delhi NCR,Tier 1,Yes,1,No,Refunded,Instagram,34,Coupon mismatch
+EVT-000679,2025-09-03,UrbanPaws,PST-00563,UNKNOWN-CAM,,Serum A,17997.0,1,Chennai,Tier 2,yes,3,Yes,Paid,ig_reels,9,Coupon mismatch
+EVT-000680,2025-10-17,SareeStreet,PST-00514,UNKNOWN-CAM,,Protein Bar,11997.0,2,Bengaluru,Tier 1,yes,14,Yes,Pending,bio_link,98,Late attribution
+EVT-000681,2025-10-03,CafeCanvas,PST-00266,UNKNOWN-CAM,,Combo Pack,798.0,1,Bengaluru,Metro,Unknown,30,No,Paid,,88,Late attribution
+EVT-000682,2025-09-29,ByteBazaar,PST-00189,CAM-2507-058,CAF36,Combo Pack,0.0,3,Kolkata,Tier 2,Unknown,1,No,Refunded,influencer,85,
+EVT-000683,2025-07-26,FitFuel India,PST-00561,UNKNOWN-CAM,,Serum A,17997.0,1,Lucknow,Tier 2,Unknown,3,No,Paid,bio_link,61,Coupon mismatch
+EVT-000684,2025-12-09,FitFuel India,PST-00089,UNKNOWN-CAM,,Smart Lamp,4497.0,2,Jaipur,Metro,yes,45,Yes,Paid,bio_link,30,Manual entry
+EVT-000685,2025-12-09,CafeCanvas,PST-00177,CAM-2509-039,GLO19,Silk Saree,1797.0,3,Kolkata,Metro,No,30,Yes,Paid,,11,Late attribution
+EVT-000686,2025-10-12,ByteBazaar,PST-00613,,,Gift Card,2397.0,3,Jaipur,Tier 1,,1,No,Failed,instagram,38,Late attribution
+EVT-000687,2025-10-12,SareeStreet,PST-00545,CAM-2510-045,,Silk Saree,3998.0,2,Pune,Tier 3,Unknown,45,No,Pending,Instagram,98,Late attribution
+EVT-000688,2025-12-26,UrbanPaws,PST-00322,CAM-2510-021,,Silk Saree,3999.0,4,Chennai,Tier 2,yes,7,No,Failed,paid_social,76,
+EVT-000689,2025-10-08,SareeStreet,PST-00204,,BADCODE,Cold Brew,2397.0,3,Chennai,Tier 3,Yes,7,No,Paid,bio_link,69,Late attribution
+EVT-000690,2026-01-05,ByteBazaar,PST-00048,UNKNOWN-CAM,,Serum A,2997.0,3,Kolkata,Tier 1,yes,30,Yes,Failed,ig_reels,82,Manual entry
+EVT-000691,2026-01-06,CafeCanvas,PST-00168,,,Protein Bar,2397.0,1,Hyderabad,Tier 2,yes,45,No,Paid,bio_link,7,Late attribution
+EVT-000692,2025-10-24,FitFuel India,PST-00392,CAM-2507-058,CAF36,Cold Brew,3998.0,3,Chennai,Tier 3,No,30,No,Paid,Instagram,100,
+EVT-000693,2025-09-06,GlowKart,PST-00333,UNKNOWN-CAM,,Serum A,1999.0,3,Pune,Tier 1,Unknown,3,No,Pending,Instagram,6,Late attribution
+EVT-000694,2025-10-24,SareeStreet,PST-00229,CAM-2507-034,,Combo Pack,11997.0,4,Delhi NCR,Tier 3,,7,No,Paid,paid_social,66,Late attribution
+EVT-000695,2025-08-20,GlowKart,PST-00222,CAM-2509-029,SAR31,Silk Saree,2397.0,4,Chennai,Metro,No,1,Yes,Paid,ig_reels,99,
+EVT-000696,2025-07-27,CafeCanvas,PST-00537,UNKNOWN-CAM,INSTA10,Protein Bar,3998.0,1,Bengaluru,Tier 1,yes,7,No,Failed,influencer,63,Manual entry
+EVT-000697,2025-10-04,CafeCanvas,PST-00572,UNKNOWN-CAM,,Serum A,11997.0,2,Jaipur,Tier 2,yes,7,No,Paid,bio_link,97,Coupon mismatch
+EVT-000698,2025-12-28,FitFuel India,PST-00276,UNKNOWN-CAM,,Protein Bar,1499.0,4,Mumbai,Tier 2,Yes,1,No,Paid,,19,Late attribution
+EVT-000699,2025-12-25,CafeCanvas,PST-00097,UNKNOWN-CAM,,Protein Bar,999.0,1,Kolkata,Tier 1,No,14,No,Refunded,bio_link,75,Coupon mismatch
+EVT-000700,2026-02-05,FitFuel India,PST-00171,CAM-2511-012,CAF37,Smart Lamp,17997.0,2,Kolkata,Tier 2,No,45,No,Failed,,23,Coupon mismatch
+EVT-000701,2025-12-31,CafeCanvas,PST-00082,CAM-2508-008,SAR25,Gift Card,1797.0,3,Indore,Tier 2,Yes,45,No,Refunded,ig_reels,58,Coupon mismatch
+EVT-000702,2025-12-23,GlowKart,PST-00148,CAM-2512-043,,Silk Saree,11998.0,2,Mumbai,Tier 1,Yes,7,No,Pending,,59,Coupon mismatch
+EVT-000704,2025-09-14,SareeStreet,PST-00500,CAM-2511-053,GLO15,Smart Lamp,1998.0,2,Bengaluru,Metro,yes,30,No,Paid,bio_link,94,
+EVT-000705,2025-09-05,UrbanPaws,PST-00473,,,Gift Card,3998.0,4,Delhi NCR,Tier 2,,3,No,Paid,influencer,51,
+EVT-000706,2025-09-22,CafeCanvas,PST-00628,CAM-2508-040,SAR16,Combo Pack,799.0,2,Delhi NCR,Tier 3,yes,30,Yes,Pending,instagram,33,Late attribution
+EVT-000707,2025-09-05,CafeCanvas,PST-00485,UNKNOWN-CAM,,Silk Saree,799.0,2,Mumbai,Tier 1,,30,No,Paid,instagram,83,Manual entry
+EVT-000708,2026-01-28,CafeCanvas,PST-00293,,WELCOME,Smart Lamp,7497.0,2,Delhi NCR,Metro,Yes,45,No,Refunded,Instagram,73,Coupon mismatch
+EVT-000709,2025-09-29,FitFuel India,PST-00088,CAM-2508-002,,Dog Treats,1598.0,1,Indore,Tier 1,No,1,Yes,Paid,influencer,75,Late attribution
+EVT-000710,2026-02-12,SareeStreet,PST-00444,CAM-2509-011,SAR37,Smart Lamp,3998.0,3,Chennai,Tier 3,,7,Yes,Refunded,bio_link,7,Coupon mismatch
+EVT-000711,2025-09-28,CafeCanvas,PST-00181,CAM-2507-037,,Gift Card,17997.0,3,Pune,Tier 1,Yes,45,No,Failed,ig_reels,44,Late attribution
+EVT-000712,2025-09-12,GlowKart,PST-00577,CAM-2507-026,GLO35,Gift Card,2997.0,1,Indore,Tier 3,Unknown,45,No,Refunded,paid_social,48,
+EVT-000713,2025-11-04,SareeStreet,PST-00357,,,Serum A,5997.0,2,Jaipur,Tier 1,No,7,No,Paid,bio_link,43,Manual entry
+EVT-000714,2026-02-16,ByteBazaar,PST-00073,,,Combo Pack,7497.0,1,Indore,Tier 1,,45,Yes,Pending,bio_link,55,Late attribution
+EVT-000715,2025-08-22,CafeCanvas,PST-00279,CAM-2509-011,SAR37,Protein Bar,11997.0,2,Hyderabad,Tier 2,Unknown,14,Yes,Paid,instagram,32,Coupon mismatch
+EVT-000716,2026-02-14,GlowKart,PST-00476,CAM-2511-025,BYT38,Protein Bar,17997.0,2,Bengaluru,Tier 1,Yes,1,No,Paid,influencer,77,Coupon mismatch
+EVT-000717,2025-08-19,UrbanPaws,PST-00053,CAM-2509-039,GLO19,Protein Bar,3998.0,4,Pune,Tier 1,Yes,1,No,Failed,ig_reels,26,Coupon mismatch
+EVT-000718,2025-07-24,SareeStreet,PST-00585,CAM-2507-037,,Combo Pack,1198.0,3,Bengaluru,Metro,,1,No,Paid,,32,Late attribution
+EVT-000719,2025-09-30,SareeStreet,PST-00545,CAM-2510-045,,Cold Brew,999.0,2,Bengaluru,Tier 2,No,30,Yes,Failed,ig_reels,88,Late attribution
+EVT-000720,2025-07-15,FitFuel India,PST-00547,UNKNOWN-CAM,,Smart Lamp,1197.0,2,Hyderabad,Metro,No,3,No,Pending,,71,Manual entry
+EVT-000721,2025-08-29,GlowKart,PST-00055,UNKNOWN-CAM,,Protein Bar,1797.0,3,Mumbai,Metro,No,30,No,Failed,instagram,75,Late attribution
+EVT-000722,2025-09-12,FitFuel India,PST-00210,CAM-2510-060,CAF12,Gift Card,2998.0,2,Indore,Tier 3,,1,No,Pending,instagram,56,Manual entry
+EVT-000723,2025-08-19,CafeCanvas,PST-00580,CAM-2508-047,GLO17,Combo Pack,1998.0,4,Indore,Tier 1,Unknown,1,Yes,Refunded,ig_reels,71,
+EVT-000724,2025-09-01,SareeStreet,PST-00404,CAM-2508-024,BYT38,Gift Card,1999.0,2,Lucknow,Tier 2,yes,30,No,Pending,influencer,65,Coupon mismatch
+EVT-000725,2026-01-26,UrbanPaws,PST-00317,CAM-2510-060,CAF12,Serum A,4497.0,3,Delhi NCR,Tier 2,No,30,No,Pending,ig_reels,84,
+EVT-000726,2025-12-10,UrbanPaws,PST-00426,,,Serum A,5999.0,1,Chennai,Tier 1,No,45,Yes,Paid,ig_reels,70,Late attribution
+EVT-000727,2026-01-28,CafeCanvas,PST-00390,CAM-2509-050,CAF11,Silk Saree,5997.0,3,Delhi NCR,Tier 3,Unknown,45,No,Refunded,instagram,18,
+EVT-000728,2026-02-25,UrbanPaws,PST-00365,CAM-2511-041,BADCODE,Cold Brew,2499.0,4,Hyderabad,Tier 1,Unknown,7,No,Paid,,82,Late attribution
+EVT-000729,2025-08-25,SareeStreet,PST-00196,CAM-2509-051,BYT22,Combo Pack,7497.0,1,Hyderabad,Tier 3,,3,No,Paid,,72,
+EVT-000730,2026-01-16,CafeCanvas,PST-00144,UNKNOWN-CAM,,Serum A,799.0,3,Hyderabad,Tier 1,No,45,No,Failed,,27,Manual entry
+EVT-000731,2026-01-20,CafeCanvas,PST-00371,CAM-2509-050,CAF11,Smart Lamp,1197.0,2,Delhi NCR,Tier 1,No,3,No,Paid,influencer,22,Coupon mismatch
+EVT-000732,2025-08-10,FitFuel India,PST-00348,CAM-2508-024,BYT38,Dog Treats,1197.0,1,Hyderabad,Tier 1,No,14,No,Refunded,bio_link,12,Late attribution
+EVT-000733,2026-03-15,SareeStreet,PST-00074,CAM-2511-053,GLO15,Smart Lamp,1499.0,3,Indore,Tier 1,No,30,Yes,Refunded,Instagram,21,Late attribution
+EVT-000734,2025-12-08,SareeStreet,PST-00378,CAM-2510-020,BADCODE,Serum A,1598.0,3,Hyderabad,Metro,Unknown,3,No,Refunded,paid_social,99,
+EVT-000735,2025-12-06,FitFuel India,PST-00061,CAM-2511-036,SAR37,Silk Saree,2998.0,1,Chennai,Tier 2,yes,1,Yes,Paid,Instagram,6,Late attribution
+EVT-000736,2025-07-31,SareeStreet,PST-00585,CAM-2507-037,,Gift Card,599.0,1,Pune,Tier 2,Yes,45,No,Paid,,97,Coupon mismatch
+EVT-000737,2025-10-17,CafeCanvas,PST-00371,UNKNOWN-CAM,,Serum A,1197.0,2,Chennai,Metro,yes,3,No,Paid,paid_social,42,
+EVT-000738,2025-07-26,ByteBazaar,PST-00283,CAM-2507-003,GLO18,Silk Saree,1499.0,1,Hyderabad,Tier 3,,30,No,Pending,paid_social,5,Late attribution
+EVT-000739,2025-09-17,CafeCanvas,PST-00370,UNKNOWN-CAM,,Combo Pack,999.0,3,Delhi NCR,Tier 1,yes,3,No,Paid,ig_reels,14,Manual entry
+EVT-000741,2025-08-30,GlowKart,PST-00025,UNKNOWN-CAM,,Smart Lamp,3998.0,3,Jaipur,Tier 1,,1,Yes,Refunded,Instagram,46,Late attribution
+EVT-000742,2025-09-11,FitFuel India,PST-00367,,,Combo Pack,1598.0,3,Jaipur,Metro,,1,No,Pending,bio_link,29,Coupon mismatch
+EVT-000743,2025-10-15,UrbanPaws,PST-00164,CAM-2512-018,FIT20,Gift Card,999.0,2,Mumbai,Tier 3,No,14,No,Failed,ig_reels,21,
+EVT-000744,2026-02-17,CafeCanvas,PST-00078,CAM-2510-060,CAF12,Protein Bar,2397.0,2,Mumbai,Tier 3,Unknown,7,No,Refunded,paid_social,29,
+EVT-000745,2025-08-16,ByteBazaar,PST-00110,CAM-2510-021,,Protein Bar,11998.0,2,Jaipur,Tier 3,Unknown,3,Yes,Paid,bio_link,50,
+EVT-000746,2026-01-28,SareeStreet,PST-00166,UNKNOWN-CAM,,Serum A,5997.0,2,Lucknow,Tier 1,Unknown,3,Yes,Failed,,98,Manual entry
+EVT-000747,2025-09-01,FitFuel India,PST-00541,,,Serum A,5997.0,4,Jaipur,Metro,,14,Yes,Refunded,paid_social,57,Manual entry
+EVT-000748,2025-08-11,CafeCanvas,PST-00124,CAM-2511-012,CAF37,Silk Saree,1197.0,2,Hyderabad,Tier 2,Unknown,30,Yes,Paid,bio_link,70,Late attribution
+EVT-000749,2025-10-10,CafeCanvas,PST-00236,CAM-2511-025,BYT38,Gift Card,1598.0,2,Pune,Metro,yes,30,Yes,Failed,influencer,77,Manual entry
+EVT-000750,2025-09-04,ByteBazaar,PST-00123,UNKNOWN-CAM,,Combo Pack,5997.0,1,Delhi NCR,Metro,Yes,7,Yes,Paid,paid_social,89,Manual entry
+EVT-000751,2025-08-04,FitFuel India,PST-00571,UNKNOWN-CAM,BADCODE,Gift Card,1198.0,4,Indore,Tier 3,yes,45,Yes,Refunded,Instagram,87,Late attribution
+EVT-000752,2025-10-31,GlowKart,PST-00190,,,Gift Card,5999.0,3,Bengaluru,Tier 2,Unknown,7,Yes,Paid,Instagram,80,Coupon mismatch
+EVT-000753,2025-10-20,GlowKart,PST-00560,UNKNOWN-CAM,,Serum A,1998.0,2,Hyderabad,Tier 3,Unknown,14,No,Paid,influencer,8,Late attribution
+EVT-000754,2026-01-20,GlowKart,,CAM-2508-035,,Combo Pack,11998.0,3,Chennai,Tier 1,yes,1,Yes,Paid,bio_link,69,Manual entry
+EVT-000755,2026-02-11,UrbanPaws,PST-00525,UNKNOWN-CAM,,Gift Card,5997.0,1,Hyderabad,Tier 2,,30,No,Refunded,instagram,41,
+EVT-000756,2026-01-29,ByteBazaar,PST-00174,CAM-2508-006,URB13,Cold Brew,4998.0,2,Chennai,Tier 2,yes,45,No,Paid,,74,Manual entry
+EVT-000757,2025-08-24,FitFuel India,PST-00586,CAM-2508-040,INSTA10,Protein Bar,798.0,1,Pune,Tier 3,yes,7,No,Pending,bio_link,51,Coupon mismatch
+EVT-000758,2026-02-16,FitFuel India,PST-00157,CAM-2510-045,WELCOME,Cold Brew,599.0,1,Indore,Metro,No,45,No,Pending,bio_link,33,Manual entry
+EVT-000759,2025-08-25,FitFuel India,PST-00117,UNKNOWN-CAM,,Silk Saree,11998.0,2,Pune,Tier 3,Unknown,14,Yes,Pending,influencer,74,Coupon mismatch
+EVT-000760,2026-02-15,FitFuel India,PST-00157,CAM-2508-006,URB13,Cold Brew,5997.0,2,Delhi NCR,Tier 1,Unknown,7,No,Pending,instagram,36,Late attribution
+EVT-000761,2025-09-20,UrbanPaws,PST-00396,UNKNOWN-CAM,,Cold Brew,11998.0,3,Jaipur,Tier 3,Unknown,7,Yes,Refunded,influencer,1,Coupon mismatch
+EVT-000762,2025-12-13,UrbanPaws,PST-00035,CAM-2510-020,BYT29,Cold Brew,7497.0,1,Hyderabad,Tier 1,No,1,No,Paid,bio_link,19,Manual entry
+EVT-000763,2025-11-18,ByteBazaar,PST-00298,UNKNOWN-CAM,,Protein Bar,5997.0,3,Pune,Tier 2,Unknown,3,No,Pending,influencer,42,Manual entry
+EVT-000764,2025-12-14,GlowKart,PST-00648,CAM-2507-031,,Cold Brew,5999.0,4,Bengaluru,Metro,,7,Yes,Refunded,instagram,75,Manual entry
+EVT-000765,2026-01-07,UrbanPaws,PST-00620,UNKNOWN-CAM,,Protein Bar,1998.0,3,Mumbai,Metro,Yes,1,No,Failed,instagram,82,Late attribution
+EVT-000766,2025-08-14,FitFuel India,PST-00541,UNKNOWN-CAM,,Silk Saree,1499.0,2,Jaipur,Tier 2,No,7,Yes,Failed,influencer,81,Coupon mismatch
+EVT-000767,2026-01-18,SareeStreet,PST-00469,,,Combo Pack,399.0,3,Pune,Tier 3,,45,Yes,Paid,Instagram,40,Coupon mismatch
+EVT-000768,2025-08-25,UrbanPaws,PST-00501,,,Silk Saree,1797.0,3,Mumbai,Metro,No,14,Yes,Pending,,58,Manual entry
+EVT-000769,2026-01-16,FitFuel India,PST-00173,UNKNOWN-CAM,,Protein Bar,399.0,1,Mumbai,Tier 2,Yes,3,Yes,Pending,influencer,64,Coupon mismatch
+EVT-000770,2025-11-03,UrbanPaws,PST-00021,UNKNOWN-CAM,,Gift Card,0.0,4,Bengaluru,Tier 1,yes,3,No,Paid,Instagram,60,Manual entry
+EVT-000771,2026-01-09,GlowKart,PST-00331,,,Combo Pack,1197.0,2,Delhi NCR,Tier 3,Yes,30,No,Paid,bio_link,74,
+EVT-000772,2025-12-20,FitFuel India,PST-00256,,,Smart Lamp,2397.0,3,Pune,Tier 1,yes,3,Yes,Paid,bio_link,95,Late attribution
+EVT-000773,2025-11-09,FitFuel India,PST-00392,CAM-2507-058,CAF36,Smart Lamp,7998.0,4,Lucknow,Metro,yes,45,No,Pending,ig_reels,85,Manual entry
+EVT-000774,2025-10-06,SareeStreet,PST-00546,CAM-2510-028,GLO12,Serum A,2499.0,4,Kolkata,Tier 1,yes,14,No,Paid,influencer,37,Coupon mismatch
+EVT-000775,2025-10-06,ByteBazaar,PST-00361,UNKNOWN-CAM,,Cold Brew,3999.0,3,Bengaluru,Tier 3,,14,Yes,Paid,paid_social,94,Coupon mismatch
+EVT-000776,2025-09-24,ByteBazaar,PST-00601,CAM-2507-030,URB36,Silk Saree,11997.0,4,Mumbai,Tier 2,Unknown,30,No,Paid,influencer,91,
+EVT-000777,2026-01-13,GlowKart,PST-00448,UNKNOWN-CAM,,Cold Brew,1999.0,4,Indore,Tier 2,Unknown,1,Yes,Paid,instagram,56,Manual entry
+EVT-000778,2025-11-04,UrbanPaws,PST-00432,UNKNOWN-CAM,,Gift Card,1999.0,4,Delhi NCR,Metro,Yes,45,No,Failed,instagram,37,Coupon mismatch
+EVT-000779,2025-12-12,CafeCanvas,PST-00199,UNKNOWN-CAM,,Serum A,798.0,1,Indore,Metro,Unknown,14,No,Paid,influencer,63,
+EVT-000780,2025-11-29,ByteBazaar,PST-00103,,,Cold Brew,7497.0,2,Hyderabad,Metro,No,45,No,Paid,ig_reels,90,Manual entry
+EVT-000781,2025-08-15,FitFuel India,PST-00630,CAM-2512-043,,Cold Brew,3999.0,2,Mumbai,Tier 1,Yes,3,Yes,Pending,,47,
+EVT-000782,2025-11-17,SareeStreet,PST-00589,,,Cold Brew,3999.0,2,Chennai,Tier 3,,30,No,Failed,instagram,43,Manual entry
+EVT-000783,2025-10-01,UrbanPaws,PST-00164,CAM-2512-018,FIT20,Protein Bar,1999.0,3,Bengaluru,Tier 2,No,3,No,Paid,instagram,15,
+EVT-000784,2025-11-27,CafeCanvas,PST-00220,,BADCODE,Silk Saree,7497.0,3,Hyderabad,Tier 3,Unknown,14,No,Paid,instagram,69,Manual entry
+EVT-000786,2025-10-29,ByteBazaar,PST-00246,CAM-2510-007,FIT33,Dog Treats,0.0,2,Kolkata,Tier 1,Unknown,45,Yes,Paid,influencer,1,Coupon mismatch
+EVT-000787,2026-01-21,UrbanPaws,PST-00365,UNKNOWN-CAM,,Dog Treats,2997.0,2,Indore,Tier 1,,1,Yes,Refunded,paid_social,53,Late attribution
+EVT-000788,2025-10-31,GlowKart,PST-00059,CAM-2510-033,URB30,Smart Lamp,599.0,3,Delhi NCR,Metro,No,7,No,Failed,paid_social,77,Manual entry
+EVT-000789,2025-09-06,GlowKart,PST-00185,CAM-2511-049,FIT23,Dog Treats,799.0,3,Bengaluru,Tier 3,,14,No,Pending,Instagram,44,Late attribution
+EVT-000790,2026-01-02,UrbanPaws,PST-00167,CAM-2507-056,CAF10,Cold Brew,1598.0,4,Bengaluru,Tier 1,,3,No,Paid,,74,
+EVT-000791,2025-12-28,CafeCanvas,PST-00040,CAM-2511-012,CAF37,Smart Lamp,4497.0,4,Lucknow,Tier 1,Unknown,14,No,Failed,,24,
+EVT-000792,2025-11-11,UrbanPaws,PST-00471,CAM-2511-012,CAF37,Combo Pack,999.0,2,Delhi NCR,Tier 1,No,14,No,Paid,bio_link,56,
+EVT-000793,2025-08-16,SareeStreet,PST-00386,CAM-2507-031,,Protein Bar,11998.0,1,Delhi NCR,Tier 2,Unknown,30,No,Paid,paid_social,92,Manual entry
+EVT-000794,2025-08-14,FitFuel India,PST-00400,CAM-2512-017,WELCOME,Gift Card,2997.0,4,Mumbai,Tier 2,Unknown,1,No,Paid,paid_social,65,
+EVT-000795,2025-12-03,CafeCanvas,PST-00326,UNKNOWN-CAM,,Cold Brew,1598.0,2,Lucknow,Metro,,14,Yes,Failed,paid_social,48,
+EVT-000796,2025-08-06,GlowKart,PST-00627,UNKNOWN-CAM,,Protein Bar,4497.0,1,Indore,Tier 3,Unknown,30,No,Refunded,bio_link,17,Coupon mismatch
+EVT-000797,2026-01-29,CafeCanvas,PST-00264,CAM-2510-028,GLO12,Serum A,1197.0,3,Chennai,Tier 1,,3,No,Paid,Instagram,46,Coupon mismatch
+EVT-000798,2025-11-18,GlowKart,PST-00612,CAM-2510-004,GLO18,Serum A,1198.0,1,Pune,Tier 1,Unknown,3,No,Failed,influencer,66,Manual entry
+EVT-000799,2025-11-23,GlowKart,PST-00059,,,Protein Bar,4497.0,2,Indore,Tier 2,Unknown,7,No,Paid,ig_reels,93,Coupon mismatch
+EVT-000800,2026-01-09,ByteBazaar,PST-00150,CAM-2507-037,,Protein Bar,798.0,4,Lucknow,Tier 1,No,1,No,Refunded,influencer,7,Coupon mismatch
+EVT-000801,2025-11-07,FitFuel India,PST-00503,CAM-2508-038,CAF15,Dog Treats,1197.0,2,Pune,Tier 1,No,7,No,Failed,influencer,55,Manual entry
+EVT-000802,2025-07-29,UrbanPaws,PST-00329,CAM-2507-034,,Serum A,1797.0,2,Kolkata,Tier 1,,14,Yes,Paid,paid_social,11,
+EVT-000803,2025-12-21,GlowKart,PST-00148,,,Smart Lamp,599.0,4,Mumbai,Tier 1,,45,Yes,Paid,instagram,43,Coupon mismatch
+EVT-000804,2025-08-21,CafeCanvas,PST-00037,CAM-2507-003,GLO18,Silk Saree,2397.0,3,Kolkata,Metro,yes,3,Yes,Refunded,Instagram,45,Late attribution
+EVT-000805,2026-02-22,ByteBazaar,PST-00629,UNKNOWN-CAM,,Silk Saree,17997.0,3,Bengaluru,Tier 1,No,7,No,Paid,influencer,45,Late attribution
+EVT-000806,2025-10-28,UrbanPaws,PST-00402,,WELCOME,Protein Bar,999.0,3,Indore,Tier 1,Unknown,3,No,Paid,ig_reels,39,Coupon mismatch
+EVT-000807,2026-01-11,ByteBazaar,PST-00359,CAM-2508-022,BYT14,Dog Treats,1797.0,3,Kolkata,Tier 2,Unknown,1,No,Failed,bio_link,18,
+EVT-000808,2026-01-17,SareeStreet,PST-00166,,,Gift Card,799.0,1,Jaipur,Tier 1,No,14,No,Refunded,instagram,47,
+EVT-000809,2025-08-29,ByteBazaar,PST-00405,UNKNOWN-CAM,INSTA10,Protein Bar,3998.0,1,Jaipur,Tier 2,No,30,No,Paid,ig_reels,100,Late attribution
+EVT-000810,2025-08-29,CafeCanvas,PST-00459,,,Serum A,1999.0,2,Jaipur,Tier 2,,1,No,Paid,,78,Manual entry
+EVT-000811,2026-01-28,FitFuel India,PST-00002,CAM-2512-043,,Serum A,7497.0,2,Chennai,Tier 2,Yes,45,No,Paid,paid_social,77,Manual entry
+EVT-000812,2025-07-25,FitFuel India,PST-00209,,,Combo Pack,11997.0,1,Indore,Tier 2,No,7,No,Refunded,,24,
+EVT-000813,2025-11-28,SareeStreet,PST-00114,UNKNOWN-CAM,,Combo Pack,5997.0,1,Jaipur,Metro,Yes,45,No,Refunded,paid_social,32,Late attribution
+EVT-000815,2025-09-27,GlowKart,PST-00129,UNKNOWN-CAM,,Protein Bar,2397.0,2,Chennai,Tier 1,,14,No,Refunded,instagram,74,Late attribution
+EVT-000816,2025-11-23,FitFuel India,PST-00456,CAM-2508-035,INSTA10,Silk Saree,11997.0,4,Jaipur,Tier 2,yes,30,Yes,Paid,ig_reels,14,Manual entry
+EVT-000817,2025-08-22,FitFuel India,PST-00286,CAM-2510-020,BYT29,Silk Saree,1999.0,2,Delhi NCR,Metro,,3,No,Failed,paid_social,24,Manual entry
+EVT-000818,2026-01-27,SareeStreet,PST-00411,CAM-2510-007,FIT33,Combo Pack,4998.0,1,Hyderabad,Metro,yes,7,No,Paid,ig_reels,47,Manual entry
+EVT-000819,2025-08-28,UrbanPaws,PST-00644,,,Combo Pack,1198.0,1,Hyderabad,Metro,,30,No,Failed,bio_link,14,Late attribution
+EVT-000820,2025-10-27,SareeStreet,PST-00270,UNKNOWN-CAM,,Dog Treats,5999.0,1,Lucknow,Metro,yes,7,No,Paid,influencer,70,Late attribution
+EVT-000821,2025-10-06,FitFuel India,PST-00248,CAM-2510-023,,Smart Lamp,4998.0,1,Hyderabad,Metro,No,7,No,Paid,influencer,87,
+EVT-000822,2026-01-02,UrbanPaws,PST-00035,UNKNOWN-CAM,,Dog Treats,2997.0,1,Bengaluru,Metro,yes,1,No,Pending,paid_social,35,Late attribution
+EVT-000823,2026-01-10,UrbanPaws,PST-00049,,,Combo Pack,399.0,2,Delhi NCR,Metro,yes,7,No,Paid,bio_link,95,Manual entry
+EVT-000824,2026-02-20,CafeCanvas,PST-00535,,,Smart Lamp,2998.0,2,Kolkata,Tier 2,yes,1,No,Pending,influencer,96,Late attribution
+EVT-000825,2026-01-17,ByteBazaar,PST-00605,,,Combo Pack,1197.0,3,Pune,Tier 1,No,14,No,Paid,influencer,50,Manual entry
+EVT-000826,2025-11-14,UrbanPaws,PST-00594,UNKNOWN-CAM,,Smart Lamp,1998.0,3,Chennai,Tier 2,yes,3,Yes,Pending,influencer,14,Coupon mismatch
+EVT-000827,2026-01-01,CafeCanvas,PST-00220,,,Protein Bar,1198.0,3,Kolkata,Tier 3,,7,No,Paid,,36,Coupon mismatch
+EVT-000828,2026-01-11,GlowKart,PST-00375,CAM-2510-045,,Serum A,17997.0,1,Lucknow,Tier 3,Unknown,3,No,Refunded,Instagram,71,
+EVT-000829,2026-02-04,CafeCanvas,PST-00162,,,Dog Treats,999.0,2,Delhi NCR,Tier 2,Yes,45,No,Paid,Instagram,11,Coupon mismatch
+EVT-000830,2025-12-10,CafeCanvas,PST-00557,,,Smart Lamp,7998.0,2,Kolkata,Metro,Yes,1,No,Failed,,84,
+EVT-000831,2025-12-26,GlowKart,PST-00641,CAM-2512-018,FIT20,Smart Lamp,1198.0,1,Delhi NCR,Tier 3,,30,No,Paid,,43,Late attribution
+EVT-000832,2026-01-31,CafeCanvas,PST-00535,CAM-2511-014,SAR20,Combo Pack,799.0,3,Indore,Tier 2,,3,No,Refunded,Instagram,34,Manual entry
+EVT-000833,2025-08-16,CafeCanvas,PST-00201,CAM-2510-060,,Cold Brew,11997.0,1,Lucknow,Metro,Unknown,3,Yes,Failed,Instagram,81,Manual entry
+EVT-000834,2025-08-23,ByteBazaar,PST-00172,,,Protein Bar,1197.0,3,Chennai,Metro,Yes,1,No,Paid,paid_social,70,
+EVT-000835,2025-07-28,FitFuel India,PST-00588,CAM-2511-036,SAR37,Serum A,798.0,4,Hyderabad,Tier 2,,1,No,Pending,bio_link,3,Manual entry
+EVT-000836,2026-01-23,UrbanPaws,PST-00049,,,Protein Bar,3998.0,3,Mumbai,Tier 1,Unknown,30,No,Pending,ig_reels,65,Coupon mismatch
+EVT-000837,2025-07-24,ByteBazaar,PST-00182,CAM-2511-012,CAF37,Protein Bar,11998.0,3,Jaipur,Tier 1,yes,14,Yes,Paid,,99,Late attribution
+EVT-000838,2025-10-20,FitFuel India,PST-00120,CAM-2511-053,GLO15,Cold Brew,1198.0,4,Delhi NCR,Tier 2,yes,45,Yes,Failed,ig_reels,35,
+EVT-000839,2025-11-08,SareeStreet,PST-00372,UNKNOWN-CAM,,Smart Lamp,399.0,1,Chennai,Metro,No,1,Yes,Pending,,71,Late attribution
+EVT-000840,2025-08-04,ByteBazaar,PST-00012,CAM-2507-031,,Dog Treats,4497.0,3,Kolkata,Tier 2,No,3,No,Paid,paid_social,77,
+EVT-000841,2025-12-18,SareeStreet,PST-00114,,,Combo Pack,1198.0,4,Bengaluru,Tier 2,Yes,3,Yes,Refunded,ig_reels,32,
+EVT-000842,2025-12-30,UrbanPaws,PST-00104,UNKNOWN-CAM,,Smart Lamp,4497.0,3,Chennai,Metro,Yes,7,No,Refunded,bio_link,12,Late attribution
+EVT-000843,2026-01-05,CafeCanvas,PST-00356,UNKNOWN-CAM,,Protein Bar,7998.0,4,Indore,Tier 3,Yes,7,No,Refunded,ig_reels,81,Coupon mismatch
+EVT-000844,2025-12-16,SareeStreet,PST-00393,UNKNOWN-CAM,,Cold Brew,5997.0,2,Delhi NCR,Metro,Unknown,7,No,Paid,bio_link,30,Late attribution
+EVT-000845,2025-11-01,CafeCanvas,PST-00326,,,Protein Bar,3999.0,1,Hyderabad,Metro,No,14,Yes,Pending,ig_reels,98,
+EVT-000846,2026-01-30,ByteBazaar,PST-00117,CAM-2510-060,CAF12,Serum A,7497.0,4,Indore,Tier 1,Unknown,3,Yes,Paid,ig_reels,76,Coupon mismatch
+EVT-000847,2026-03-03,UrbanPaws,PST-00152,CAM-2510-059,GLO31,Silk Saree,4998.0,4,Indore,Tier 3,,30,No,Paid,instagram,11,Manual entry
+EVT-000848,2025-08-19,CafeCanvas,PST-00291,CAM-2507-048,BYT20,Cold Brew,3999.0,3,Chennai,Metro,Unknown,14,Yes,Pending,instagram,35,Manual entry
+EVT-000849,2025-12-26,GlowKart,PST-00582,UNKNOWN-CAM,,Serum A,11997.0,3,Mumbai,Tier 1,No,1,No,Refunded,influencer,71,Manual entry
+EVT-000850,2026-02-16,UrbanPaws,PST-00634,UNKNOWN-CAM,,Serum A,2397.0,3,Mumbai,Metro,Unknown,3,No,Paid,ig_reels,97,Coupon mismatch
