@@ -148,7 +148,8 @@ Clean CSVs will be exported to the same directory.
 ## 👤 Author
 
 Built as part of a data analytics portfolio project.
-Connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) · [Instagram](https://instagram.com/YOUR-HANDLE)
+Connect on https://www.linkedin.com/in/shubhodeep-kundu-981a28402
+NOTE :- used Claude for thr readme generation and understanding the datasets.
 
 ---
 
