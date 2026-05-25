@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Instagram Analytics Dashboard — 2025</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600&family=Playfair+Display:wght@400;500&display=swap');
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+  --bg:#0f0f13;--surface:#17171d;--card:#1e1e26;--card2:#23232c;
+  --border:rgba(255,255,255,0.07);--border2:rgba(255,255,255,0.13);
+  --ink:#f0eff5;--ink2:#a09eb8;--ink3:#5e5c72;
+  --pink:#e0607e;--purple:#9b72f7;--teal:#34d4b0;
+  --amber:#f5a623;--blue:#4d9cf8;--coral:#f47b5a;
+}
+
+body{
+  background:#09090d;
+  font-family:'Sora',sans-serif;
+  color:var(--ink);
+  display:flex;flex-direction:column;align-items:center;
+  padding:28px 0 48px;
+  -webkit-print-color-adjust:exact;
+  print-color-adjust:exact;
+}
+
+.page{
+  width:794px;
+  height:1123px;
+  overflow:hidden;
+  background:var(--bg);
+  padding:30px 36px 28px;
+  display:flex;
+  flex-direction:column;
+  position:relative;
+}
+.page+.page{margin-top:20px}
+
+/* accent line at top */
+.page::before{
+  content:'';position:absolute;top:0;left:36px;right:36px;height:2px;
+  background:linear-gradient(90deg,var(--purple),var(--pink),var(--teal));
+}
+
+/* ── Header ── */
+.hdr{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:16px;padding-top:4px;flex-shrink:0}
+.hdr h1{font-family:'Playfair Display',serif;font-size:21px;font-weight:400;color:var(--ink);line-height:1.2}
+.hdr p{font-size:9.5px;color:var(--ink3);margin-top:3px;letter-spacing:.06em;text-transform:uppercase}
+.hdr-r{text-align:right;font-size:9.5px;color:var(--ink3);line-height:1.8}
+.hdr-r strong{display:block;font-size:11px;font-weight:500;color:var(--ink2)}
+
+.divider{height:0.5px;background:var(--border2);margin-bottom:14px;flex-shrink:0}
+
+/* ── Section label ── */
+.sl{font-size:9px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);margin-bottom:6px;flex-shrink:0}
+
+/* ── Metric strip ── */
+.mg{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-bottom:12px;flex-shrink:0}
+.mc{background:var(--card);border:0.5px solid var(--border2);border-radius:8px;padding:10px 12px}
+.mv{font-size:20px;font-weight:500;color:var(--ink);line-height:1.1}
+.ml{font-size:9.5px;color:var(--ink3);margin-top:2px}
+.m-pink{color:var(--pink)}.m-purple{color:var(--purple)}.m-teal{color:var(--teal)}.m-amber{color:var(--amber)}.m-blue{color:var(--blue)}
+
+/* ── Chart cards ── */
+.r2{display:grid;grid-template-columns:1fr 1fr;gap:10px;flex-shrink:0}
+.r3{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:10px;flex-shrink:0}
+.rf{flex-shrink:0}
+
+.card{background:var(--card);border:0.5px solid var(--border2);border-radius:9px;padding:11px 13px;overflow:hidden}
+.ct{font-size:9.5px;font-weight:500;color:var(--ink2);margin-bottom:7px;text-transform:uppercase;letter-spacing:.06em}
+
+.lg{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px}
+.lg span{display:flex;align-items:center;gap:4px;font-size:9px;color:var(--ink2)}
+.ld{width:7px;height:7px;border-radius:1.5px;flex-shrink:0}
+
+.ch{position:relative;width:100%}
+
+/* ── Funnel ── */
+.funnel{display:flex;align-items:flex-end;gap:6px;height:90px;padding:0 4px}
+.fbar{display:flex;flex-direction:column;align-items:center;justify-content:flex-end;flex:1}
+.fb-fill{border-radius:3px 3px 0 0;width:100%}
+.fb-label{font-size:8.5px;color:var(--ink3);margin-top:3px;text-align:center}
+.fb-val{font-size:9.5px;font-weight:500;color:var(--ink);text-align:center}
+
+/* ── Data quality badges ── */
+.dq{display:flex;flex-wrap:wrap;gap:6px;padding-top:9px;border-top:0.5px solid var(--border);flex-shrink:0}
+.dqb{font-size:9px;padding:3px 8px;border-radius:5px;background:var(--card);border:0.5px solid var(--border2);color:var(--ink3)}
+.dqb b{color:var(--ink2);font-weight:500}
+
+/* Spacers */
+.g8{height:8px;flex-shrink:0}.g10{height:10px;flex-shrink:0}.g12{height:12px;flex-shrink:0}
+
+/* ── Footer ── */
+.ft{margin-top:auto;padding-top:9px;border-top:0.5px solid var(--border);display:flex;justify-content:space-between;align-items:center;font-size:8.5px;color:var(--ink3);flex-shrink:0}
+
+/* ── Page 2 ── */
+.p2hdr{display:flex;align-items:center;justify-content:space-between;padding-bottom:11px;border-bottom:0.5px solid var(--border2);margin-bottom:12px;flex-shrink:0}
+.p2hdr h2{font-family:'Playfair Display',serif;font-size:16px;font-weight:400}
+.p2hdr span{font-size:9px;color:var(--ink3)}
+
+.ir{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;flex-shrink:0}
+.ic{background:var(--card);border:0.5px solid var(--border2);border-radius:9px;padding:11px 13px;border-top:2px solid var(--purple)}
+.ic.pk{border-top-color:var(--pink)}.ic.tl{border-top-color:var(--teal)}
+.ic.am{border-top-color:var(--amber)}.ic.bl{border-top-color:var(--blue)}.ic.co{border-top-color:var(--coral)}
+.in{font-size:21px;font-weight:500;line-height:1;color:var(--ink)}
+.it{font-size:10px;font-weight:500;color:var(--ink2);margin:5px 0 3px}
+.ib{font-size:9px;color:var(--ink3);line-height:1.55}
+
+@media print{
+  body{background:#09090d;padding:0}
+  .page{page-break-after:always}
+  .page+.page{margin-top:0}
+}
+</style>
+</head>
+<body>
+
+<!-- ════ PAGE 1 ════ -->
+<div class="page">
+
+  <div class="hdr">
+    <div>
+      <h1>Instagram Analytics Dashboard</h1>
+      <p>6 accounts · organic, paid &amp; influencer · Jul–Dec 2025</p>
+    </div>
+    <div class="hdr-r">
+      <strong>Cleaned Dataset</strong>
+      643 posts · 850 conversions<br>
+      60 campaigns · 350 survey responses<br>
+      Validated with Python + pandas
+    </div>
+  </div>
+  <div class="divider"></div>
+
+  <!-- Metric strip -->
+  <p class="sl">Key metrics</p>
+  <div class="mg">
+    <div class="mc"><div class="mv m-purple">11.0M</div><div class="ml">Total reach</div></div>
+    <div class="mc"><div class="mv m-pink">542K</div><div class="ml">Total engagement</div></div>
+    <div class="mc"><div class="mv m-teal">4.38%</div><div class="ml">Avg engagement rate</div></div>
+    <div class="mc"><div class="mv m-amber">₹1.99L</div><div class="ml">Revenue (7d window)</div></div>
+    <div class="mc"><div class="mv m-blue">132K</div><div class="ml">Net follower gain</div></div>
+  </div>
+
+  <div class="g8"></div>
+
+  <!-- Content type + Account reach -->
+  <p class="sl">Content performance &amp; account reach</p>
+  <div class="r2">
+    <div class="card">
+      <p class="ct">Avg reach by content type</p>
+      <div class="lg">
+        <span><span class="ld" style="background:#9b72f7"></span>Reel</span>
+        <span><span class="ld" style="background:#34d4b0"></span>Carousel</span>
+        <span><span class="ld" style="background:#4d9cf8"></span>Live</span>
+        <span><span class="ld" style="background:#f5a623"></span>Static</span>
+        <span><span class="ld" style="background:#5e5c72"></span>Story</span>
+      </div>
+      <div class="ch" style="height:155px">
+        <canvas id="c1" role="img" aria-label="Avg reach by content type. Reel 25511, Live 17850, Carousel 14430, Static 10809, Story 9297.">Reel 25511, Carousel 14430, Story 9297.</canvas>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">Avg reach by account</p>
+      <div class="ch" style="height:178px">
+        <canvas id="c2" role="img" aria-label="Avg reach by account. CafeCanvas 19687, ByteBazaar 18328, UrbanPaws 18120, GlowKart 16485, SareeStreet 15550, FitFuel 15560.">CafeCanvas 19687, ByteBazaar 18328.</canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="g10"></div>
+
+  <!-- ER + Boosted + Revenue -->
+  <p class="sl">Engagement, boost effect &amp; revenue</p>
+  <div class="r3">
+    <div class="card">
+      <p class="ct">Avg engagement rate by type</p>
+      <div class="ch" style="height:140px">
+        <canvas id="c3" role="img" aria-label="Engagement rate. Carousel 6.2%, Reel 5.3%, Live 3.3%, Static 3.1%, Story 2.3%.">Carousel 6.2%, Reel 5.3%.</canvas>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">Boosted vs organic reach</p>
+      <div class="lg">
+        <span><span class="ld" style="background:#9b72f7"></span>Boosted</span>
+        <span><span class="ld" style="background:#34d4b0"></span>Organic</span>
+      </div>
+      <div class="ch" style="height:104px">
+        <canvas id="c4" role="img" aria-label="Boosted avg reach 22071 vs Organic 15211.">Boosted 22071, Organic 15211.</canvas>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">Revenue by account (7d)</p>
+      <div class="ch" style="height:104px">
+        <canvas id="c5" role="img" aria-label="Revenue. SareeStreet 48572, CafeCanvas 41780, ByteBazaar 41689, GlowKart 36182, FitFuel 25788, UrbanPaws 5896.">SareeStreet 48572, CafeCanvas 41780.</canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="g10"></div>
+
+  <!-- Funnel + Monthly follower trend -->
+  <p class="sl">Conversion funnel &amp; monthly follower growth</p>
+  <div class="r2">
+    <div class="card">
+      <p class="ct">Avg per-post funnel</p>
+      <div class="funnel" id="funnel">
+        <div class="fbar"><div class="fb-val">17,142</div><div class="fb-fill" style="height:90px;background:#9b72f7;opacity:.85"></div><div class="fb-label">Reach</div></div>
+        <div class="fbar"><div class="fb-val">362</div><div class="fb-fill" style="height:19px;background:#e0607e;opacity:.85"></div><div class="fb-label">Profile<br>Visits</div></div>
+        <div class="fbar"><div class="fb-val">100</div><div class="fb-fill" style="height:6px;background:#34d4b0;opacity:.85"></div><div class="fb-label">Link<br>Clicks</div></div>
+        <div class="fbar"><div class="fb-val">45</div><div class="fb-fill" style="height:3px;background:#f5a623;opacity:.85"></div><div class="fb-label">Follows</div></div>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">Monthly net follower gain</p>
+      <div class="ch" style="height:120px">
+        <canvas id="c6" role="img" aria-label="Monthly follower gain. Jul 20038, Aug 18423, Sep 19289, Oct 12753, Nov 20150, Dec 19061, Jan 23119.">Jul 20038, Aug 18423, Nov 20150, Jan 23119.</canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="g10"></div>
+  <p class="sl">Data quality</p>
+  <div class="dq">
+    <div class="dqb">Duplicate posts removed <b>25</b></div>
+    <div class="dqb">Duplicate conversions removed <b>16</b></div>
+    <div class="dqb">Negative revenue rows removed <b>14</b></div>
+    <div class="dqb">TBD budgets flagged <b>3</b></div>
+    <div class="dqb">Invalid campaign dates <b>3</b></div>
+    <div class="dqb">Labels normalised <b>Boosted · Approval · Content type</b></div>
+  </div>
+
+  <div class="ft">
+    <span>Cleaned with Python · pandas · 5 CSVs exported for Power BI</span>
+    <span>Page 1 of 2</span>
+  </div>
+</div>
+
+
+<!-- ════ PAGE 2 ════ -->
+<div class="page">
+
+  <div class="p2hdr">
+    <h2>Campaign Analysis &amp; Audience Insights</h2>
+    <span>Instagram Analytics · Jul–Dec 2025</span>
+  </div>
+
+  <!-- Campaign objectives + survey discovery -->
+  <p class="sl">Campaign mix &amp; audience discovery</p>
+  <div class="r2" style="margin-bottom:10px">
+    <div class="card">
+      <p class="ct">Campaign objectives (60 total)</p>
+      <div class="lg">
+        <span><span class="ld" style="background:#9b72f7"></span>Approved 55%</span>
+        <span><span class="ld" style="background:#e0607e"></span>Rejected 27%</span>
+        <span><span class="ld" style="background:#5e5c72"></span>Pending 18%</span>
+      </div>
+      <div class="ch" style="height:148px">
+        <canvas id="c7" role="img" aria-label="Objectives. Awareness 12, Traffic 11, Follower Growth 10, Conversions 9, Engagement 9, Reach 9.">Awareness 12, Traffic 11, Follower Growth 10.</canvas>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">How followers discover accounts</p>
+      <div class="ch" style="height:165px">
+        <canvas id="c8" role="img" aria-label="Discovery. Friend 63, Reels 59, Influencer 51, Explore 47, Giveaway 47, Search 44, Ad 39.">Friend 63, Reels 59, Influencer 51.</canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Algorithm + Purchase intent + Content preference -->
+  <p class="sl">Algorithm impact &amp; survey signals</p>
+  <div class="r3" style="margin-bottom:10px">
+    <div class="card">
+      <p class="ct">Algorithm change — follower impact</p>
+      <div class="lg">
+        <span><span class="ld" style="background:#9b72f7"></span>Normal days</span>
+        <span><span class="ld" style="background:#e0607e"></span>Change days</span>
+      </div>
+      <div class="ch" style="height:108px">
+        <canvas id="c9" role="img" aria-label="Avg follower gain. Normal 217, Algorithm change days 27.">Normal 217, Algorithm change 27.</canvas>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">Purchase intent by city tier</p>
+      <div class="ch" style="height:118px">
+        <canvas id="c10" role="img" aria-label="Purchase intent. Tier 3: 3.71, Tier 1: 3.54, Tier 2: 3.42, Metro: 2.73.">Tier3 3.71, Tier1 3.54, Metro 2.73.</canvas>
+      </div>
+    </div>
+    <div class="card">
+      <p class="ct">Primary interest (survey)</p>
+      <div class="ch" style="height:118px">
+        <canvas id="c11" role="img" aria-label="Interests. Food 48, Fashion 47, Education 47, Tech 46, Beauty 44.">Food 48, Fashion 47, Education 47.</canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Narrative insights -->
+  <p class="sl">Narrative insights</p>
+  <div class="ir" style="margin-bottom:9px">
+    <div class="ic pk">
+      <div class="in">2.1×</div>
+      <div class="it">Reels reach advantage</div>
+      <div class="ib">Reels deliver 2.1× more average reach than Stories and 74% more than Carousels — but Carousels win on engagement rate at 6.2%.</div>
+    </div>
+    <div class="ic">
+      <div class="in">45%</div>
+      <div class="it">Boosted reach uplift</div>
+      <div class="ib">Boosted posts hit avg reach of 22K vs 15K organic — a 45% uplift. Yet organic ER (4.4%) slightly outperforms boosted (4.3%).</div>
+    </div>
+    <div class="ic tl">
+      <div class="in">87%</div>
+      <div class="it">Funnel drop-off</div>
+      <div class="ib">Only 2.1% of reached users visit the profile; 45 follows per 17K reach = 0.26% conversion — link-click CTR is the bottleneck.</div>
+    </div>
+  </div>
+  <div class="ir" style="margin-bottom:10px">
+    <div class="ic am">
+      <div class="in">−88%</div>
+      <div class="it">Algorithm day impact</div>
+      <div class="ib">On algorithm-change days (48 of 653 tracked) avg daily follower gain crashes from 217 to just 27 — a strategic pause signal.</div>
+    </div>
+    <div class="ic bl">
+      <div class="in">Tier 3</div>
+      <div class="it">Highest purchase intent</div>
+      <div class="ib">Tier 3 city audiences score 3.71/5 on purchase intent vs Metro at 2.73 — under-served, high-intent segment to prioritise.</div>
+    </div>
+    <div class="ic co">
+      <div class="in">Friend</div>
+      <div class="it">Top discovery source</div>
+      <div class="ib">Word-of-mouth (63 responses) beats Reels and Influencer as the #1 discovery channel — invest in shareable content formats.</div>
+    </div>
+  </div>
+
+  <!-- Recommendation table -->
+  <p class="sl">Recommendations for client</p>
+  <div class="card rf">
+    <table style="width:100%;font-size:9.5px;border-collapse:collapse;color:var(--ink3)">
+      <thead>
+        <tr style="border-bottom:0.5px solid var(--border2)">
+          <th style="text-align:left;padding:5px 8px;color:var(--ink2);font-weight:500;width:28%">Focus area</th>
+          <th style="text-align:left;padding:5px 8px;color:var(--ink2);font-weight:500">Action</th>
+          <th style="text-align:left;padding:5px 8px;color:var(--ink2);font-weight:500;width:20%">Expected impact</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:0.5px solid var(--border)"><td style="padding:5px 8px;color:var(--ink2)">Content mix</td><td style="padding:5px 8px">Shift 30% of Static budget to Carousels — higher ER at comparable spend</td><td style="padding:5px 8px">+1–2% ER</td></tr>
+        <tr style="border-bottom:0.5px solid var(--border)"><td style="padding:5px 8px;color:var(--ink2)">Geo targeting</td><td style="padding:5px 8px">Run Tier 2 &amp; 3 city campaigns; purchase intent 3.5+ vs Metro 2.7</td><td style="padding:5px 8px">Higher CVR</td></tr>
+        <tr style="border-bottom:0.5px solid var(--border)"><td style="padding:5px 8px;color:var(--ink2)">Algorithm events</td><td style="padding:5px 8px">Pause paid boosts on detected algorithm-change days to preserve organic reach</td><td style="padding:5px 8px">Reduce waste</td></tr>
+        <tr style="border-bottom:0.5px solid var(--border)"><td style="padding:5px 8px;color:var(--ink2)">Shareability</td><td style="padding:5px 8px">Add referral hooks to Reels captions — word-of-mouth is the #1 discovery channel</td><td style="padding:5px 8px">Lower CAC</td></tr>
+        <tr><td style="padding:5px 8px;color:var(--ink2)">UTM hygiene</td><td style="padding:5px 8px">82 posts flagged "Missing UTMs" — fix before next campaign to close attribution gap</td><td style="padding:5px 8px">Better ROI data</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="ft">
+    <span>5 clean CSVs: IG_Posts_Clean · IG_Conversions_Clean · IG_Campaigns_Clean · IG_Daily_Clean · IG_Survey_Clean</span>
+    <span>Page 2 of 2</span>
+  </div>
+</div>
+
+<script>
+const ink='#f0eff5', ink2='#a09eb8', ink3='#5e5c72';
+const gr='rgba(255,255,255,0.05)', bd='rgba(255,255,255,0.12)';
+
+const base={
+  responsive:true,maintainAspectRatio:false,
+  plugins:{
+    legend:{display:false},
+    tooltip:{backgroundColor:'#1e1e26',borderColor:'rgba(255,255,255,0.1)',borderWidth:1,titleColor:ink,bodyColor:ink2,padding:8}
+  }
+};
+const xA=(rot=0)=>({ticks:{color:ink2,font:{size:9},autoSkip:false,maxRotation:rot},grid:{display:false},border:{color:bd}});
+const yA=()=>({ticks:{color:ink2,font:{size:9}},grid:{color:gr},border:{color:'transparent'},beginAtZero:true});
+
+new Chart(document.getElementById('c1'),{
+  type:'bar',
+  data:{
+    labels:['Reel','Live','Carousel','Static','Story'],
+    datasets:[{data:[25511,17850,14430,10809,9297],
+      backgroundColor:['#9b72f7','#4d9cf8','#34d4b0','#f5a623','#5e5c72'],
+      borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,scales:{x:xA(0),y:yA()}}
+});
+
+new Chart(document.getElementById('c2'),{
+  type:'bar',
+  data:{
+    labels:['CafeCanvas','ByteBazaar','UrbanPaws','GlowKart','SareeStreet','FitFuel'],
+    datasets:[{data:[19687,18328,18120,16485,15550,15560],backgroundColor:'#9b72f7',borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,indexAxis:'y',
+    scales:{
+      x:{ticks:{color:ink2,font:{size:9}},grid:{color:gr},border:{color:'transparent'},beginAtZero:true},
+      y:{ticks:{color:ink2,font:{size:9}},grid:{display:false},border:{color:bd}}
+    }
+  }
+});
+
+new Chart(document.getElementById('c3'),{
+  type:'bar',
+  data:{
+    labels:['Carousel','Reel','Live','Static','Story'],
+    datasets:[{data:[6.2,5.3,3.3,3.1,2.3],
+      backgroundColor:['#34d4b0','#9b72f7','#4d9cf8','#f5a623','#5e5c72'],
+      borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,scales:{x:xA(0),y:{...yA(),max:8}}}
+});
+
+new Chart(document.getElementById('c4'),{
+  type:'doughnut',
+  data:{
+    labels:['Boosted','Organic'],
+    datasets:[{data:[22071,15211],backgroundColor:['#9b72f7','#34d4b0'],borderWidth:0,hoverOffset:4}]
+  },
+  options:{...base,cutout:'72%'}
+});
+
+new Chart(document.getElementById('c5'),{
+  type:'bar',
+  data:{
+    labels:['SareeStreet','CafeCanvas','ByteBazaar','GlowKart','FitFuel','UrbanPaws'],
+    datasets:[{data:[48572,41780,41689,36182,25788,5896],backgroundColor:'#e0607e',borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,indexAxis:'y',
+    scales:{
+      x:{ticks:{color:ink2,font:{size:9},callback:v=>'₹'+(v/1000).toFixed(0)+'K'},grid:{color:gr},border:{color:'transparent'},beginAtZero:true},
+      y:{ticks:{color:ink2,font:{size:9}},grid:{display:false},border:{color:bd}}
+    }
+  }
+});
+
+new Chart(document.getElementById('c6'),{
+  type:'line',
+  data:{
+    labels:['Jul','Aug','Sep','Oct','Nov','Dec','Jan'],
+    datasets:[{data:[20038,18423,19289,12753,20150,19061,23119],
+      borderColor:'#9b72f7',backgroundColor:'rgba(155,114,247,0.1)',
+      fill:true,tension:.4,pointBackgroundColor:'#9b72f7',pointRadius:3,pointHoverRadius:5,borderWidth:2}]
+  },
+  options:{...base,scales:{x:xA(0),y:yA()}}
+});
+
+new Chart(document.getElementById('c7'),{
+  type:'bar',
+  data:{
+    labels:['Awareness','Traffic','Flwr Growth','Conversions','Engagement','Reach'],
+    datasets:[{data:[12,11,10,9,9,9],backgroundColor:'#9b72f7',borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,scales:{x:xA(30),y:{...yA(),max:15}}}
+});
+
+new Chart(document.getElementById('c8'),{
+  type:'bar',
+  data:{
+    labels:['Friend','Reels','Influencer','Explore','Giveaway','Search','Ad'],
+    datasets:[{data:[63,59,51,47,47,44,39],backgroundColor:'#34d4b0',borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,indexAxis:'y',
+    scales:{
+      x:{ticks:{color:ink2,font:{size:9}},grid:{color:gr},border:{color:'transparent'},beginAtZero:true},
+      y:{ticks:{color:ink2,font:{size:9}},grid:{display:false},border:{color:bd}}
+    }
+  }
+});
+
+new Chart(document.getElementById('c9'),{
+  type:'bar',
+  data:{
+    labels:['Normal days','Algorithm\nchange days'],
+    datasets:[{data:[217,27],backgroundColor:['#9b72f7','#e0607e'],borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,scales:{x:xA(0),y:yA()}}
+});
+
+new Chart(document.getElementById('c10'),{
+  type:'bar',
+  data:{
+    labels:['Tier 3','Tier 1','Tier 2','Metro'],
+    datasets:[{data:[3.71,3.54,3.42,2.73],backgroundColor:'#f5a623',borderRadius:4,borderSkipped:false}]
+  },
+  options:{...base,scales:{x:xA(0),y:{...yA(),min:2,max:4.5}}}
+});
+
+new Chart(document.getElementById('c11'),{
+  type:'doughnut',
+  data:{
+    labels:['Food','Fashion','Education','Tech','Beauty','Fitness'],
+    datasets:[{data:[48,47,47,46,44,38],
+      backgroundColor:['#9b72f7','#e0607e','#34d4b0','#4d9cf8','#f5a623','#f47b5a'],
+      borderWidth:0,hoverOffset:4}]
+  },
+  options:{...base,cutout:'68%'}
+});
+</script>
+</body>
+</html>
